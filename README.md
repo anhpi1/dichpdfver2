@@ -5,8 +5,8 @@ Pipeline này giúp trích xuất nội dung từ file PDF và dịch sang tiế
 ![img](img/Screenshot%202026-05-20%20214649.png)
 ## Yêu cầu
 
+- MinerU desktop
 - **Python 3.10** (bắt buộc)
-- GPU khuyến nghị cho bước 3.2 (dịch dòng dài bằng mô hình T5)
 - Kết nối internet cho bước 3.1 (Google Translate API)
 
 ### Cài đặt thư viện
