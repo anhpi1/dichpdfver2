@@ -1,0 +1,80 @@
+The June 03, 2002 Pathloss program build introduces pathloss data (pl4) file locking and network (gr4) file
+sharing when these files are located on a shared network drive. The locking and sharing is activated if the
+root drive containing the network or pathloss data file is a remote drive. Note that this can fail on a peer to
+peer network, if a drive is accessed as a local drive.
+the file, a prompt is issued that the file is
+mode. It is not possible to save the file un-
+To enable network (gr4) file sharing, select Files - Shared file operation on the network menu bar. This step
+must be carried out before loading a network file. To enable network file sharing after a file has been load-
+ed, select Files - New and then select Files - Shared file operation. Then reload the file. The shared setting
+In this mode, a file cannot be saved if the following conditions are not met.
+• Each site must have a unique call sign. This is a 15 character identifier and cannot be blank. The same
+call sign cannot be used at different sites. The call sign serves as a unique identifier to determine
+• The revision date of the file on disk must be the same as the file in memory. Another users changes can-
+The sharing mechanism uses a file with the same name as the network file with the extension glk. This file
+will be referred to a glk file in the following descriptions and the file contains the following information:
+• a list of all users who have opened the network file
+• a series of records containing the changes made to the file . These records are used to update the indi-
+The glk file is created when the first user opens the network file. At this point the file contains the name of
+the user and the revision date. The change number is set to zero. The program will then begin to monitor
+the glk file at 30 second intervals to determine if the revsion date has changed.
+The glk file is deleted when the last user closes the network file.
+The June 03, 2002 Pathloss program build introduces pathloss data (pl4) file locking and network (gr4) file
+sharing when these files are located on a shared network drive. The locking and sharing is activated if the
+root drive containing the network or pathloss data file is a remote drive. Note that this can fail on a peer to
+peer network, if a drive is accessed as a local drive.
+the file, a prompt is issued that the file is
+mode. It is not possible to save the file un-
+To enable network (gr4) file sharing, select Files - Shared file operation on the network menu bar. This step
+must be carried out before loading a network file. To enable network file sharing after a file has been load-
+ed, select Files - New and then select Files - Shared file operation. Then reload the file. The shared setting
+In this mode, a file cannot be saved if the following conditions are not met.
+• Each site must have a unique call sign. This is a 15 character identifier and cannot be blank. The same
+call sign cannot be used at different sites. The call sign serves as a unique identifier to determine
+• The revision date of the file on disk must be the same as the file in memory. Another users changes can-
+The sharing mechanism uses a file with the same name as the network file with the extension glk. This file
+will be referred to a glk file in the following descriptions and the file contains the following information:
+• a list of all users who have opened the network file
+• a series of records containing the changes made to the file . These records are used to update the indi-
+The glk file is created when the first user opens the network file. At this point the file contains the name of
+the user and the revision date. The change number is set to zero. The program will then begin to monitor
+the glk file at 30 second intervals to determine if the revsion date has changed.
+The glk file is deleted when the last user closes the network file.
+Once the network file has been opened by the first
+user all other users opening the file will be present-
+ed with a list of users who have opened the file
+open. The new users are added to the user list and
+Suppose a user makes some changes to the file and
+• the Pathloss file associated with the link has been
+When the file is saved, a record of the changes is first
+created by comparing the file in memory with the file
+on disk. The glk file will be updated with the new re-
+vision date, and the record of changes will be append-
+glk file every 30 seconds and if a change has oc-
+curred, the user is notified with the list of changes.
+The changes are made directly from the glk file. The
+display will not be reformated. All of the changes in the glk file will be made.
+The complete file will be reloaded and the display will be reformatted. The reload file option is only avail-
+If the cancel button is clicked, the user can update the file by returning to the network or mapgrid module
+and reloading the file using Files - Open or selecting Files - Shared File Status. The latter produces the same
+display and options as a change notification in the network or mapgrid modules
+Only one change notification is issued even if the user decides to not re-load the file. Once the file has been
+Once the network file has been opened by the first
+user all other users opening the file will be present-
+ed with a list of users who have opened the file
+open. The new users are added to the user list and
+Suppose a user makes some changes to the file and
+• the Pathloss file associated with the link has been
+When the file is saved, a record of the changes is first
+created by comparing the file in memory with the file
+on disk. The glk file will be updated with the new re-
+vision date, and the record of changes will be append-
+glk file every 30 seconds and if a change has oc-
+curred, the user is notified with the list of changes.
+The changes are made directly from the glk file. The
+display will not be reformated. All of the changes in the glk file will be made.
+The complete file will be reloaded and the display will be reformatted. The reload file option is only avail-
+If the cancel button is clicked, the user can update the file by returning to the network or mapgrid module
+and reloading the file using Files - Open or selecting Files - Shared File Status. The latter produces the same
+display and options as a change notification in the network or mapgrid modules
+Only one change notification is issued even if the user decides to not re-load the file. Once the file has been

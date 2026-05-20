@@ -1,0 +1,5435 @@
+{
+  "pdf_info": [
+    {
+      "preproc_blocks": [
+        {
+          "bbox": [
+            194,
+            68,
+            434,
+            86
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 2,
+          "lines": [
+            {
+              "bbox": [
+                194,
+                64,
+                435,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    194,
+                    64,
+                    435,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "Khóa và chia sẻ tập tin Pathloss",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            57,
+            91,
+            568,
+            147
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 3,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                91,
+                568,
+                106
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    91,
+                    568,
+                    106
+                  ],
+                  "type": "text",
+                  "content": "Bản dựng chương trình Pathloss ngày 3 tháng 6 năm 2002 giới thiệu khoá tập tin dữ liệu pathloss (pl 4) và tập tin mạng (gr 4)",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                106,
+                567,
+                121
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    106,
+                    567,
+                    121
+                  ],
+                  "type": "text",
+                  "content": "chia sẻ khi các tập tin này nằm trên một ổ đĩa mạng đã chia sẻ. Việc khóa và chia sẻ được kích hoạt nếu",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                119,
+                568,
+                136
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    119,
+                    568,
+                    136
+                  ],
+                  "type": "text",
+                  "content": "ổ đĩa gốc chứa tập tin dữ liệu mạng hay mất đường dẫn là một ổ đĩa từ xa. Chú ý rằng điều này có thể thất bại trên một thiết bị ngang hàng",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                133,
+                310,
+                150
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    133,
+                    310,
+                    150
+                  ],
+                  "type": "text",
+                  "content": "ngang hàng, nếu một ổ đĩa được truy cập như là một ổ đĩa cục bộ.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            162,
+            243,
+            178
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 4,
+          "lines": [
+            {
+              "bbox": [
+                58,
+                159,
+                243,
+                180
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    159,
+                    243,
+                    180
+                  ],
+                  "type": "text",
+                  "content": "Khóa tập tin dữ liệu Pathloss (pl4)",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            57,
+            181,
+            259,
+            321
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 5,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                180,
+                248,
+                195
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    180,
+                    248,
+                    195
+                  ],
+                  "type": "text",
+                  "content": "Cơ chế khóa, tạo ra một cái mới",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                195,
+                249,
+                208
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    195,
+                    249,
+                    208
+                  ],
+                  "type": "text",
+                  "content": "tập tin có cùng tên với Pathloss",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                209,
+                248,
+                223
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    209,
+                    248,
+                    223
+                  ],
+                  "type": "text",
+                  "content": "các tệp dữ liệu có phần mở rộng lck. Khi nào",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                223,
+                245,
+                236
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    223,
+                    245,
+                    236
+                  ],
+                  "type": "text",
+                  "content": "người dùng đóng tập tin này, tập tin khóa là",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                236,
+                251,
+                252
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    236,
+                    251,
+                    252
+                  ],
+                  "type": "text",
+                  "content": "bị xóa. Nếu người dùng khác cố gắng mở",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                251,
+                256,
+                264
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    251,
+                    256,
+                    264
+                  ],
+                  "type": "text",
+                  "content": "tập tin, một nhắc nhở được đưa ra rằng tập tin là",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                265,
+                245,
+                280
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    265,
+                    245,
+                    280
+                  ],
+                  "type": "text",
+                  "content": "đang được sử dụng và sẽ được mở ở dạng chỉ đọc",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                280,
+                258,
+                292
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    280,
+                    258,
+                    292
+                  ],
+                  "type": "text",
+                  "content": "chế độ. Không thể lưu tập tin un-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                293,
+                256,
+                307
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    293,
+                    256,
+                    307
+                  ],
+                  "type": "text",
+                  "content": "có tên khác. Chương trình không",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                306,
+                250,
+                321
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    306,
+                    250,
+                    321
+                  ],
+                  "type": "text",
+                  "content": "kiểm tra xem file khóa đã bị (xóa) chưa",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            263,
+            189,
+            564,
+            295
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                263,
+                189,
+                564,
+                295
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    263,
+                    189,
+                    564,
+                    295
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        263,
+                        189,
+                        564,
+                        295
+                      ],
+                      "type": "image",
+                      "content": "Pathloss Data File Lock\nThe file Dawspine.pl4\nis in use by portable\nThe file was opened on Mon Jun 03 08:20:56 2002 (0.00 hours ago)\nThis file will be opened in read only mode\nOK",
+                      "image_path": "d88980b4ababde82881da8c5815d88409c973cfa4536ab36546873f8ec609fa6.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 6
+            }
+          ],
+          "index": 6,
+          "sub_type": "text_image"
+        },
+        {
+          "bbox": [
+            58,
+            335,
+            218,
+            351
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 7,
+          "lines": [
+            {
+              "bbox": [
+                58,
+                333,
+                219,
+                352
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    333,
+                    219,
+                    352
+                  ],
+                  "type": "text",
+                  "content": "Chia sẻ tệp mạng (gr4)",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            57,
+            354,
+            568,
+            410
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 8,
+          "lines": [
+            {
+              "bbox": [
+                58,
+                352,
+                568,
+                370
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    352,
+                    568,
+                    370
+                  ],
+                  "type": "text",
+                  "content": "Để bật chia sẻ tập tin mạng (gr 4), bạn chọn Files - Shared file operation (Tập tin được chia sẻ) trên thanh trình đơn mạng.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                367,
+                570,
+                383
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    367,
+                    570,
+                    383
+                  ],
+                  "type": "text",
+                  "content": "phải được thực hiện trước khi nạp một tập tin mạng. Để bật chia sẻ tập tin mạng sau khi tập tin đã được nạp-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                380,
+                568,
+                398
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    380,
+                    568,
+                    398
+                  ],
+                  "type": "text",
+                  "content": "ed, chọn Files - New và chọn Files - Shared file operation.Sau đó tải lại tập tin.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                395,
+                230,
+                412
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    395,
+                    230,
+                    412
+                  ],
+                  "type": "text",
+                  "content": "được lưu trong tệp tùy chọn chương trình.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            420,
+            422,
+            434
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 9,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                419,
+                422,
+                435
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    419,
+                    422,
+                    435
+                  ],
+                  "type": "text",
+                  "content": "Trong chế độ này, không thể lưu tập tin nếu không đáp ứng các điều kiện sau.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            444,
+            567,
+            518
+          ],
+          "type": "list",
+          "angle": 0,
+          "index": 10,
+          "blocks": [
+            {
+              "bbox": [
+                58,
+                444,
+                565,
+                484
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 11,
+              "lines": [
+                {
+                  "bbox": [
+                    59,
+                    442,
+                    567,
+                    460
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        59,
+                        442,
+                        567,
+                        460
+                      ],
+                      "type": "text",
+                      "content": "Mỗi địa điểm phải có một dấu hiệu cuộc gọi duy nhất. Đây là một ký tự nhận diện 15 ký tự và không được để trống. Tương tự",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    72,
+                    457,
+                    539,
+                    473
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        72,
+                        457,
+                        539,
+                        473
+                      ],
+                      "type": "text",
+                      "content": "không thể sử dụng dấu hiệu cuộc gọi ở các nơi Mạng khác nhau. Dấu hiệu cuộc gọi phục vụ như là một định danh duy nhất để xác định",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    72,
+                    471,
+                    219,
+                    486
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        72,
+                        471,
+                        219,
+                        486
+                      ],
+                      "type": "text",
+                      "content": "những thay đổi đối với các trang web và liên kết.",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                58,
+                492,
+                568,
+                518
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 12,
+              "lines": [
+                {
+                  "bbox": [
+                    57,
+                    490,
+                    570,
+                    507
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        57,
+                        490,
+                        570,
+                        507
+                      ],
+                      "type": "text",
+                      "content": "Ngày sửa đổi của tập tin trên đĩa phải giống với tập tin trong bộ nhớ. Một người dùng khác có thể thay đổi-",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    73,
+                    506,
+                    167,
+                    520
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        73,
+                        506,
+                        167,
+                        520
+                      ],
+                      "type": "text",
+                      "content": "không được ghi đè.",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            }
+          ],
+          "sub_type": "text"
+        },
+        {
+          "bbox": [
+            57,
+            526,
+            567,
+            554
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 13,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                527,
+                567,
+                541
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    527,
+                    567,
+                    541
+                  ],
+                  "type": "text",
+                  "content": "Cơ chế chia sẻ sử dụng một tập tin có cùng tên với tập tin mạng với phần mở rộng glk. Tập tin này",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                539,
+                565,
+                555
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    539,
+                    565,
+                    555
+                  ],
+                  "type": "text",
+                  "content": "sẽ được tham chiếu đến một tập tin glk trong các mô tả sau và tập tin chứa các thông tin sau:",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            564,
+            563,
+            630
+          ],
+          "type": "list",
+          "angle": 0,
+          "index": 14,
+          "blocks": [
+            {
+              "bbox": [
+                58,
+                564,
+                252,
+                577
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 15,
+              "lines": [
+                {
+                  "bbox": [
+                    58,
+                    563,
+                    253,
+                    579
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        58,
+                        563,
+                        253,
+                        579
+                      ],
+                      "type": "text",
+                      "content": "• ngày sửa đổi và số thay đổi",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                58,
+                584,
+                320,
+                597
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 16,
+              "lines": [
+                {
+                  "bbox": [
+                    59,
+                    583,
+                    320,
+                    597
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        59,
+                        583,
+                        320,
+                        597
+                      ],
+                      "type": "text",
+                      "content": "danh sách tất cả người dùng đã mở tập tin mạng",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                58,
+                604,
+                562,
+                630
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 17,
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    602,
+                    564,
+                    619
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        602,
+                        564,
+                        619
+                      ],
+                      "type": "text",
+                      "content": "Một chuỗi các bản ghi chứa các thay đổi được thực hiện cho tập tin. Những bản ghi này được dùng để cập nhật indi-",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    73,
+                    617,
+                    158,
+                    632
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        73,
+                        617,
+                        158,
+                        632
+                      ],
+                      "type": "text",
+                      "content": "tập tin người dùng vidual",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            }
+          ],
+          "sub_type": "text"
+        },
+        {
+          "bbox": [
+            57,
+            638,
+            568,
+            680
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 18,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                637,
+                568,
+                653
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    637,
+                    568,
+                    653
+                  ],
+                  "type": "text",
+                  "content": "Tập tin glk được tạo khi người dùng đầu tiên mở tập tin mạng. Tại thời điểm này tập tin chứa tên của",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                650,
+                565,
+                668
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    650,
+                    565,
+                    668
+                  ],
+                  "type": "text",
+                  "content": "người dùng và ngày sửa đổi. Số thay đổi được đặt thành số không. Chương trình sẽ bắt đầu theo dõi",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                665,
+                439,
+                681
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    665,
+                    439,
+                    681
+                  ],
+                  "type": "text",
+                  "content": "tập tin glk theo khoảng thời gian 30 giây để xác định xem ngày hồi quy đã thay đổi chưa.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            689,
+            369,
+            703
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 19,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                689,
+                371,
+                704
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    689,
+                    371,
+                    704
+                  ],
+                  "type": "text",
+                  "content": "Tập tin glk bị xoá khi người dùng cuối cùng đóng tập tin mạng.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        }
+      ],
+      "discarded_blocks": [
+        {
+          "bbox": [
+            59,
+            31,
+            133,
+            44
+          ],
+          "type": "header",
+          "angle": 0,
+          "index": 0,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                30,
+                134,
+                46
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    30,
+                    134,
+                    46
+                  ],
+                  "type": "text",
+                  "content": "Mất đường dẫn 4.0",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            420,
+            31,
+            567,
+            45
+          ],
+          "type": "header",
+          "angle": 0,
+          "index": 1,
+          "lines": [
+            {
+              "bbox": [
+                420,
+                29,
+                567,
+                49
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    420,
+                    29,
+                    567,
+                    49
+                  ],
+                  "type": "text",
+                  "content": "Khóa và chia sẻ tập tin",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            502,
+            741,
+            569,
+            756
+          ],
+          "type": "page_number",
+          "angle": 0,
+          "index": 20,
+          "lines": [
+            {
+              "bbox": [
+                501,
+                738,
+                571,
+                756
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    501,
+                    738,
+                    571,
+                    756
+                  ],
+                  "type": "text",
+                  "content": "Trang 1 trên 3",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_size": [
+        611,
+        791
+      ],
+      "page_idx": 0,
+      "para_blocks": [
+        {
+          "bbox": [
+            194,
+            68,
+            434,
+            86
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 2,
+          "lines": [
+            {
+              "bbox": [
+                194,
+                64,
+                435,
+                88
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    194,
+                    64,
+                    435,
+                    88
+                  ],
+                  "type": "text",
+                  "content": "Khóa và chia sẻ tập tin Pathloss",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            57,
+            91,
+            568,
+            147
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 3,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                91,
+                568,
+                106
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    91,
+                    568,
+                    106
+                  ],
+                  "type": "text",
+                  "content": "Bản dựng chương trình Pathloss ngày 3 tháng 6 năm 2002 giới thiệu khoá tập tin dữ liệu pathloss (pl 4) và tập tin mạng (gr 4)",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                106,
+                567,
+                121
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    106,
+                    567,
+                    121
+                  ],
+                  "type": "text",
+                  "content": "chia sẻ khi các tập tin này nằm trên một ổ đĩa mạng đã chia sẻ. Việc khóa và chia sẻ được kích hoạt nếu",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                119,
+                568,
+                136
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    119,
+                    568,
+                    136
+                  ],
+                  "type": "text",
+                  "content": "ổ đĩa gốc chứa tập tin dữ liệu mạng hay mất đường dẫn là một ổ đĩa từ xa. Chú ý rằng điều này có thể thất bại trên một thiết bị ngang hàng",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                133,
+                310,
+                150
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    133,
+                    310,
+                    150
+                  ],
+                  "type": "text",
+                  "content": "ngang hàng, nếu một ổ đĩa được truy cập như là một ổ đĩa cục bộ.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            162,
+            243,
+            178
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 4,
+          "lines": [
+            {
+              "bbox": [
+                58,
+                159,
+                243,
+                180
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    159,
+                    243,
+                    180
+                  ],
+                  "type": "text",
+                  "content": "Khóa tập tin dữ liệu Pathloss (pl4)",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            57,
+            181,
+            259,
+            321
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 5,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                180,
+                248,
+                195
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    180,
+                    248,
+                    195
+                  ],
+                  "type": "text",
+                  "content": "Cơ chế khóa, tạo ra một cái mới",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                195,
+                249,
+                208
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    195,
+                    249,
+                    208
+                  ],
+                  "type": "text",
+                  "content": "tập tin có cùng tên với Pathloss",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                209,
+                248,
+                223
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    209,
+                    248,
+                    223
+                  ],
+                  "type": "text",
+                  "content": "các tệp dữ liệu có phần mở rộng lck. Khi nào",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                223,
+                245,
+                236
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    223,
+                    245,
+                    236
+                  ],
+                  "type": "text",
+                  "content": "người dùng đóng tập tin này, tập tin khóa là",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                236,
+                251,
+                252
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    236,
+                    251,
+                    252
+                  ],
+                  "type": "text",
+                  "content": "bị xóa. Nếu người dùng khác cố gắng mở",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                251,
+                256,
+                264
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    251,
+                    256,
+                    264
+                  ],
+                  "type": "text",
+                  "content": "tập tin, một nhắc nhở được đưa ra rằng tập tin là",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                265,
+                245,
+                280
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    265,
+                    245,
+                    280
+                  ],
+                  "type": "text",
+                  "content": "đang được sử dụng và sẽ được mở ở dạng chỉ đọc",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                280,
+                258,
+                292
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    280,
+                    258,
+                    292
+                  ],
+                  "type": "text",
+                  "content": "chế độ. Không thể lưu tập tin un-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                293,
+                256,
+                307
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    293,
+                    256,
+                    307
+                  ],
+                  "type": "text",
+                  "content": "có tên khác. Chương trình không",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                306,
+                250,
+                321
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    306,
+                    250,
+                    321
+                  ],
+                  "type": "text",
+                  "content": "kiểm tra xem file khóa đã bị (xóa) chưa",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            263,
+            189,
+            564,
+            295
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                263,
+                189,
+                564,
+                295
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    263,
+                    189,
+                    564,
+                    295
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        263,
+                        189,
+                        564,
+                        295
+                      ],
+                      "type": "image",
+                      "content": "Pathloss Data File Lock\nThe file Dawspine.pl4\nis in use by portable\nThe file was opened on Mon Jun 03 08:20:56 2002 (0.00 hours ago)\nThis file will be opened in read only mode\nOK",
+                      "image_path": "d88980b4ababde82881da8c5815d88409c973cfa4536ab36546873f8ec609fa6.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 6
+            }
+          ],
+          "index": 6,
+          "sub_type": "text_image"
+        },
+        {
+          "bbox": [
+            58,
+            335,
+            218,
+            351
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 7,
+          "lines": [
+            {
+              "bbox": [
+                58,
+                333,
+                219,
+                352
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    333,
+                    219,
+                    352
+                  ],
+                  "type": "text",
+                  "content": "Chia sẻ tệp mạng (gr4)",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            57,
+            354,
+            568,
+            410
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 8,
+          "lines": [
+            {
+              "bbox": [
+                58,
+                352,
+                568,
+                370
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    352,
+                    568,
+                    370
+                  ],
+                  "type": "text",
+                  "content": "Để bật chia sẻ tập tin mạng (gr 4), bạn chọn Files - Shared file operation (Tập tin được chia sẻ) trên thanh trình đơn mạng.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                367,
+                570,
+                383
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    367,
+                    570,
+                    383
+                  ],
+                  "type": "text",
+                  "content": "phải được thực hiện trước khi nạp một tập tin mạng. Để bật chia sẻ tập tin mạng sau khi tập tin đã được nạp-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                380,
+                568,
+                398
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    380,
+                    568,
+                    398
+                  ],
+                  "type": "text",
+                  "content": "ed, chọn Files - New và chọn Files - Shared file operation.Sau đó tải lại tập tin.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                57,
+                395,
+                230,
+                412
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    57,
+                    395,
+                    230,
+                    412
+                  ],
+                  "type": "text",
+                  "content": "được lưu trong tệp tùy chọn chương trình.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            420,
+            422,
+            434
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 9,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                419,
+                422,
+                435
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    419,
+                    422,
+                    435
+                  ],
+                  "type": "text",
+                  "content": "Trong chế độ này, không thể lưu tập tin nếu không đáp ứng các điều kiện sau.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            444,
+            567,
+            518
+          ],
+          "type": "list",
+          "angle": 0,
+          "index": 10,
+          "blocks": [
+            {
+              "bbox": [
+                58,
+                444,
+                565,
+                484
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 11,
+              "lines": [
+                {
+                  "bbox": [
+                    59,
+                    442,
+                    567,
+                    460
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        59,
+                        442,
+                        567,
+                        460
+                      ],
+                      "type": "text",
+                      "content": "Mỗi địa điểm phải có một dấu hiệu cuộc gọi duy nhất. Đây là một ký tự nhận diện 15 ký tự và không được để trống. Tương tự",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    72,
+                    457,
+                    539,
+                    473
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        72,
+                        457,
+                        539,
+                        473
+                      ],
+                      "type": "text",
+                      "content": "không thể sử dụng dấu hiệu cuộc gọi ở các nơi Mạng khác nhau. Dấu hiệu cuộc gọi phục vụ như là một định danh duy nhất để xác định",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    72,
+                    471,
+                    219,
+                    486
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        72,
+                        471,
+                        219,
+                        486
+                      ],
+                      "type": "text",
+                      "content": "những thay đổi đối với các trang web và liên kết.",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                58,
+                492,
+                568,
+                518
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 12,
+              "lines": [
+                {
+                  "bbox": [
+                    57,
+                    490,
+                    570,
+                    507
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        57,
+                        490,
+                        570,
+                        507
+                      ],
+                      "type": "text",
+                      "content": "Ngày sửa đổi của tập tin trên đĩa phải giống với tập tin trong bộ nhớ. Một người dùng khác có thể thay đổi-",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    73,
+                    506,
+                    167,
+                    520
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        73,
+                        506,
+                        167,
+                        520
+                      ],
+                      "type": "text",
+                      "content": "không được ghi đè.",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            }
+          ],
+          "sub_type": "text"
+        },
+        {
+          "bbox": [
+            57,
+            526,
+            567,
+            554
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 13,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                527,
+                567,
+                541
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    527,
+                    567,
+                    541
+                  ],
+                  "type": "text",
+                  "content": "Cơ chế chia sẻ sử dụng một tập tin có cùng tên với tập tin mạng với phần mở rộng glk. Tập tin này",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                539,
+                565,
+                555
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    539,
+                    565,
+                    555
+                  ],
+                  "type": "text",
+                  "content": "sẽ được tham chiếu đến một tập tin glk trong các mô tả sau và tập tin chứa các thông tin sau:",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            564,
+            563,
+            630
+          ],
+          "type": "list",
+          "angle": 0,
+          "index": 14,
+          "blocks": [
+            {
+              "bbox": [
+                58,
+                564,
+                252,
+                577
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 15,
+              "lines": [
+                {
+                  "bbox": [
+                    58,
+                    563,
+                    253,
+                    579
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        58,
+                        563,
+                        253,
+                        579
+                      ],
+                      "type": "text",
+                      "content": "• ngày sửa đổi và số thay đổi",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                58,
+                584,
+                320,
+                597
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 16,
+              "lines": [
+                {
+                  "bbox": [
+                    59,
+                    583,
+                    320,
+                    597
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        59,
+                        583,
+                        320,
+                        597
+                      ],
+                      "type": "text",
+                      "content": "danh sách tất cả người dùng đã mở tập tin mạng",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                58,
+                604,
+                562,
+                630
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 17,
+              "lines": [
+                {
+                  "bbox": [
+                    56,
+                    602,
+                    564,
+                    619
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        56,
+                        602,
+                        564,
+                        619
+                      ],
+                      "type": "text",
+                      "content": "Một chuỗi các bản ghi chứa các thay đổi được thực hiện cho tập tin. Những bản ghi này được dùng để cập nhật indi-",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    73,
+                    617,
+                    158,
+                    632
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        73,
+                        617,
+                        158,
+                        632
+                      ],
+                      "type": "text",
+                      "content": "tập tin người dùng vidual",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            }
+          ],
+          "sub_type": "text"
+        },
+        {
+          "bbox": [
+            57,
+            638,
+            568,
+            680
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 18,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                637,
+                568,
+                653
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    637,
+                    568,
+                    653
+                  ],
+                  "type": "text",
+                  "content": "Tập tin glk được tạo khi người dùng đầu tiên mở tập tin mạng. Tại thời điểm này tập tin chứa tên của",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                650,
+                565,
+                668
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    650,
+                    565,
+                    668
+                  ],
+                  "type": "text",
+                  "content": "người dùng và ngày sửa đổi. Số thay đổi được đặt thành số không. Chương trình sẽ bắt đầu theo dõi",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                58,
+                665,
+                439,
+                681
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    58,
+                    665,
+                    439,
+                    681
+                  ],
+                  "type": "text",
+                  "content": "tập tin glk theo khoảng thời gian 30 giây để xác định xem ngày hồi quy đã thay đổi chưa.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            689,
+            369,
+            703
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 19,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                689,
+                371,
+                704
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    689,
+                    371,
+                    704
+                  ],
+                  "type": "text",
+                  "content": "Tập tin glk bị xoá khi người dùng cuối cùng đóng tập tin mạng.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        }
+      ]
+    },
+    {
+      "preproc_blocks": [
+        {
+          "bbox": [
+            39,
+            68,
+            286,
+            151
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 2,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                67,
+                285,
+                83
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    67,
+                    285,
+                    83
+                  ],
+                  "type": "text",
+                  "content": "Một khi tập tin mạng đã được mở bởi người đầu tiên",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                83,
+                287,
+                97
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    83,
+                    287,
+                    97
+                  ],
+                  "type": "text",
+                  "content": "người dùng tất cả những người dùng khác đang mở tập tin sẽ có mặt-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                97,
+                270,
+                109
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    97,
+                    270,
+                    109
+                  ],
+                  "type": "text",
+                  "content": "ed với danh sách người dùng đã mở tập tin",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                111,
+                283,
+                123
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    111,
+                    283,
+                    123
+                  ],
+                  "type": "text",
+                  "content": "mở. Người dùng mới được thêm vào danh sách người dùng và",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                124,
+                282,
+                139
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    124,
+                    282,
+                    139
+                  ],
+                  "type": "text",
+                  "content": "nhận được ngày sửa đổi sửa đổi vào thời điểm họ",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                138,
+                116,
+                151
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    138,
+                    116,
+                    151
+                  ],
+                  "type": "text",
+                  "content": "đã tải tập tin.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            162,
+            285,
+            190
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 3,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                162,
+                285,
+                176
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    162,
+                    285,
+                    176
+                  ],
+                  "type": "text",
+                  "content": "Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                176,
+                287,
+                191
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    176,
+                    287,
+                    191
+                  ],
+                  "type": "text",
+                  "content": "lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            40,
+            200,
+            293,
+            328
+          ],
+          "type": "list",
+          "angle": 0,
+          "index": 10,
+          "blocks": [
+            {
+              "bbox": [
+                40,
+                200,
+                160,
+                212
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 4,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    200,
+                    160,
+                    213
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        200,
+                        160,
+                        213
+                      ],
+                      "type": "text",
+                      "content": "• một trang web đã được thêm vào",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                220,
+                164,
+                233
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 5,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    220,
+                    165,
+                    233
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        220,
+                        165,
+                        233
+                      ],
+                      "type": "text",
+                      "content": "• một trang web đã bị xóa",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                240,
+                163,
+                253
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 6,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    240,
+                    164,
+                    253
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        240,
+                        164,
+                        253
+                      ],
+                      "type": "text",
+                      "content": "• một trang web đã được di chuyển",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                260,
+                161,
+                272
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 7,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    260,
+                    161,
+                    272
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        260,
+                        161,
+                        272
+                      ],
+                      "type": "text",
+                      "content": "• một liên kết đã được thêm vào",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                280,
+                167,
+                293
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 8,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    280,
+                    167,
+                    293
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        280,
+                        167,
+                        293
+                      ],
+                      "type": "text",
+                      "content": "• một liên kết đã bị xóa",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                299,
+                293,
+                328
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 9,
+              "lines": [
+                {
+                  "bbox": [
+                    40,
+                    298,
+                    294,
+                    314
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        40,
+                        298,
+                        294,
+                        314
+                      ],
+                      "type": "text",
+                      "content": "tập tin Pathloss (mất đường dẫn) liên kết với liên kết đã được",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    54,
+                    314,
+                    102,
+                    329
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        54,
+                        314,
+                        102,
+                        329
+                      ],
+                      "type": "text",
+                      "content": "đã thay đổi.",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            }
+          ],
+          "sub_type": "text"
+        },
+        {
+          "bbox": [
+            39,
+            333,
+            296,
+            403
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 11,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                333,
+                295,
+                348
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    333,
+                    295,
+                    348
+                  ],
+                  "type": "text",
+                  "content": "Khi tập tin được lưu, một bản ghi về các thay đổi là đầu tiên",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                348,
+                295,
+                363
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    348,
+                    295,
+                    363
+                  ],
+                  "type": "text",
+                  "content": "được tạo bằng cách so sánh tập tin trong bộ nhớ với tập tin",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                363,
+                296,
+                376
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    363,
+                    296,
+                    376
+                  ],
+                  "type": "text",
+                  "content": "trên đĩa. Tập tin glk sẽ được cập nhật với re-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                377,
+                296,
+                390
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    377,
+                    296,
+                    390
+                  ],
+                  "type": "text",
+                  "content": "ngày tháng tầm nhìn, và bản ghi thay đổi sẽ được phụ thêm-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                390,
+                108,
+                403
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    390,
+                    108,
+                    403
+                  ],
+                  "type": "text",
+                  "content": "ed vào tập tin.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            414,
+            290,
+            470
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 12,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                413,
+                290,
+                428
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    413,
+                    290,
+                    428
+                  ],
+                  "type": "text",
+                  "content": "Trong môi trường chia sẻ này, chương trình sẽ kiểm tra",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                428,
+                278,
+                443
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    428,
+                    278,
+                    443
+                  ],
+                  "type": "text",
+                  "content": "tập tin glk cứ 30 giây một lần và nếu thay đổi có oc-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                442,
+                287,
+                457
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    442,
+                    287,
+                    457
+                  ],
+                  "type": "text",
+                  "content": "curred, người dùng được thông báo với danh sách các thay đổi.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                457,
+                179,
+                470
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    457,
+                    179,
+                    470
+                  ],
+                  "type": "text",
+                  "content": "Mỗi thay đổi có thể được xem.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            40,
+            482,
+            117,
+            495
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 13,
+          "lines": [
+            {
+              "bbox": [
+                40,
+                480,
+                118,
+                498
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    480,
+                    118,
+                    498
+                  ],
+                  "type": "text",
+                  "content": "Thực hiện thay đổi",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            39,
+            498,
+            416,
+            526
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 14,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                498,
+                295,
+                513
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    498,
+                    295,
+                    513
+                  ],
+                  "type": "text",
+                  "content": "Những thay đổi được thực hiện trực tiếp từ tập tin glk.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                511,
+                417,
+                526
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    511,
+                    417,
+                    526
+                  ],
+                  "type": "text",
+                  "content": "không thể tái tạo hiển thị. Mọi thay đổi trong tập tin glk sẽ được thực hiện.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            292,
+            75,
+            545,
+            181
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                292,
+                75,
+                545,
+                181
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    292,
+                    75,
+                    545,
+                    181
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        292,
+                        75,
+                        545,
+                        181
+                      ],
+                      "type": "image",
+                      "content": "Shared Network File\nThe file granfort.gr4\nhas been opened by 2 users:\nportable at Mon Jun 03 08:17:04 2002 (0.11 hours ago)\nforrest at Mon Jun 03 08:23:42 2002 (0.00 hours ago)\nOK",
+                      "image_path": "74560d270ca6afc42ba8c728f1a2ae688b8923f36a7b9fa488106c2942f785e7.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 15
+            }
+          ],
+          "index": 15,
+          "sub_type": "text_image"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            301,
+            208,
+            545,
+            503
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                301,
+                208,
+                545,
+                503
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    301,
+                    208,
+                    545,
+                    503
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        301,
+                        208,
+                        545,
+                        503
+                      ],
+                      "type": "image",
+                      "content": "Network File Changed\nG:\\new_build\\testlock\\granfort.gr4\nhas been modified by portable\non Fri Jul 05 20:34:04 2002\nSite changes\tChange Number 1\nb has been moved\nhub has been moved\nLink changes\na - b has been deleted\nhub - r2 has been deleted\nr3 - CHW614 has been deleted\nUser list\nforrest 0.03 hours ago\nportable -0.01 hours ago\nMake changes\tReload file\tCancel",
+                      "image_path": "23ba5375a6ac90ab093ddfc43e97e837c3e226d07409224fe4079840cf03e6f8.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 16
+            }
+          ],
+          "index": 16,
+          "sub_type": "text_image"
+        },
+        {
+          "bbox": [
+            40,
+            538,
+            99,
+            550
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 17,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                537,
+                100,
+                552
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    537,
+                    100,
+                    552
+                  ],
+                  "type": "text",
+                  "content": "Tải lại tập tin",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            39,
+            553,
+            550,
+            582
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 18,
+          "lines": [
+            {
+              "bbox": [
+                39,
+                552,
+                552,
+                570
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    39,
+                    552,
+                    552,
+                    570
+                  ],
+                  "type": "text",
+                  "content": "Tập tin đầy đủ sẽ được nạp lại và màn hình sẽ được định dạng lại. Tùy chọn nạp lại tập tin chỉ có tác dụng-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                567,
+                244,
+                582
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    567,
+                    244,
+                    582
+                  ],
+                  "type": "text",
+                  "content": "có thể trong các mô-đun mạng và lưới bản đồ",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            592,
+            548,
+            635
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 19,
+          "lines": [
+            {
+              "bbox": [
+                39,
+                590,
+                549,
+                608
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    39,
+                    590,
+                    549,
+                    608
+                  ],
+                  "type": "text",
+                  "content": "Nếu nút cancel được nhấp, người dùng có thể cập nhật tập tin bằng cách trở về mô-đun mạng hoặc mapgrid",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                39,
+                605,
+                550,
+                622
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    39,
+                    605,
+                    550,
+                    622
+                  ],
+                  "type": "text",
+                  "content": "và tải lại file bằng cách sử dụng Files - Open hoặc chọn Files - Shared File Status.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                619,
+                427,
+                635
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    619,
+                    427,
+                    635
+                  ],
+                  "type": "text",
+                  "content": "hiển thị và các tùy chọn như là một thông báo thay đổi trong các mô-đun mạng hay lưới ánh xạ",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            643,
+            549,
+            673
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 20,
+          "lines": [
+            {
+              "bbox": [
+                40,
+                643,
+                550,
+                658
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    643,
+                    550,
+                    658
+                  ],
+                  "type": "text",
+                  "content": "Chỉ một thông báo thay đổi được phát hành ngay cả khi người dùng quyết định không tải lại tập tin. Một khi tập tin đã được",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                658,
+                281,
+                674
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    658,
+                    281,
+                    674
+                  ],
+                  "type": "text",
+                  "content": "được cập nhật, thông báo thay đổi sẽ bắt đầu lại.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        }
+      ],
+      "discarded_blocks": [
+        {
+          "bbox": [
+            41,
+            31,
+            187,
+            45
+          ],
+          "type": "header",
+          "angle": 0,
+          "index": 0,
+          "lines": [
+            {
+              "bbox": [
+                40,
+                29,
+                188,
+                49
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    29,
+                    188,
+                    49
+                  ],
+                  "type": "text",
+                  "content": "Khóa và chia sẻ tập tin",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            475,
+            31,
+            549,
+            45
+          ],
+          "type": "header",
+          "angle": 0,
+          "index": 1,
+          "lines": [
+            {
+              "bbox": [
+                474,
+                30,
+                550,
+                46
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    474,
+                    30,
+                    550,
+                    46
+                  ],
+                  "type": "text",
+                  "content": "Mất đường dẫn 4.0",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            41,
+            741,
+            108,
+            755
+          ],
+          "type": "page_number",
+          "angle": 0,
+          "index": 21,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                739,
+                110,
+                756
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    739,
+                    110,
+                    756
+                  ],
+                  "type": "text",
+                  "content": "Trang 2 trên 3",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_size": [
+        611,
+        791
+      ],
+      "page_idx": 1,
+      "para_blocks": [
+        {
+          "bbox": [
+            39,
+            68,
+            286,
+            151
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 2,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                67,
+                285,
+                83
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    67,
+                    285,
+                    83
+                  ],
+                  "type": "text",
+                  "content": "Một khi tập tin mạng đã được mở bởi người đầu tiên",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                83,
+                287,
+                97
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    83,
+                    287,
+                    97
+                  ],
+                  "type": "text",
+                  "content": "người dùng tất cả những người dùng khác đang mở tập tin sẽ có mặt-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                97,
+                270,
+                109
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    97,
+                    270,
+                    109
+                  ],
+                  "type": "text",
+                  "content": "ed với danh sách người dùng đã mở tập tin",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                111,
+                283,
+                123
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    111,
+                    283,
+                    123
+                  ],
+                  "type": "text",
+                  "content": "mở. Người dùng mới được thêm vào danh sách người dùng và",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                124,
+                282,
+                139
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    124,
+                    282,
+                    139
+                  ],
+                  "type": "text",
+                  "content": "nhận được ngày sửa đổi sửa đổi vào thời điểm họ",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                138,
+                116,
+                151
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    138,
+                    116,
+                    151
+                  ],
+                  "type": "text",
+                  "content": "đã tải tập tin.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            162,
+            285,
+            190
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 3,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                162,
+                285,
+                176
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    162,
+                    285,
+                    176
+                  ],
+                  "type": "text",
+                  "content": "Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                176,
+                287,
+                191
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    176,
+                    287,
+                    191
+                  ],
+                  "type": "text",
+                  "content": "lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            40,
+            200,
+            293,
+            328
+          ],
+          "type": "list",
+          "angle": 0,
+          "index": 10,
+          "blocks": [
+            {
+              "bbox": [
+                40,
+                200,
+                160,
+                212
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 4,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    200,
+                    160,
+                    213
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        200,
+                        160,
+                        213
+                      ],
+                      "type": "text",
+                      "content": "• một trang web đã được thêm vào",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                220,
+                164,
+                233
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 5,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    220,
+                    165,
+                    233
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        220,
+                        165,
+                        233
+                      ],
+                      "type": "text",
+                      "content": "• một trang web đã bị xóa",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                240,
+                163,
+                253
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 6,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    240,
+                    164,
+                    253
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        240,
+                        164,
+                        253
+                      ],
+                      "type": "text",
+                      "content": "• một trang web đã được di chuyển",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                260,
+                161,
+                272
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 7,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    260,
+                    161,
+                    272
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        260,
+                        161,
+                        272
+                      ],
+                      "type": "text",
+                      "content": "• một liên kết đã được thêm vào",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                280,
+                167,
+                293
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 8,
+              "lines": [
+                {
+                  "bbox": [
+                    41,
+                    280,
+                    167,
+                    293
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        41,
+                        280,
+                        167,
+                        293
+                      ],
+                      "type": "text",
+                      "content": "• một liên kết đã bị xóa",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            },
+            {
+              "bbox": [
+                40,
+                299,
+                293,
+                328
+              ],
+              "type": "text",
+              "angle": 0,
+              "index": 9,
+              "lines": [
+                {
+                  "bbox": [
+                    40,
+                    298,
+                    294,
+                    314
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        40,
+                        298,
+                        294,
+                        314
+                      ],
+                      "type": "text",
+                      "content": "tập tin Pathloss (mất đường dẫn) liên kết với liên kết đã được",
+                      "score": 1.0
+                    }
+                  ]
+                },
+                {
+                  "bbox": [
+                    54,
+                    314,
+                    102,
+                    329
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        54,
+                        314,
+                        102,
+                        329
+                      ],
+                      "type": "text",
+                      "content": "đã thay đổi.",
+                      "score": 1.0
+                    }
+                  ]
+                }
+              ],
+              "merge_prev": false
+            }
+          ],
+          "sub_type": "text"
+        },
+        {
+          "bbox": [
+            39,
+            333,
+            296,
+            403
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 11,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                333,
+                295,
+                348
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    333,
+                    295,
+                    348
+                  ],
+                  "type": "text",
+                  "content": "Khi tập tin được lưu, một bản ghi về các thay đổi là đầu tiên",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                348,
+                295,
+                363
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    348,
+                    295,
+                    363
+                  ],
+                  "type": "text",
+                  "content": "được tạo bằng cách so sánh tập tin trong bộ nhớ với tập tin",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                363,
+                296,
+                376
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    363,
+                    296,
+                    376
+                  ],
+                  "type": "text",
+                  "content": "trên đĩa. Tập tin glk sẽ được cập nhật với re-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                377,
+                296,
+                390
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    377,
+                    296,
+                    390
+                  ],
+                  "type": "text",
+                  "content": "ngày tháng tầm nhìn, và bản ghi thay đổi sẽ được phụ thêm-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                42,
+                390,
+                108,
+                403
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    42,
+                    390,
+                    108,
+                    403
+                  ],
+                  "type": "text",
+                  "content": "ed vào tập tin.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            414,
+            290,
+            470
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 12,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                413,
+                290,
+                428
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    413,
+                    290,
+                    428
+                  ],
+                  "type": "text",
+                  "content": "Trong môi trường chia sẻ này, chương trình sẽ kiểm tra",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                428,
+                278,
+                443
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    428,
+                    278,
+                    443
+                  ],
+                  "type": "text",
+                  "content": "tập tin glk cứ 30 giây một lần và nếu thay đổi có oc-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                442,
+                287,
+                457
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    442,
+                    287,
+                    457
+                  ],
+                  "type": "text",
+                  "content": "curred, người dùng được thông báo với danh sách các thay đổi.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                457,
+                179,
+                470
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    457,
+                    179,
+                    470
+                  ],
+                  "type": "text",
+                  "content": "Mỗi thay đổi có thể được xem.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            40,
+            482,
+            117,
+            495
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 13,
+          "lines": [
+            {
+              "bbox": [
+                40,
+                480,
+                118,
+                498
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    480,
+                    118,
+                    498
+                  ],
+                  "type": "text",
+                  "content": "Thực hiện thay đổi",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            39,
+            498,
+            416,
+            526
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 14,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                498,
+                295,
+                513
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    498,
+                    295,
+                    513
+                  ],
+                  "type": "text",
+                  "content": "Những thay đổi được thực hiện trực tiếp từ tập tin glk.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                41,
+                511,
+                417,
+                526
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    511,
+                    417,
+                    526
+                  ],
+                  "type": "text",
+                  "content": "không thể tái tạo hiển thị. Mọi thay đổi trong tập tin glk sẽ được thực hiện.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            292,
+            75,
+            545,
+            181
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                292,
+                75,
+                545,
+                181
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    292,
+                    75,
+                    545,
+                    181
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        292,
+                        75,
+                        545,
+                        181
+                      ],
+                      "type": "image",
+                      "content": "Shared Network File\nThe file granfort.gr4\nhas been opened by 2 users:\nportable at Mon Jun 03 08:17:04 2002 (0.11 hours ago)\nforrest at Mon Jun 03 08:23:42 2002 (0.00 hours ago)\nOK",
+                      "image_path": "74560d270ca6afc42ba8c728f1a2ae688b8923f36a7b9fa488106c2942f785e7.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 15
+            }
+          ],
+          "index": 15,
+          "sub_type": "text_image"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            301,
+            208,
+            545,
+            503
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                301,
+                208,
+                545,
+                503
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    301,
+                    208,
+                    545,
+                    503
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        301,
+                        208,
+                        545,
+                        503
+                      ],
+                      "type": "image",
+                      "content": "Network File Changed\nG:\\new_build\\testlock\\granfort.gr4\nhas been modified by portable\non Fri Jul 05 20:34:04 2002\nSite changes\tChange Number 1\nb has been moved\nhub has been moved\nLink changes\na - b has been deleted\nhub - r2 has been deleted\nr3 - CHW614 has been deleted\nUser list\nforrest 0.03 hours ago\nportable -0.01 hours ago\nMake changes\tReload file\tCancel",
+                      "image_path": "23ba5375a6ac90ab093ddfc43e97e837c3e226d07409224fe4079840cf03e6f8.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 16
+            }
+          ],
+          "index": 16,
+          "sub_type": "text_image"
+        },
+        {
+          "bbox": [
+            40,
+            538,
+            99,
+            550
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 17,
+          "lines": [
+            {
+              "bbox": [
+                41,
+                537,
+                100,
+                552
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    41,
+                    537,
+                    100,
+                    552
+                  ],
+                  "type": "text",
+                  "content": "Tải lại tập tin",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            39,
+            553,
+            550,
+            582
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 18,
+          "lines": [
+            {
+              "bbox": [
+                39,
+                552,
+                552,
+                570
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    39,
+                    552,
+                    552,
+                    570
+                  ],
+                  "type": "text",
+                  "content": "Tập tin đầy đủ sẽ được nạp lại và màn hình sẽ được định dạng lại. Tùy chọn nạp lại tập tin chỉ có tác dụng-",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                567,
+                244,
+                582
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    567,
+                    244,
+                    582
+                  ],
+                  "type": "text",
+                  "content": "có thể trong các mô-đun mạng và lưới bản đồ",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            592,
+            548,
+            635
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 19,
+          "lines": [
+            {
+              "bbox": [
+                39,
+                590,
+                549,
+                608
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    39,
+                    590,
+                    549,
+                    608
+                  ],
+                  "type": "text",
+                  "content": "Nếu nút cancel được nhấp, người dùng có thể cập nhật tập tin bằng cách trở về mô-đun mạng hoặc mapgrid",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                39,
+                605,
+                550,
+                622
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    39,
+                    605,
+                    550,
+                    622
+                  ],
+                  "type": "text",
+                  "content": "và tải lại file bằng cách sử dụng Files - Open hoặc chọn Files - Shared File Status.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                619,
+                427,
+                635
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    619,
+                    427,
+                    635
+                  ],
+                  "type": "text",
+                  "content": "hiển thị và các tùy chọn như là một thông báo thay đổi trong các mô-đun mạng hay lưới ánh xạ",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            39,
+            643,
+            549,
+            673
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 20,
+          "lines": [
+            {
+              "bbox": [
+                40,
+                643,
+                550,
+                658
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    643,
+                    550,
+                    658
+                  ],
+                  "type": "text",
+                  "content": "Chỉ một thông báo thay đổi được phát hành ngay cả khi người dùng quyết định không tải lại tập tin. Một khi tập tin đã được",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                40,
+                658,
+                281,
+                674
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    40,
+                    658,
+                    281,
+                    674
+                  ],
+                  "type": "text",
+                  "content": "được cập nhật, thông báo thay đổi sẽ bắt đầu lại.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        }
+      ]
+    },
+    {
+      "preproc_blocks": [
+        {
+          "bbox": [
+            58,
+            68,
+            363,
+            83
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 2,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                68,
+                365,
+                84
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    68,
+                    365,
+                    84
+                  ],
+                  "type": "text",
+                  "content": "Tính toán nhiễu trên tệp Mạng được chia sẻ",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            58,
+            87,
+            266,
+            170
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 3,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                85,
+                266,
+                102
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    85,
+                    266,
+                    102
+                  ],
+                  "type": "text",
+                  "content": "Các sơ đồ khóa bảng vốn có được sử dụng trong",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                102,
+                266,
+                115
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    102,
+                    266,
+                    115
+                  ],
+                  "type": "text",
+                  "content": "công cụ cơ sở dữ liệu Borland không cho phép",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                116,
+                267,
+                129
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    116,
+                    267,
+                    129
+                  ],
+                  "type": "text",
+                  "content": "người dùng thực hiện can thiệp đồng thời",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                60,
+                130,
+                256,
+                142
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    60,
+                    130,
+                    256,
+                    142
+                  ],
+                  "type": "text",
+                  "content": "tính toán. Tính toán nhiễu",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                143,
+                256,
+                156
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    143,
+                    256,
+                    156
+                  ],
+                  "type": "text",
+                  "content": "tạo ra một tập hợp các bảng liên quan đến",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                158,
+                142,
+                171
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    158,
+                    142,
+                    171
+                  ],
+                  "type": "text",
+                  "content": "tập tin mạng gr4.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            181,
+            267,
+            236
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 4,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                181,
+                267,
+                195
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    181,
+                    267,
+                    195
+                  ],
+                  "type": "text",
+                  "content": "Bản xây dựng chương trình ngày 02 tháng 6 năm 2002 cho phép",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                196,
+                268,
+                209
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    196,
+                    268,
+                    209
+                  ],
+                  "type": "text",
+                  "content": "người dùng chỉ định một thư mục riêng cho liên",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                60,
+                210,
+                266,
+                223
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    60,
+                    210,
+                    266,
+                    223
+                  ],
+                  "type": "text",
+                  "content": "tính toán tham chiếu. Việc lựa chọn được thực hiện",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                223,
+                257,
+                236
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    223,
+                    257,
+                    236
+                  ],
+                  "type": "text",
+                  "content": "khi bắt đầu tính toán nhiễu.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            247,
+            268,
+            303
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 5,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                247,
+                268,
+                261
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    247,
+                    268,
+                    261
+                  ],
+                  "type": "text",
+                  "content": "Các hoạt động như chỉ định tương quan độ mờ",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                261,
+                267,
+                275
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    261,
+                    267,
+                    275
+                  ],
+                  "type": "text",
+                  "content": "tion sẽ thất bại nếu tập tin mạng hiện tại không hoạt động.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                276,
+                266,
+                289
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    276,
+                    266,
+                    289
+                  ],
+                  "type": "text",
+                  "content": "không khớp với các bảng cơ sở dữ liệu ở chế độ riêng tư",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                288,
+                109,
+                305
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    288,
+                    109,
+                    305
+                  ],
+                  "type": "text",
+                  "content": "thư mục.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            273,
+            94,
+            564,
+            398
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                273,
+                94,
+                564,
+                398
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    273,
+                    94,
+                    564,
+                    398
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        273,
+                        94,
+                        564,
+                        398
+                      ],
+                      "type": "image",
+                      "content": "Interference\nCoordination Distance (km) 200.0\nMaximum frequency Separation (MHz) 150.0\nDefault Minimum Interference Level (dBm) -115.0\nMargin (dB) 10.0\nDigital Interference Objective\nThreshold degradation - multipath (dB) 1.0\nAnalyze current file only\nSub network intra system interference\nSub network against network interference\nIgnore diversity antennas\nIgnore adjacent channels\nInterference Calculation Directory\nUse network file directory\nUse private directory\nC:\\TEMP Browse",
+                      "image_path": "6241fddf026b6454ee1de892dea4a55988d9856b50d36abae4ec44092845c42a.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 6
+            }
+          ],
+          "index": 6,
+          "sub_type": "text_image"
+        }
+      ],
+      "discarded_blocks": [
+        {
+          "bbox": [
+            59,
+            31,
+            133,
+            44
+          ],
+          "type": "header",
+          "angle": 0,
+          "index": 0,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                30,
+                134,
+                46
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    30,
+                    134,
+                    46
+                  ],
+                  "type": "text",
+                  "content": "Mất đường dẫn 4.0",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            421,
+            31,
+            567,
+            45
+          ],
+          "type": "header",
+          "angle": 0,
+          "index": 1,
+          "lines": [
+            {
+              "bbox": [
+                420,
+                29,
+                567,
+                48
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    420,
+                    29,
+                    567,
+                    48
+                  ],
+                  "type": "text",
+                  "content": "Khóa và chia sẻ tập tin",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            502,
+            741,
+            569,
+            755
+          ],
+          "type": "page_number",
+          "angle": 0,
+          "index": 7,
+          "lines": [
+            {
+              "bbox": [
+                501,
+                739,
+                571,
+                756
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    501,
+                    739,
+                    571,
+                    756
+                  ],
+                  "type": "text",
+                  "content": "Trang 3 trên 3",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "page_size": [
+        611,
+        791
+      ],
+      "page_idx": 2,
+      "para_blocks": [
+        {
+          "bbox": [
+            58,
+            68,
+            363,
+            83
+          ],
+          "type": "title",
+          "angle": 0,
+          "index": 2,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                68,
+                365,
+                84
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    68,
+                    365,
+                    84
+                  ],
+                  "type": "text",
+                  "content": "Tính toán nhiễu trên tệp Mạng được chia sẻ",
+                  "score": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bbox": [
+            58,
+            87,
+            266,
+            170
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 3,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                85,
+                266,
+                102
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    85,
+                    266,
+                    102
+                  ],
+                  "type": "text",
+                  "content": "Các sơ đồ khóa bảng vốn có được sử dụng trong",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                102,
+                266,
+                115
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    102,
+                    266,
+                    115
+                  ],
+                  "type": "text",
+                  "content": "công cụ cơ sở dữ liệu Borland không cho phép",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                116,
+                267,
+                129
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    116,
+                    267,
+                    129
+                  ],
+                  "type": "text",
+                  "content": "người dùng thực hiện can thiệp đồng thời",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                60,
+                130,
+                256,
+                142
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    60,
+                    130,
+                    256,
+                    142
+                  ],
+                  "type": "text",
+                  "content": "tính toán. Tính toán nhiễu",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                143,
+                256,
+                156
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    143,
+                    256,
+                    156
+                  ],
+                  "type": "text",
+                  "content": "tạo ra một tập hợp các bảng liên quan đến",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                158,
+                142,
+                171
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    158,
+                    142,
+                    171
+                  ],
+                  "type": "text",
+                  "content": "tập tin mạng gr4.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            181,
+            267,
+            236
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 4,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                181,
+                267,
+                195
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    181,
+                    267,
+                    195
+                  ],
+                  "type": "text",
+                  "content": "Bản xây dựng chương trình ngày 02 tháng 6 năm 2002 cho phép",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                196,
+                268,
+                209
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    196,
+                    268,
+                    209
+                  ],
+                  "type": "text",
+                  "content": "người dùng chỉ định một thư mục riêng cho liên",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                60,
+                210,
+                266,
+                223
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    60,
+                    210,
+                    266,
+                    223
+                  ],
+                  "type": "text",
+                  "content": "tính toán tham chiếu. Việc lựa chọn được thực hiện",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                223,
+                257,
+                236
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    223,
+                    257,
+                    236
+                  ],
+                  "type": "text",
+                  "content": "khi bắt đầu tính toán nhiễu.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "bbox": [
+            58,
+            247,
+            268,
+            303
+          ],
+          "type": "text",
+          "angle": 0,
+          "index": 5,
+          "lines": [
+            {
+              "bbox": [
+                59,
+                247,
+                268,
+                261
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    247,
+                    268,
+                    261
+                  ],
+                  "type": "text",
+                  "content": "Các hoạt động như chỉ định tương quan độ mờ",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                261,
+                267,
+                275
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    261,
+                    267,
+                    275
+                  ],
+                  "type": "text",
+                  "content": "tion sẽ thất bại nếu tập tin mạng hiện tại không hoạt động.",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                276,
+                266,
+                289
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    276,
+                    266,
+                    289
+                  ],
+                  "type": "text",
+                  "content": "không khớp với các bảng cơ sở dữ liệu ở chế độ riêng tư",
+                  "score": 1.0
+                }
+              ]
+            },
+            {
+              "bbox": [
+                59,
+                288,
+                109,
+                305
+              ],
+              "spans": [
+                {
+                  "bbox": [
+                    59,
+                    288,
+                    109,
+                    305
+                  ],
+                  "type": "text",
+                  "content": "thư mục.",
+                  "score": 1.0
+                }
+              ]
+            }
+          ],
+          "merge_prev": false
+        },
+        {
+          "type": "image",
+          "bbox": [
+            273,
+            94,
+            564,
+            398
+          ],
+          "blocks": [
+            {
+              "bbox": [
+                273,
+                94,
+                564,
+                398
+              ],
+              "type": "image_body",
+              "angle": 0,
+              "lines": [
+                {
+                  "bbox": [
+                    273,
+                    94,
+                    564,
+                    398
+                  ],
+                  "spans": [
+                    {
+                      "bbox": [
+                        273,
+                        94,
+                        564,
+                        398
+                      ],
+                      "type": "image",
+                      "content": "Interference\nCoordination Distance (km) 200.0\nMaximum frequency Separation (MHz) 150.0\nDefault Minimum Interference Level (dBm) -115.0\nMargin (dB) 10.0\nDigital Interference Objective\nThreshold degradation - multipath (dB) 1.0\nAnalyze current file only\nSub network intra system interference\nSub network against network interference\nIgnore diversity antennas\nIgnore adjacent channels\nInterference Calculation Directory\nUse network file directory\nUse private directory\nC:\\TEMP Browse",
+                      "image_path": "6241fddf026b6454ee1de892dea4a55988d9856b50d36abae4ec44092845c42a.jpg"
+                    }
+                  ]
+                }
+              ],
+              "index": 6
+            }
+          ],
+          "index": 6,
+          "sub_type": "text_image"
+        }
+      ]
+    }
+  ],
+  "_backend": "hybrid",
+  "_ocr_enable": false,
+  "_vlm_ocr_enable": false,
+  "_version_name": "3.1.8"
+}

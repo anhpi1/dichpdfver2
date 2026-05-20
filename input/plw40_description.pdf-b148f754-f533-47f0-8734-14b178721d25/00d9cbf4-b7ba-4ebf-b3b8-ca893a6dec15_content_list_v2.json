@@ -1,0 +1,5436 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PROGRAM ORGANIZATION "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                122,
+                954,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "NETWORK MODULE "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                157,
+                954,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SUMMARY MODULE 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                196,
+                954,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAIN DATA MODULE 3 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                232,
+                954,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ANTENNA HEIGHTS MODULE 4 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                268,
+                954,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MICROWAVE WORKSHEET MODULE 5 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                304,
+                954,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "VHF - UHF WORKSHEET MODULE 6 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                340,
+                954,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "MULTIPATH MODULE "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                376,
+                954,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "REFLECTION MODULE "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                412,
+                954,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DIFFRACTION MODULE 8 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                448,
+                954,
+                467
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "AREA COVERAGE MODULE 9 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                484,
+                954,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "PRINT PROFILE MODULE 10 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                520,
+                954,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAIN VIEW 10 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                556,
+                954,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "SITE DATABASE 10 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                592,
+                954,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRA SYSTEM INTERFERENCE 11"
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                628,
+                954,
+                647
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "ANTENNA and RADIO DATA FILES 11 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                664,
+                954,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAIN DATABASES 13 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                700,
+                954,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "REPORTS 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                736,
+                954,
+                755
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "LANGUAGE 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                772,
+                954,
+                791
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENTATION 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                808,
+                954,
+                827
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                88
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                36,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 1 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PROGRAM ORGANIZATION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                106,
+                312,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Pathloss program is a comprehensive path design tool for radio links operating in the frequency range from 30 MHZ to 100 GHz. The program is organized into eight path design modules, an area signal coverage module and a network module which integrates the radio paths and area coverage analysis. Switching between modules is accomplished by selecting the module from the menu bar. The functions and features of these modules are described in the following paragraphs. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                142,
+                947,
+                234
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "NETWORK MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                252,
+                253,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Network module provides a geographic interface to the path design modules simply by clicking on the link between two sites. This feature significantly reduces the design effort on large projects. Intra system interference calculations are carried out in the Network module. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                289,
+                356,
+                450
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Data Integrity "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                469,
+                171,
+                487
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Managing change is a difficult task on any project. As the design proceeds, the network module tracks all changes made to the site names, coordinates and site elevations and ensures data integrity throughout all data files. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                487,
+                351,
+                575
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": []
+            },
+            "bbox": [
+                53,
+                577,
+                570,
+                595
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/bd298ea7bb832ac8ac051171dd2b24b19ec5bc99aed552ed504529f50367c3dc.jpg"
+                },
+                "content": "| Location | X (°) | Y (°) |\n|---|---|---|\n| Fort St. John | 121 | 15 |\n| Pine Valley | 29 | 56 |\n| Dawson Creek | 118 | 46 |\n| Toms Lake | 120 | 33 |\n| Demmit | 122 | 29 |\n| Beaverlodge | 107 | 14 |\n| Woking | 109 | 29 |\n| Grande Prairie | 109 | 14 |\n| Fairview | 109 | 46 |\n| Brownvale | 118 | 56 |\n| Peace River | 107 | 15 |",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "sub_type": "line",
+            "bbox": [
+                361,
+                258,
+                952,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Layers "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                613,
+                117,
+                628
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Both links and sites can be assigned different layers to selectively work on different routing options or frequency bands. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                630,
+                906,
+                667
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Drawing Scaling "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                686,
+                197,
+                703
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Scaling options are provided to produce a workable display for several sites or networks with several thousand sites. Networks consisting of widely separated cities each with a high concentration of radio links are handled using a combination of scaling and layers. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                704,
+                911,
+                758
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Importing Site Data "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                776,
+                223,
+                792
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A project normally starts by entering a list of site names and coordinates. This can be carried out by importing comma delimited files from a spreadsheet or any text file. Sites and links can also be imported from the site database or by directly importing Pathloss data files. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                792,
+                937,
+                848
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Link Labels "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                866,
+                156,
+                882
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Labels can be drawn on the link lines between sites in either a free form or using predefined specifications which are updated from the individual pathloss data files. The predefined formats include "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                883,
+                929,
+                920
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 2 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "any combination of the following parameters: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                106,
+                434,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TX channel ID "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                125,
+                174,
+                140
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "TX frequency "
+                    }
+                ]
+            },
+            "bbox": [
+                290,
+                125,
+                408,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "polarization "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                143,
+                158,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "distance "
+                    }
+                ]
+            },
+            "bbox": [
+                290,
+                143,
+                367,
+                157
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "azimuth "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                161,
+                124,
+                176
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Map Crossings "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                196,
+                189,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A map crossing report for a link itemizes the intersections in terms of the distance in inches / centimeters from the nearest corner of the map and the accumulated distance along the profile. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                215,
+                937,
+                252
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Site List Report "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                268,
+                192,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This report provides a listing of site names, call signs, coordinates and elevations "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                287,
+                741,
+                306
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Equipment Summary Report - Microwave applications "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                323,
+                514,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This report reads the individual pathloss data files and generates an equipment summary. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                340,
+                808,
+                359
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Frequency Plan Report - Microwave applications "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                377,
+                468,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This report reads the individual pathloss data files and generates a transmit and receive frequency assignment summary. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                395,
+                885,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SUMMARY MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                449,
+                250,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Summary Module is the default startup display in the Pathloss program and provides the following functions: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                484,
+                913,
+                521
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "provides a central location for the entry of path data parameters. Path calculations are carried out down to the receive signal level. The Worksheet module completes the propagation reliability analysis. Some items such as the site names and call signs can only be entered in this module. Other entries, such as antenna heights, can be changed in any design module in the program. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "provides the interface to the Pathloss site database for data entry and interference analysis. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "sets the application type as either microwave (point to point or point to multipoint) or VHF-UHF. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                540,
+                934,
+                647
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAIN DATA MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                666,
+                297,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A terrain profile is a prerequisite to access most design modules in the program. This consists of a table of distance and elevations between the two sites. Terrain profiles are created in this module using any of the following methods: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                703,
+                937,
+                758
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "• manual entry of distances and elevations from topographic maps "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "direct entry of distance - elevation data from topographic maps using a digitizing tablet "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "conversion of distance - elevation data in text files from other sources "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "distance-elevation data is read from a terrain database "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                775,
+                846,
+                847
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The design has been optimized for manual data entry and editing. Single structures (trees, buildings or water towers) or ranges of structures can be added to the profile. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                864,
+                919,
+                902
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 3 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Special Features "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                106,
+                205,
+                123
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Grid coordinate systems "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                142,
+                267,
+                159
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Site coordinates can be entered as latitude and longitudes or in any of the grid coordinate formats listed below. Entry in either latitude-longitude format or grid format will automatically be converted to the other format. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                160,
+                933,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "UTM (Universal Transverse Mercator) "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                232,
+                375,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "South African Gauss conformal "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                252,
+                323,
+                267
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "UK Ordinance grid "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                268,
+                217,
+                287
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Gauss Kruger (soon) "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                287,
+                233,
+                305
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Swiss national grid "
+                    }
+                ]
+            },
+            "bbox": [
+                467,
+                233,
+                630,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "New Zealand grid "
+                    }
+                ]
+            },
+            "bbox": [
+                467,
+                252,
+                620,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Irish grid "
+                    }
+                ]
+            },
+            "bbox": [
+                467,
+                268,
+                544,
+                287
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Transformation between Datums "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                323,
+                334,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Site coordinates can be transformed from one datum to another (e.g. NAD-27 to NAD-83). The program includes definitions for 120 different datums. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                340,
+                937,
+                376
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Terrain Profile Modifications "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                395,
+                297,
+                412
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Terrain profiles taken from topographic maps usually show flat top hills and valleys. These can be automatically enhanced by a specified percentage of the contour interval. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "The profile can be stretched or shrunk to match the distance calculated from the coordinates. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Redundant points can be stripped from a terrain profile "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                412,
+                929,
+                484
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Survey Angles "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                503,
+                181,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vertical angles from either site to any point on the profile can be calculated considering the instrument height and the value of K for light. The measured angle can be entered to shown the correction required to the elevation at the selected point. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                521,
+                944,
+                574
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ANTENNA HEIGHTS MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                592,
+                339,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This module determines the antenna heights which satisfy a clearance criteria specified as an earth radius factor (K), a percentage of the first Fresnel zone radius and an optional fixed height. Two separate clearance criteria can be specified for both main and diversity antennas. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                628,
+                473,
+                739
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The antenna heights can be varied in any combination or the heights can be optimized based on the minimum value of the sum of the squares of the antenna heights. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                757,
+                442,
+                829
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Special Features "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                847,
+                205,
+                864
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Structures "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                883,
+                145,
+                898
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The location of the critical points may not be "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                901,
+                428,
+                919
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/98c7a2734ade1af987777711914389b438e567ab224bd8c0e7c18a2e6b966766.jpg"
+                },
+                "content": "| x    | Area Value | Line Value |\n| ---- | ---------- | ---------- |\n| 0    | 580        | 650        |\n| 5    | 580        | 650        |\n| 10   | 500        | 650        |\n| 15   | 350        | 650        |\n| 20   | 550        | 650        |\n| 25   | 580        | 650        |\n| 30   | 600        | 650        |\n| 35   | 600        | 650        |\n| 40   | 600        | 650        |\n| 45   | 600        | 650        |\n| 51.9 | 620        | 700        |",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "sub_type": "area",
+            "bbox": [
+                477,
+                627,
+                952,
+                931
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                87
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 4 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "evident when the profile was created in the Terrain Data module. A structure can be added, edited or even moved directly in the Antenna Heights module. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                106,
+                950,
+                142
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Calculating clearance on an existing path "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                160,
+                405,
+                176
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The clearance criteria on an existing path can be determined interactively by entering a value of K or a percent of the first Fresnel zone radius. The other parameter will be calculated over the entire path. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                178,
+                913,
+                215
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Clearance display "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                233,
+                215,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The clearance can be displayed at any point detailing the contributions of the controlling clearance criteria. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                251,
+                949,
+                268
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Clearance and Orientation Reports "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                287,
+                354,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "These reports show all points which are within a specified tolerance of the clearance criteria. The azimuthal and vertical angles are given along with the variation of the vertical angle for a range of values of K. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                305,
+                949,
+                357
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Antenna height tradeoff reports "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                377,
+                320,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The antenna height at one site is varied in fixed increments and the corresponding antenna height at the other site is reported. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                395,
+                926,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MICROWAVE WORKSHEET MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                448,
+                408,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A complete transmission analysis is carried out in the Microwave Worksheet module. The data entry forms are accessed by clicking on an equipment icon. The worksheet is calculated and the results are displayed as the data entry proceeds. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                484,
+                913,
+                540
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Reliability Methods "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                556,
+                220,
+                574
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Multipath propagation reliability can be calculated using any of the following methods: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                575,
+                772,
+                594
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Vigants - Barnett © factor, climatic factor and terrain roughness). Terrain roughness is calculated over any segment of the profile reference to sea level or to a least squares fit of the terrain. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "ITU-R P.530-6 (path inclination, grazing angle and geoclimatic factor). The grazing angle is calculated by defining the dominant reflective plane on the profile) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "ITU-R P.530-7 (path inclination and geoclimatic factor) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "KQ factor "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "KQ factor including terrain roughness. The frequency and distance exponents can be set for specific regional standards. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                612,
+                929,
+                757
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Propagation reliability can be expressed as availability or unavailability using the following conventions. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                773,
+                921,
+                792
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Total time below level for the worst month and annual basis. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Worst month unavailability and severely errored seconds (SES) using the criteria that fades which last longer than 10 consecutive seconds are considered as system unavailability. The remaining time below level is considered as SES. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                811,
+                936,
+                881
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Diversity Improvement Systems "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                901,
+                326,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 5 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following diversity improvement calculations are provided for baseband switching and IF combining systems. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                106,
+                926,
+                141
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Space diversity "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Angle diversity "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Frequency diversity for 1 for 1 and 1 for N systems "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Hybrid diversity - a frequency diversity system equipped with space diversity at one end. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                143,
+                859,
+                215
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Rain Attenuation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                233,
+                199,
+                250
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Outage due to high intensity rain can be calculated using the Crane or ITU-R p.530 methods using any of the following rain statistics files: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                251,
+                936,
+                286
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Crane rain regions "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "modified Crane rain regions (1966) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "ITU rain regions "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Canadian data for 47 radiosonde locations "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                287,
+                478,
+                357
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Passive Repeaters "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                378,
+                222,
+                395
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Passive repeater links can be created using single/double rectangular reflectors or back to back antennas. A path can have up to three passive repeaters of any type. Separate path profiles are first created for each passive link and analyzed for clearance. The profiles are then merged together in the Microwave Worksheet module to form the complete passive design, including transmission and propagation reliability analysis. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                395,
+                910,
+                484
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Templates "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                503,
+                148,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Data entry can be simplified by loading the equipment parameters from another pathloss data file. Any file can be used as a template. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                521,
+                944,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Lookup Tables "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                575,
+                186,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Lookup tables can be created for antennas, transmission lines, radios and TX channel assignments. Data can be imported from antenna and radio data files into a lookup table or directly into the worksheet. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                593,
+                944,
+                628
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VHF - UHF WORKSHEET MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                647,
+                382,
+                664
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A separate worksheet is available for applications in the VHF-UHF and cellular frequency ranges. The data entry format is tailored for the typical equipment specifications used in these applications. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                685,
+                916,
+                720
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Antenna gains in these frequency ranges are usually specified in dBd (dB above a theoretical dipole) and are mounted with a horizontal antenna boresight unlike microwave antennas which provide for vertical alignment. The transmission analysis considers the vertical and horizontal antennal angles using antenna data files. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                738,
+                941,
+                809
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The VHF-UHF Worksheet module includes lookup tables for antennas, radios and transmission lines and uses antenna data files. The template feature is also implemented for data entry convenience. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                828,
+                939,
+                864
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 6 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "MULTIPATH MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                104,
+                264,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Ray tracing techniques are employed to analyze the reflective characteristics of a path and to simulate abnormal propagation conditions. The display operates in two modes "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                143,
+                460,
+                215
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Constant Gradient "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                234,
+                215,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A curved earth representation is used and all rays are drawn as straight lines. The path of the reflected rays show the susceptibility of the path to a specular refection and helps identify the extents of the reflective plane. In this mode, the signal variation as a function of an antenna height can be displayed. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                252,
+                473,
+                378
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Variable Gradient "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                396,
+                210,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The user defines the refractivity gradient or K as a function of height. The display uses a flat earth representation and the rays are drawn as curved lines. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                414,
+                923,
+                450
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/79018ef63b57ca4cecad158119ceaf71281accde5893bcb442f8f51245ae590a.jpg"
+                },
+                "content": "| x    | Red Area | Orange Area |\n| ---- | -------- | ----------- |\n| 0    | 880      | 800         |\n| 5    | 870      | 780         |\n| 10   | 860      | 750         |\n| 15   | 840      | 680         |\n| 20   | 820      | 720         |\n| 25   | 800      | 760         |\n| 30   | 780      | 740         |\n| 36.3 | 760      | 720         |",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "sub_type": "area",
+            "bbox": [
+                475,
+                103,
+                952,
+                409
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Profile Formats "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                468,
+                191,
+                484
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An instructional display which illustrates the concept of the effective earth radius is available in the multipath module. Profiles can be displayed in virtually any format. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                484,
+                877,
+                523
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REFLECTION MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                539,
+                277,
+                556
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Reflection module analyzes the variation in receive signal level on paths whose geometry can support a specular reflection. The receive signal is calculated as a function of any of the following variables: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                575,
+                947,
+                613
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Site 1 antenna height "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                613,
+                240,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Frequency "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                632,
+                151,
+                648
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Site 2 antenna height "
+                    }
+                ]
+            },
+            "bbox": [
+                290,
+                613,
+                473,
+                630
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Earth radius factor(K)"
+                    }
+                ]
+            },
+            "bbox": [
+                290,
+                631,
+                450,
+                667
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tide level "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                667,
+                142,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The calculation starts by defining the end points of the reflective plane. The reflective plane can be constructed by any of the following means: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                703,
+                457,
+                757
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a least squares fit of the terrain over the defined range "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a plane defined only by the end points "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a constant elevation plane "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                758,
+                449,
+                829
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The effects of divergence (the scattering of a reflected signal due to the curvature of the earth), roughness, ground cover and clearance loss can be included in the calculation. The antenna "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                845,
+                468,
+                919
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/f0e7efe4e1e0849745e2143f1a298874db185c801e8189b1935b4f7a08ee0e4f.jpg"
+                },
+                "content": "| Earth Radius Factor - arctan(K) (°) | Relative Receive Signal (dB) |\n| ---------------------------------- | ---------------------------- |\n| 45                                 | -1.00                        |\n| 53                                 | -1.33                        |\n| 65                                 | 2.00                         |\n| 78                                 | 5.00                         |\n| 85                                 | 10.00                        |",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "sub_type": "line",
+            "bbox": [
+                475,
+                632,
+                952,
+                931
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 7 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                973
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "discriminations are automatically factored into the results using the 3 dB beamwidths. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                106,
+                777,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A dispersion worksheet shows a breakdown of the relative amplitude and delay of the reflected signal. Any of the parameters (frequency, antenna heights, K, beamwidths.. ) can be changed to determine the corresponding change in the reflected signal amplitude. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                142,
+                921,
+                196
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DIFFRACTION MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                214,
+                284,
+                231
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Diffraction Algorithms "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                252,
+                241,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A diffraction loss calculation first characterizes the terrain using the following categories: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                270,
+                452,
+                306
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "single knife edge "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "near single knife edge or isolated obstacle "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "multiple knife edge (using Epstein-Peterson or Deygout methods) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "foreground loss between an antenna and its horizon (height - gain) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "default irregular terrain (Longley-Rice) or rough earth diffraction "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                324,
+                460,
+                486
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/82eb17161323362b0cdfe29c3273a8a8e98a1340f5b836d0772fbeb9d8846b2c.jpg"
+                },
+                "content": "| x    | Blue Line | Orange Line | Gray Area |\n| ---- | --------- | ----------- | --------- |\n| 0    | 50        | 50          | 15        |\n| 5    | 30        | 30          | 0         |\n| 10   | 30        | 30          | 0         |\n| 15   | 50        | 50          | 0         |\n| 20   | 80        | 80          | 50        |\n| 25   | 50        | 50          | 20        |\n| 30   | 50        | 50          | 10        |\n| 35   | 70        | 70          | 45        |\n| 40   | 30        | 30          | 20        |\n| 48.3 | 40        | 40          | 35        |",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "sub_type": "line",
+            "bbox": [
+                478,
+                213,
+                952,
+                518
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Three automatic diffraction algorithms are provided: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                503,
+                413,
+                537
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "TIREMterrain integrated rough earth model "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "NSMA National Spectrum Managers Association "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Pathloss a user configurable algorithm "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                540,
+                589,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Each of these algorithms follow a set of rules to characterize the terrain and are the basis of variable parameter calculations, area coverage and interference analysis. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                594,
+                898,
+                631
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On line of sight paths with less than 60% first Fresnel zone , the loss is determined using the following methods: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                647,
+                906,
+                681
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "a series of isolated obstacles defined by the 60% Fresnel zone intersections with the terrain . "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Longley-Rice "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Longley-Reasoner "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                684,
+                898,
+                739
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Interactive Diffraction Loss Calculation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                757,
+                383,
+                773
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In addition to the three automatic algorithms, the user can analyze any portion of the path using any combination of the following basic algorithms: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                775,
+                883,
+                810
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/be37a4b1223a1ac0e46257b9e26da02e193a74422d9355ae2d9cb0c5255548b0.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>knife edge</td><td>isolated obstacle (knife edge with a radius)</td></tr><tr><td>average diffraction</td><td>2 ray optics</td></tr><tr><td>height gain</td><td>Longley and Rice</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                53,
+                811,
+                665,
+                864
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This feature permits such computations as: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                864,
+                419,
+                882
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "replacing otherwise irregular terrain with an effective obstacle "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "determining the loss from a reflection point to either site. "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                883,
+                632,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 8 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Tropospheric Scatter Loss - Combined Loss "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                125,
+                436,
+                141
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On obstructed paths, tropospheric scatter loss is automatically calculated and combined with the diffraction loss. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                142,
+                866,
+                176
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Time Variability "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                196,
+                192,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On non line of sight paths, the time variability of the transmission loss is analyzed using the statistical curves contained in Technical note 101. The complete set of these curves have been digitized into the program. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                215,
+                910,
+                268
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Variable Parameters "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                287,
+                236,
+                304
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Diffraction loss can be calculated as a function of any of the following parameters: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                305,
+                741,
+                323
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "site 1 or site 2 antenna height "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                323,
+                308,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "frequency "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                342,
+                143,
+                359
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "earth radius factor (K) "
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                323,
+                596,
+                340
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "distance along the path "
+                    }
+                ]
+            },
+            "bbox": [
+                408,
+                342,
+                607,
+                359
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "AREA COVERAGE MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                376,
+                321,
+                393
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "An area coverage analysis requires a terrain data base. A completely automated 3 step process is used to create area coverage and line of sight displays. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                414,
+                354,
+                503
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Step 1 generates the radial terrain profile data "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                505,
+                349,
+                539
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Step 2 calculates the combined diffraction and tropospheric scatter loss and the vertical angles along each radial. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                541,
+                352,
+                609
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Step 3 specifies the radio and antenna parameters, signal level criteria and the time and location variability constraints. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                612,
+                339,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A calculation can be modified by returning to the appropriate step and changing the required parameters .The analysis considers the elevation angles on line of sight paths or the horizon angles on obstructed paths. Base station antennas can include mechanical down tilt. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                702,
+                344,
+                864
+            ]
+        },
+        {
+            "type": "chart",
+            "content": {
+                "image_source": {
+                    "path": "images/09757971ef1caed20bcc973c6237b1dc9647f00288be0742459c63c623613414.jpg"
+                },
+                "content": "| Longitude | Latitude | Region |\n| :--- | :--- | :--- |\n| 52' | 12' | Fraser Junction |\n| 48' | 16' | Fraser Junction |\n| 44' | 8' | Fraser Junction |\n| 40' | 12' | Fraser Junction |\n| 36' | 16' | Fraser Junction |\n| 56' | 12' | Fraser Junction |\n| 52' | 16' | Fraser Junction |\n| 48' | 8' | Fraser Junction |\n| 44' | 12' | Fraser Junction |\n| 40' | 16' | Fraser Junction |\n| 36' | 8' | Fraser Junction |\n| 52' | 12' | Fraser Junction |\n| 48' | 16' | Fraser Junction |\n| 44' | 8' | Fraser Junction |\n| 40' | 12' | Fraser Junction |\n| 36' | 16' | Fraser Junction |\n| 52' | 12' | Fraser Junction |\n| 48' | 16' | Fraser Junction |\n| 44' | 8' | Fraser Junction |\n| 40' | 12' | Fraser Junction |\n| 36' | 16' | Fraser Junction |\n| 52' | 12' | Fraser Junction |\n| 48' | 16' | Fraser Junction (Green) |\n| 44' | 8' | Fraser Junction (Blue) |\n| 40' | 12' | Fraser Junction (Red) |\n| 36' | 16' | Fraser Junction (Green) |\n| 52' | 12' | White (White) |\n| 48' | 16' | White (White) |\n| 44' | 8' | White (White) |\n| 40' | 12' | White (White) |\n| 36' | 16' | White (White) |\n| 52' | 12' | White (White) |\n| 48' | 16' | White (White) |\n| 44' | 8' | White (White) |\n| 40' | 12' | White (White) |\n| 36' | 16' | White (White) |\n| 52' | 12' | White (White) |\n| 52' | 16' | White (White) |\n| 52' | 8' | White (White) |\n| 52' | 12' | White (White) |\n| 52' | 16' | White (White) |\n| 52' | 8' | White (White) |\n| 52' | 12' | White (White) |\n| 52' | 8' | White (White) |\n| 52' | 12' | White (White) |\n| 52' | 8' | White (White) |\n| 52' | 12' | White (White) |\n| 52' | 8' | White (White) |\n| 52' | 12' | White (White) |",
+                "chart_caption": [],
+                "chart_footnote": []
+            },
+            "sub_type": "geo",
+            "bbox": [
+                364,
+                410,
+                942,
+                834
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The displays are presented as color coded radial lines or a solid color coded display. Both line of sight and signal level displays are available in either format. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                882,
+                919,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                88
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 9 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                838,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Multi Site Area Coverage "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                106,
+                274,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Both line of sight and signal coverage calculations can be imported into the network display to analyze multi site coverage. These can be selectively switched on and off to determine their effectiveness in the site selection process. Each site coverage display can be set to show either signal coverage or line of sight. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                125,
+                921,
+                196
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "PRINT PROFILE MODULE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                214,
+                300,
+                231
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Three common profile formats are provided: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                252,
+                431,
+                268
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a flat earth display with the earth radius factor (K) represented as secondary profiles above the flat earth. The Fresnel zones are displayed on the rays between the antennas. Four different values of K and Fresnel zone references can be displayed. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                268,
+                941,
+                324
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "curved earth displays with either straight or curved horizontal axis are available using a single value of K with four Fresnel zone references. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                324,
+                901,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "On space diversity applications, different the Fresnel zone references can be specified for the main and diversity antenna combinations. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                378,
+                926,
+                412
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Title Block "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                431,
+                148,
+                448
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A optional title block can be included for project specific information. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                449,
+                630,
+                468
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAIN VIEW "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                503,
+                202,
+                520
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A three dimensional terrain view is available in the Terrain Data and Network modules. In the Network module, the user simply defines a rectangular area on the screen to display the terrain. New sites can be added in the terrain view. The implementation is based on the Sun Microsystems OPENGL libraries supplied with Windows 95/98 and Windows NT. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                541,
+                450,
+                684
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "SITE DATABASE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                703,
+                217,
+                719
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All options of the program include an interface in the Summary and Network modules to a site database. Any number of site databases can be created. The examples section of the CD-ROM includes the complete microwave data base for Canada. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                741,
+                465,
+                847
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/8ea5d6e857fa2f3b86392a865e5937e11f2f7b8250f64d36d2b2115c4c6e70f5.jpg"
+                },
+                "content": "Color-coded topographic or topographic map with yellow, green, and brown gradients, featuring a red square marker and a blue arrow (no text or symbols)",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "sub_type": "natural_image",
+            "bbox": [
+                513,
+                502,
+                924,
+                845
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The database consists of the following Borland Paradox tables: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                866,
+                589,
+                883
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "owners and operators "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                886,
+                243,
+                902
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "site records "
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                886,
+                452,
+                901
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "station records "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                904,
+                184,
+                919
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "link records "
+                    }
+                ]
+            },
+            "bbox": [
+                349,
+                902,
+                450,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 10 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                826,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "transmit channel records "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                107,
+                264,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "passive repeaters records "
+                    }
+                ]
+            },
+            "bbox": [
+                351,
+                108,
+                575,
+                125
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The table design has been optimized for interference calculations using the current pathloss data file against a site data base. The analysis is identical to the intra system interference analysis described in the following paragraph. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                142,
+                921,
+                196
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Due to the relationship between tables, it is not possible to simply transfer data from existing databases into the Pathloss site database. Contact CTE for additional information. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                215,
+                928,
+                250
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "INTRA SYSTEM INTERFERENCE"
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                268,
+                364,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Interference calculations carry the analysis down to the composite threshold degradation of the victim receivers due to multiple interferers. In conjunction with the Microwave Worksheet you can see the effect of the interference on outage times. Antenna data files are used to determine antenna discriminations. The radio data files are used to calculate the filter improvement (interference reduction factor). If threshold to interference (T-I) or interference reduction factor curves, are available for the victim - interferer combination, these will be used. Otherwise, the transmit spectrum of the interferer will be convoluted against the receive selectivity. If these are not available, default masks will be used. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                306,
+                950,
+                431
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Network module is used to calculate intra system interference. The calculation is made only for the sites and links on visible layers. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                450,
+                913,
+                484
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Case Detail Report "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                503,
+                223,
+                521
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This report shows a complete analysis for each interference case. All of the cases for each receiver are summarized and the composite threshold degradation is calculated. If an interference case is a OHLOSS candidate, the calculation can be carried out directly and the results are incorporated into the report. The radio and antenna data files used in the calculation can be displayed. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                522,
+                942,
+                593
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Summary and Cross Reference Reports "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                612,
+                398,
+                628
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Two versions of a summary report are available. The cross reference report is indented as a navigation aid to the more comprehensive case detail report. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                630,
+                924,
+                665
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "High-Low Violation Report "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                685,
+                282,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "This report itemizes the frequencies used at each site and identifies any high-low violations in the frequency plan. The channel ID naming convention is used as the criteria for violation. "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                703,
+                870,
+                738
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "ANTENNA and RADIO DATA FILES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                756,
+                382,
+                773
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Microwave Antenna Data Files "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                57,
+                792,
+                318,
+                811
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A microwave interference analysis requires horizontal radiation pattern envelopes for the four polarization combinations (HH, VV, HV and VH). The same information is required for point to multipoint applications where the base antenna has a fixed orientation. This data is contained in separate antenna data files one for each antenna model. These files start as ASCII files following a standard format used by most antenna manufacturers and converted to a binary format inside the Pathloss program. The file contains the basic antenna specifications and the radiation pattern envelopes and can also include vertical radiation pattern "
+                    }
+                ]
+            },
+            "bbox": [
+                57,
+                811,
+                946,
+                919
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 11 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                828,
+                955,
+                950,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "data. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                107,
+                101,
+                122
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At present, the program includes ASCII and binary antenna files for approximately 3500 microwave antenna models. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                142,
+                887,
+                176
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Microwave Radio Data Files "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                196,
+                300,
+                214
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "In order to calculate the degradation of a digital receiver threshold in the presence of interfering signals of any bandwidth and modulation, the following parameters are required: "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                215,
+                942,
+                252
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "equation_inline",
+                                "content": "1 0 ^ { - 6 }"
+                            },
+                            {
+                                "type": "text",
+                                "content": "BER threshold "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "threshold to interference ratio (T-I) for a like modulation and capacity cochannel interferer "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "channel bandwidth "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "3 dB bandwidth of the transmit spectrum "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                268,
+                861,
+                339
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following curves will be used if available: "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                359,
+                434,
+                376
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "transmitter spectrum versus frequency "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "T-I ratio versus frequency for a like modulations and capacity interferer "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "T-I ratio versus frequency for a CW interferer "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "T-I ratio versus frequency for interferers with different modulations and capacities "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Interference reduction factor versus frequency for a like modulation and capacity interferer. "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Interference reduction factor versus frequency for interferers with different modulation and capacities "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                378,
+                872,
+                502
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The above data and other general specifications is contained in radio data files. These files start as ASCII files and are converted to a binary format inside the Pathloss program. The binary file conversion will create default transmit spectrum and receive selectivity masks which will be used to determine the filter improvement if the required curves are not available. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                521,
+                947,
+                592
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "At present, the program includes ASCII and binary radio data files for approximately 120 digital radio models from major manufacturers. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                611,
+                906,
+                646
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Threshold-to-Interference (T-I) Ratio Definition "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                666,
+                444,
+                683
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The T-I ratio is defined as the ratio of to the desired to the undesired signal power that degrades the digital receiver 10-6 BER threshold by 1 dB. The advantages of T-I are that the difference in thresholds, due to bit rate, modulation technique, and noise figure, are all taken into account. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                702,
+                916,
+                756
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Measurement of T-I for a digital radio is accomplished by fading the receiver to the 10-6 BER threshold point. The signal level is then increased by 1 dB and interference is injected until a BER of 10-6 is again achieved on the link. The ratio of the initial power level of the desired received signal to the interference power is the T-I ratio. Note that this value will be different for different interferers, especially if the interfering signal is offset in frequency from and/or has a wider spectrum than, the victim receiver’s bandwidth. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                773,
+                929,
+                881
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "VHF-UHF Antenna Data Files "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                900,
+                312,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 12 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                826,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Vertical and horizontal radiation patterns are required in an receive signal area coverage analysis and in a point to multipoint application where the base station antenna has a fixed orientation. This data is contained in separate VHF-UHF antenna data files one for each antenna model. These files start as ASCII files following the format proposed by the NSMA and are converted to a binary format inside the Pathloss program. The file contains the basic antenna specifications and the horizontal and vertical radiation pattern. Unlike the microwave antenna patterns which are envelope patterns, the patterns for the VHF-UHF antennas are typical patterns. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                106,
+                950,
+                233
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The program includes approximately 1500 VHF-UHF antenna data files for several manufacturers in the frequency range 50 to 2500 MHZ. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                250,
+                926,
+                287
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "TERRAIN DATABASES "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                304,
+                274,
+                321
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "A terrain database is required for area coverage analysis, OHLOSS calculations in interference analysis and the terrain view feature. Single path profiles can also be generated from a terrain data base "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                340,
+                936,
+                378
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Primary and Secondary Databases "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                396,
+                359,
+                412
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The Pathloss program supports a primary and secondary database. This allows a high resolution database with partial coverage to be supplemented with a second database of lower resolution, but complete coverage. An example of this situation is the USGS 1 degree and 7.5 minute digital elevation models in the United States. The 1 degree DEM has a resolution of 3 arc seconds for latitudes less than 50E and has complete coverage. The 7.5 minute DEM has a 30 meter resolution. The coverage of the latter is not complete. One could specify the 7.5 minute DEM as the primary database and the 1 degree DEM as the secondary. A terrain profile would be generated from the 7.5 minute data, where it is available, and default to the 1 degree data if the required files are not available. The program creates a report on the primary and secondary file usage over the profile. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                414,
+                934,
+                575
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Datum - Coordinate Transformation "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                594,
+                366,
+                611
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "If a database is based on the WGS84 datum, the users geographic coordinates will be automatically transformed to this datum for all database operations. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                611,
+                903,
+                648
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Supported Terrain Database Formats "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                666,
+                379,
+                684
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The following terrain data base formats are currently supported. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                685,
+                591,
+                702
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "USGS 1:250,000 DEMS (3 arc second) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "USGS 30 and 10 meter data for 7.5 minute quad mapping "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "USGS GTOPO30 global 30 arc second terrain data "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DTED (Digital terrain elevation data - US DMA format) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "CRC - Canadian Research Council) "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "ESRI (ArcInfo) GRIDASCII in geographic and UTM formats "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "South African National Exchange Standard "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "MDT200 and MDT25 - Spain "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Odyssey Terrain data in UTM, Swiss, Irish and UK grid formats "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Phoenix -Airtouch Cellular format "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "Micropath - 3 second terrain data "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "AUSLIG - Australian 3 second terrain data "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                703,
+                645,
+                917
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                55,
+                34,
+                228,
+                85
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                37,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 13 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                826,
+                955,
+                952,
+                972
+            ]
+        }
+    ],
+    [
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Formats Under Development "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                55,
+                125,
+                305,
+                141
+            ]
+        },
+        {
+            "type": "list",
+            "content": {
+                "list_type": "text_list",
+                "list_items": [
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "USGS 30 and 10 meter data supplied in SDTS format "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "UK Ordnance Survey "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "MSI Planet "
+                            }
+                        ]
+                    },
+                    {
+                        "item_type": "text",
+                        "item_content": [
+                            {
+                                "type": "text",
+                                "content": "DGM - Germany "
+                            }
+                        ]
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                142,
+                575,
+                215
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss Terrain Data (soon - no charge upgrade) "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                233,
+                478,
+                251
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Both the USGS 1:250,000 3 arc second DEMS and the GTOPO30 global 30 arc second terrain data are available at no charge from the USGS web site. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                251,
+                937,
+                286
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "As a convenience to Pathloss users, the program ships with USGS GTOPO30 data for the world (except for the Antarctic region). The header and elevation data files are supplied in the native USGS format on two CD-ROMS. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                304,
+                936,
+                357
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "For Pathloss users in the United States, the program ships with compressed 3 second terrain data for the United States and Alaska on a single CD-ROM. This data has been taken directly from the USGS 1:250,000 DEMS. The Pathloss program reads the compressed data directly. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                377,
+                941,
+                431
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "REPORTS "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                449,
+                156,
+                465
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All modules include a report selection with a print preview showing the pagination and can include your company logo. The reports can be printed or copied as formatted text into your word processor. All of the profile screen displays can also be copied to create custom reports. Reports can be save in either RTF (Rich text format) or as ASCII text files. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                486,
+                934,
+                556
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "LANGUAGE "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                575,
+                169,
+                590
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "All documentation and help files are in the English Language. The program and all reports can be switched between English, French, Spanish or a user translation. All text used in the program is located in external ASCII files and can be edited by the user. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                612,
+                946,
+                667
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "DOCUMENTATION "
+                    }
+                ],
+                "level": 1
+            },
+            "bbox": [
+                53,
+                685,
+                233,
+                702
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Complete documentation is supplied which describes the operation of the program and the underlying theory. All formulas and references used in the program are given. "
+                    }
+                ]
+            },
+            "bbox": [
+                52,
+                722,
+                913,
+                758
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "The documentation is not intended as a primer for radio path design. "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                776,
+                635,
+                795
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Pathloss "
+                    }
+                ]
+            },
+            "bbox": [
+                53,
+                34,
+                228,
+                88
+            ]
+        },
+        {
+            "type": "page_header",
+            "content": {
+                "page_header_content": [
+                    {
+                        "type": "text",
+                        "content": "Program Description "
+                    }
+                ]
+            },
+            "bbox": [
+                694,
+                36,
+                952,
+                59
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "Page 14 of 14 "
+                    }
+                ]
+            },
+            "bbox": [
+                826,
+                954,
+                952,
+                972
+            ]
+        }
+    ]
+]

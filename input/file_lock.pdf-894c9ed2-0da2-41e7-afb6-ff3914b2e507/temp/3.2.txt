@@ -1,0 +1,80 @@
+Bản dựng chương trình Pathloss ngày 3 tháng 6 năm 2002 giới thiệu khoá tập tin dữ liệu pathloss (pl 4) và tập tin mạng (gr 4)
+chia sẻ khi các tập tin này nằm trên một ổ đĩa mạng đã chia sẻ. Việc khóa và chia sẻ được kích hoạt nếu
+ổ đĩa gốc chứa tập tin dữ liệu mạng hay mất đường dẫn là một ổ đĩa từ xa. Chú ý rằng điều này có thể thất bại trên một thiết bị ngang hàng
+ngang hàng, nếu một ổ đĩa được truy cập như là một ổ đĩa cục bộ.
+tập tin, một nhắc nhở được đưa ra rằng tập tin là
+chế độ. Không thể lưu tập tin un-
+Để bật chia sẻ tập tin mạng (gr 4), bạn chọn Files - Shared file operation (Tập tin được chia sẻ) trên thanh trình đơn mạng.
+phải được thực hiện trước khi nạp một tập tin mạng. Để bật chia sẻ tập tin mạng sau khi tập tin đã được nạp-
+ed, chọn Files - New và chọn Files - Shared file operation.Sau đó tải lại tập tin.
+Trong chế độ này, không thể lưu tập tin nếu không đáp ứng các điều kiện sau.
+Mỗi địa điểm phải có một dấu hiệu cuộc gọi duy nhất. Đây là một ký tự nhận diện 15 ký tự và không được để trống. Tương tự
+không thể sử dụng dấu hiệu cuộc gọi ở các nơi Mạng khác nhau. Dấu hiệu cuộc gọi phục vụ như là một định danh duy nhất để xác định
+Ngày sửa đổi của tập tin trên đĩa phải giống với tập tin trong bộ nhớ. Một người dùng khác có thể thay đổi-
+Cơ chế chia sẻ sử dụng một tập tin có cùng tên với tập tin mạng với phần mở rộng glk. Tập tin này
+sẽ được tham chiếu đến một tập tin glk trong các mô tả sau và tập tin chứa các thông tin sau:
+danh sách tất cả người dùng đã mở tập tin mạng
+Một chuỗi các bản ghi chứa các thay đổi được thực hiện cho tập tin. Những bản ghi này được dùng để cập nhật indi-
+Tập tin glk được tạo khi người dùng đầu tiên mở tập tin mạng. Tại thời điểm này tập tin chứa tên của
+người dùng và ngày sửa đổi. Số thay đổi được đặt thành số không. Chương trình sẽ bắt đầu theo dõi
+tập tin glk theo khoảng thời gian 30 giây để xác định xem ngày hồi quy đã thay đổi chưa.
+Tập tin glk bị xoá khi người dùng cuối cùng đóng tập tin mạng.
+Bản dựng chương trình Pathloss ngày 3 tháng 6 năm 2002 giới thiệu khoá tập tin dữ liệu pathloss (pl 4) và tập tin mạng (gr 4)
+chia sẻ khi các tập tin này nằm trên một ổ đĩa mạng đã chia sẻ. Việc khóa và chia sẻ được kích hoạt nếu
+ổ đĩa gốc chứa tập tin dữ liệu mạng hay mất đường dẫn là một ổ đĩa từ xa. Chú ý rằng điều này có thể thất bại trên một thiết bị ngang hàng
+ngang hàng, nếu một ổ đĩa được truy cập như là một ổ đĩa cục bộ.
+tập tin, một nhắc nhở được đưa ra rằng tập tin là
+chế độ. Không thể lưu tập tin un-
+Để bật chia sẻ tập tin mạng (gr 4), bạn chọn Files - Shared file operation (Tập tin được chia sẻ) trên thanh trình đơn mạng.
+phải được thực hiện trước khi nạp một tập tin mạng. Để bật chia sẻ tập tin mạng sau khi tập tin đã được nạp-
+ed, chọn Files - New và chọn Files - Shared file operation.Sau đó tải lại tập tin.
+Trong chế độ này, không thể lưu tập tin nếu không đáp ứng các điều kiện sau.
+Mỗi địa điểm phải có một dấu hiệu cuộc gọi duy nhất. Đây là một ký tự nhận diện 15 ký tự và không được để trống. Tương tự
+không thể sử dụng dấu hiệu cuộc gọi ở các nơi Mạng khác nhau. Dấu hiệu cuộc gọi phục vụ như là một định danh duy nhất để xác định
+Ngày sửa đổi của tập tin trên đĩa phải giống với tập tin trong bộ nhớ. Một người dùng khác có thể thay đổi-
+Cơ chế chia sẻ sử dụng một tập tin có cùng tên với tập tin mạng với phần mở rộng glk. Tập tin này
+sẽ được tham chiếu đến một tập tin glk trong các mô tả sau và tập tin chứa các thông tin sau:
+danh sách tất cả người dùng đã mở tập tin mạng
+Một chuỗi các bản ghi chứa các thay đổi được thực hiện cho tập tin. Những bản ghi này được dùng để cập nhật indi-
+Tập tin glk được tạo khi người dùng đầu tiên mở tập tin mạng. Tại thời điểm này tập tin chứa tên của
+người dùng và ngày sửa đổi. Số thay đổi được đặt thành số không. Chương trình sẽ bắt đầu theo dõi
+tập tin glk theo khoảng thời gian 30 giây để xác định xem ngày hồi quy đã thay đổi chưa.
+Tập tin glk bị xoá khi người dùng cuối cùng đóng tập tin mạng.
+Một khi tập tin mạng đã được mở bởi người đầu tiên
+người dùng tất cả những người dùng khác đang mở tập tin sẽ có mặt-
+ed với danh sách người dùng đã mở tập tin
+mở. Người dùng mới được thêm vào danh sách người dùng và
+Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và
+tập tin Pathloss (mất đường dẫn) liên kết với liên kết đã được
+Khi tập tin được lưu, một bản ghi về các thay đổi là đầu tiên
+được tạo bằng cách so sánh tập tin trong bộ nhớ với tập tin
+trên đĩa. Tập tin glk sẽ được cập nhật với re-
+ngày tháng tầm nhìn, và bản ghi thay đổi sẽ được phụ thêm-
+tập tin glk cứ 30 giây một lần và nếu thay đổi có oc-
+curred, người dùng được thông báo với danh sách các thay đổi.
+Những thay đổi được thực hiện trực tiếp từ tập tin glk.
+không thể tái tạo hiển thị. Mọi thay đổi trong tập tin glk sẽ được thực hiện.
+Tập tin đầy đủ sẽ được nạp lại và màn hình sẽ được định dạng lại. Tùy chọn nạp lại tập tin chỉ có tác dụng-
+Nếu nút cancel được nhấp, người dùng có thể cập nhật tập tin bằng cách trở về mô-đun mạng hoặc mapgrid
+và tải lại file bằng cách sử dụng Files - Open hoặc chọn Files - Shared File Status.
+hiển thị và các tùy chọn như là một thông báo thay đổi trong các mô-đun mạng hay lưới ánh xạ
+Chỉ một thông báo thay đổi được phát hành ngay cả khi người dùng quyết định không tải lại tập tin. Một khi tập tin đã được
+Một khi tập tin mạng đã được mở bởi người đầu tiên
+người dùng tất cả những người dùng khác đang mở tập tin sẽ có mặt-
+ed với danh sách người dùng đã mở tập tin
+mở. Người dùng mới được thêm vào danh sách người dùng và
+Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và
+tập tin Pathloss (mất đường dẫn) liên kết với liên kết đã được
+Khi tập tin được lưu, một bản ghi về các thay đổi là đầu tiên
+được tạo bằng cách so sánh tập tin trong bộ nhớ với tập tin
+trên đĩa. Tập tin glk sẽ được cập nhật với re-
+ngày tháng tầm nhìn, và bản ghi thay đổi sẽ được phụ thêm-
+tập tin glk cứ 30 giây một lần và nếu thay đổi có oc-
+curred, người dùng được thông báo với danh sách các thay đổi.
+Những thay đổi được thực hiện trực tiếp từ tập tin glk.
+không thể tái tạo hiển thị. Mọi thay đổi trong tập tin glk sẽ được thực hiện.
+Tập tin đầy đủ sẽ được nạp lại và màn hình sẽ được định dạng lại. Tùy chọn nạp lại tập tin chỉ có tác dụng-
+Nếu nút cancel được nhấp, người dùng có thể cập nhật tập tin bằng cách trở về mô-đun mạng hoặc mapgrid
+và tải lại file bằng cách sử dụng Files - Open hoặc chọn Files - Shared File Status.
+hiển thị và các tùy chọn như là một thông báo thay đổi trong các mô-đun mạng hay lưới ánh xạ
+Chỉ một thông báo thay đổi được phát hành ngay cả khi người dùng quyết định không tải lại tập tin. Một khi tập tin đã được

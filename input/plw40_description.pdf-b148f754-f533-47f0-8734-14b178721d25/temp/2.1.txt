@@ -1,0 +1,682 @@
+PROGRAM ORGANIZATION
+NETWORK MODULE
+SUMMARY MODULE
+3
+TERRAIN DATA MODULE
+3
+ANTENNA HEIGHTS MODULE
+4
+MICROWAVE WORKSHEET MODULE
+5
+VHF - UHF WORKSHEET MODULE
+6
+MULTIPATH MODULE
+REFLECTION MODULE
+DIFFRACTION MODULE
+8
+AREA COVERAGE MODULE
+9
+PRINT PROFILE MODULE
+10
+TERRAIN VIEW
+10
+SITE DATABASE
+10
+INTRA SYSTEM INTERFERENCE
+11
+ANTENNA and RADIO DATA FILES
+11
+TERRAIN DATABASES
+13
+REPORTS
+14
+LANGUAGE
+14
+DOCUMENTATION
+14
+Pathloss
+Program Description
+Page 1 of 14
+PROGRAM ORGANIZATION
+NETWORK MODULE
+SUMMARY MODULE
+3
+TERRAIN DATA MODULE
+3
+ANTENNA HEIGHTS MODULE
+4
+MICROWAVE WORKSHEET MODULE
+5
+VHF - UHF WORKSHEET MODULE
+6
+MULTIPATH MODULE
+REFLECTION MODULE
+DIFFRACTION MODULE
+8
+AREA COVERAGE MODULE
+9
+PRINT PROFILE MODULE
+10
+TERRAIN VIEW
+10
+SITE DATABASE
+10
+INTRA SYSTEM INTERFERENCE
+11
+ANTENNA and RADIO DATA FILES
+11
+TERRAIN DATABASES
+13
+REPORTS
+14
+LANGUAGE
+14
+DOCUMENTATION
+14
+PROGRAM ORGANIZATION
+NETWORK MODULE
+The Network module provides a
+geographic interface to the path
+design modules simply by clicking
+on the link between two sites. This
+feature significantly reduces the
+design effort on large projects. Intra
+system interference calculations
+are carried out in the Network
+module.
+Data Integrity
+Managing change is a difficult task
+on any project. As the design
+proceeds, the network module
+tracks all changes made to the site
+names, coordinates and site
+elevations and ensures data integrity throughout all data files.
+Layers
+frequency bands.
+Drawing Scaling
+Importing Site Data
+Link Labels
+Pathloss
+Program Description
+Page 2 of 14
+PROGRAM ORGANIZATION
+NETWORK MODULE
+The Network module provides a
+geographic interface to the path
+design modules simply by clicking
+on the link between two sites. This
+feature significantly reduces the
+design effort on large projects. Intra
+system interference calculations
+are carried out in the Network
+module.
+Data Integrity
+Managing change is a difficult task
+on any project. As the design
+proceeds, the network module
+tracks all changes made to the site
+names, coordinates and site
+elevations and ensures data integrity throughout all data files.
+Layers
+frequency bands.
+Drawing Scaling
+Importing Site Data
+Link Labels
+any combination of the following parameters:
+TX channel ID
+TX frequency
+polarization
+distance
+azimuth
+Map Crossings
+Site List Report
+Equipment Summary Report - Microwave applications
+Frequency Plan Report - Microwave applications
+assignment summary.
+SUMMARY MODULE
+functions:
+TERRAIN DATA MODULE
+the following methods:
+•
+manual entry of distances and elevations from topographic maps
+distance-elevation data is read from a terrain database
+Pathloss
+Program Description
+Page 3 of 14
+any combination of the following parameters:
+TX channel ID
+TX frequency
+polarization
+distance
+azimuth
+Map Crossings
+Site List Report
+Equipment Summary Report - Microwave applications
+Frequency Plan Report - Microwave applications
+assignment summary.
+SUMMARY MODULE
+functions:
+TERRAIN DATA MODULE
+the following methods:
+•
+manual entry of distances and elevations from topographic maps
+distance-elevation data is read from a terrain database
+Special Features
+Grid coordinate systems
+format.
+UTM (Universal Transverse Mercator)
+South African Gauss conformal
+UK Ordinance grid
+Gauss Kruger (soon)
+Swiss national grid
+New Zealand grid
+Irish grid
+Transformation between Datums
+includes definitions for 120 different datums.
+Terrain Profile Modifications
+Redundant points can be stripped from a terrain profile
+Survey Angles
+the elevation at the selected point.
+ANTENNA HEIGHTS MODULE
+This module determines the antenna heights
+which satisfy a clearance criteria specified as an
+earth radius factor (K), a percentage of the first
+Fresnel zone radius and an optional fixed height.
+Two separate clearance criteria can be specified
+for both main and diversity antennas.
+The antenna heights can be varied in any
+combination or the heights can be optimized
+squares of the antenna heights.
+Special Features
+Structures
+The location of the critical points may not be
+Pathloss
+Program Description
+Page 4 of 14
+Special Features
+Grid coordinate systems
+format.
+UTM (Universal Transverse Mercator)
+South African Gauss conformal
+UK Ordinance grid
+Gauss Kruger (soon)
+Swiss national grid
+New Zealand grid
+Irish grid
+Transformation between Datums
+includes definitions for 120 different datums.
+Terrain Profile Modifications
+Redundant points can be stripped from a terrain profile
+Survey Angles
+the elevation at the selected point.
+ANTENNA HEIGHTS MODULE
+This module determines the antenna heights
+which satisfy a clearance criteria specified as an
+earth radius factor (K), a percentage of the first
+Fresnel zone radius and an optional fixed height.
+Two separate clearance criteria can be specified
+for both main and diversity antennas.
+The antenna heights can be varied in any
+combination or the heights can be optimized
+squares of the antenna heights.
+Special Features
+Structures
+The location of the critical points may not be
+moved directly in the Antenna Heights module.
+Calculating clearance on an existing path
+Clearance display
+Clearance and Orientation Reports
+K.
+Antenna height tradeoff reports
+other site is reported.
+MICROWAVE WORKSHEET MODULE
+displayed as the data entry proceeds.
+Reliability Methods
+ITU-R P.530-7 (path inclination and geoclimatic factor)
+KQ factor
+specific regional standards.
+time below level is considered as SES.
+Diversity Improvement Systems
+Pathloss
+Program Description
+Page 5 of 14
+moved directly in the Antenna Heights module.
+Calculating clearance on an existing path
+Clearance display
+Clearance and Orientation Reports
+K.
+Antenna height tradeoff reports
+other site is reported.
+MICROWAVE WORKSHEET MODULE
+displayed as the data entry proceeds.
+Reliability Methods
+ITU-R P.530-7 (path inclination and geoclimatic factor)
+KQ factor
+specific regional standards.
+time below level is considered as SES.
+Diversity Improvement Systems
+systems.
+Space diversity
+Angle diversity
+Rain Attenuation
+the following rain statistics files:
+Crane rain regions
+modified Crane rain regions (1966)
+ITU rain regions
+Canadian data for 47 radiosonde locations
+Passive Repeaters
+propagation reliability analysis.
+Templates
+can be used as a template.
+Lookup Tables
+VHF - UHF WORKSHEET MODULE
+data files.
+Pathloss
+Program Description
+Page 6 of 14
+systems.
+Space diversity
+Angle diversity
+Rain Attenuation
+the following rain statistics files:
+Crane rain regions
+modified Crane rain regions (1966)
+ITU rain regions
+Canadian data for 47 radiosonde locations
+Passive Repeaters
+propagation reliability analysis.
+Templates
+can be used as a template.
+Lookup Tables
+VHF - UHF WORKSHEET MODULE
+data files.
+MULTIPATH MODULE
+Ray tracing techniques are employed to analyze
+the reflective characteristics of a path and to
+simulate abnormal propagation conditions. The
+display operates in two modes
+Constant Gradient
+A curved earth representation is used and all
+reflected rays show the susceptibility of the path
+to a specular refection and helps identify the
+extents of the reflective plane. In this mode, the
+signal variation as a function of an antenna height
+can be displayed.
+Variable Gradient
+The user defines the refractivity gradient or K as
+Profile Formats
+REFLECTION MODULE
+Site 1 antenna height
+Frequency
+Site 2 antenna height
+Earth radius factor
+(K)
+Tide level
+The calculation starts by defining the end points
+of the reflective plane. The reflective plane can
+be constructed by any of the following means:
+a least squares fit of the terrain over the
+defined range
+a plane defined only by the end points
+a constant elevation plane
+The effects of divergence (the scattering of a
+reflected signal due to the curvature of the earth),
+roughness, ground cover and clearance loss can
+be included in the calculation. The antenna
+Pathloss
+Program Description
+Page 7 of 14
+MULTIPATH MODULE
+Ray tracing techniques are employed to analyze
+the reflective characteristics of a path and to
+simulate abnormal propagation conditions. The
+display operates in two modes
+Constant Gradient
+A curved earth representation is used and all
+reflected rays show the susceptibility of the path
+to a specular refection and helps identify the
+extents of the reflective plane. In this mode, the
+signal variation as a function of an antenna height
+can be displayed.
+Variable Gradient
+The user defines the refractivity gradient or K as
+Profile Formats
+REFLECTION MODULE
+Site 1 antenna height
+Frequency
+Site 2 antenna height
+Earth radius factor
+(K)
+Tide level
+The calculation starts by defining the end points
+of the reflective plane. The reflective plane can
+be constructed by any of the following means:
+a least squares fit of the terrain over the
+defined range
+a plane defined only by the end points
+a constant elevation plane
+The effects of divergence (the scattering of a
+reflected signal due to the curvature of the earth),
+roughness, ground cover and clearance loss can
+be included in the calculation. The antenna
+corresponding change in the reflected signal amplitude.
+DIFFRACTION MODULE
+Diffraction Algorithms
+A diffraction loss calculation first characterizes
+the terrain using the following categories:
+single knife edge
+near single knife edge or isolated
+obstacle
+multiple knife edge (using Epstein-
+Peterson or Deygout methods)
+foreground loss between an antenna and
+its horizon (height - gain)
+default irregular terrain (Longley-Rice) or
+rough earth diffraction
+Three automatic diffraction algorithms are
+provided:
+TIREMterrain integrated rough earth model
+NSMA
+National Spectrum Managers Association
+Pathloss
+a user configurable algorithm
+parameter calculations, area coverage and interference analysis.
+methods:
+Longley-Rice
+Longley-Reasoner
+Interactive Diffraction Loss Calculation
+combination of the following basic algorithms:
+This feature permits such computations as:
+replacing otherwise irregular terrain with an effective obstacle
+Pathloss
+Program Description
+Page 8 of 14
+corresponding change in the reflected signal amplitude.
+DIFFRACTION MODULE
+Diffraction Algorithms
+A diffraction loss calculation first characterizes
+the terrain using the following categories:
+single knife edge
+near single knife edge or isolated
+obstacle
+multiple knife edge (using Epstein-
+Peterson or Deygout methods)
+foreground loss between an antenna and
+its horizon (height - gain)
+default irregular terrain (Longley-Rice) or
+rough earth diffraction
+Three automatic diffraction algorithms are
+provided:
+TIREMterrain integrated rough earth model
+NSMA
+National Spectrum Managers Association
+Pathloss
+a user configurable algorithm
+parameter calculations, area coverage and interference analysis.
+methods:
+Longley-Rice
+Longley-Reasoner
+Interactive Diffraction Loss Calculation
+combination of the following basic algorithms:
+This feature permits such computations as:
+replacing otherwise irregular terrain with an effective obstacle
+Tropospheric Scatter Loss - Combined Loss
+diffraction loss.
+Time Variability
+program.
+Variable Parameters
+site 1 or site 2 antenna height
+frequency
+earth radius factor (K)
+distance along the path
+AREA COVERAGE MODULE
+An area coverage analysis
+requires a terrain data base. A
+completely automated 3 step
+process is used to create area
+coverage and line of sight displays.
+Step 1 generates the radial terrain
+profile data
+Step 2 calculates the combined
+diffraction and tropospheric scatter
+loss and the vertical angles along
+each radial.
+Step 3 specifies the radio and
+antenna parameters, signal level
+criteria and the time and location
+variability constraints.
+A calculation can be modified by
+returning to the appropriate step
+and changing the required
+parameters .The analysis
+considers the elevation angles on
+line of sight paths or the horizon
+angles on obstructed paths. Base
+station antennas can include
+mechanical down tilt.
+and signal level displays are available in either format.
+Pathloss
+Program Description
+Page 9 of 14
+Tropospheric Scatter Loss - Combined Loss
+diffraction loss.
+Time Variability
+program.
+Variable Parameters
+site 1 or site 2 antenna height
+frequency
+earth radius factor (K)
+distance along the path
+AREA COVERAGE MODULE
+An area coverage analysis
+requires a terrain data base. A
+completely automated 3 step
+process is used to create area
+coverage and line of sight displays.
+Step 1 generates the radial terrain
+profile data
+Step 2 calculates the combined
+diffraction and tropospheric scatter
+loss and the vertical angles along
+each radial.
+Step 3 specifies the radio and
+antenna parameters, signal level
+criteria and the time and location
+variability constraints.
+A calculation can be modified by
+returning to the appropriate step
+and changing the required
+parameters .The analysis
+considers the elevation angles on
+line of sight paths or the horizon
+angles on obstructed paths. Base
+station antennas can include
+mechanical down tilt.
+and signal level displays are available in either format.
+Multi Site Area Coverage
+sight.
+PRINT PROFILE MODULE
+Three common profile formats are provided:
+K and Fresnel zone references can be displayed.
+value of K with four Fresnel zone references.
+diversity antenna combinations.
+Title Block
+TERRAIN VIEW
+A three dimensional terrain view is available in
+the Terrain Data and Network modules. In the
+Network module, the user simply defines a
+rectangular area on the screen to display the
+terrain. New sites can be added in the terrain
+view. The implementation is based on the Sun
+Microsystems OPENGL libraries supplied with
+Windows 95/98 and Windows NT.
+SITE DATABASE
+All options of the program include an interface in
+the Summary and Network modules to a site
+database. Any number of site databases can be
+created. The examples section of the CD-ROM
+includes the complete microwave data base for
+Canada.
+The database consists of the following Borland Paradox tables:
+owners and operators
+site records
+station records
+link records
+Pathloss
+Program Description
+Page 10 of 14
+Multi Site Area Coverage
+sight.
+PRINT PROFILE MODULE
+Three common profile formats are provided:
+K and Fresnel zone references can be displayed.
+value of K with four Fresnel zone references.
+diversity antenna combinations.
+Title Block
+TERRAIN VIEW
+A three dimensional terrain view is available in
+the Terrain Data and Network modules. In the
+Network module, the user simply defines a
+rectangular area on the screen to display the
+terrain. New sites can be added in the terrain
+view. The implementation is based on the Sun
+Microsystems OPENGL libraries supplied with
+Windows 95/98 and Windows NT.
+SITE DATABASE
+All options of the program include an interface in
+the Summary and Network modules to a site
+database. Any number of site databases can be
+created. The examples section of the CD-ROM
+includes the complete microwave data base for
+Canada.
+The database consists of the following Borland Paradox tables:
+owners and operators
+site records
+station records
+link records
+transmit channel records
+passive repeaters records
+the following paragraph.
+INTRA SYSTEM INTERFERENCE
+sites and links on visible layers.
+Case Detail Report
+Summary and Cross Reference Reports
+aid to the more comprehensive case detail report.
+High-Low Violation Report
+ANTENNA and RADIO DATA FILES
+Microwave Antenna Data Files
+Pathloss
+Program Description
+Page 11 of 14
+transmit channel records
+passive repeaters records
+the following paragraph.
+INTRA SYSTEM INTERFERENCE
+sites and links on visible layers.
+Case Detail Report
+Summary and Cross Reference Reports
+aid to the more comprehensive case detail report.
+High-Low Violation Report
+ANTENNA and RADIO DATA FILES
+Microwave Antenna Data Files
+data.
+antenna models.
+Microwave Radio Data Files
+any bandwidth and modulation, the following parameters are required:
+BER threshold
+channel bandwidth
+3 dB bandwidth of the transmit spectrum
+The following curves will be used if available:
+transmitter spectrum versus frequency
+T-I ratio versus frequency for a CW interferer
+capacities
+improvement if the required curves are not available.
+models from major manufacturers.
+Threshold-to-Interference (T-I) Ratio Definition
+bandwidth.
+VHF-UHF Antenna Data Files
+Pathloss
+Program Description
+Page 12 of 14
+data.
+antenna models.
+Microwave Radio Data Files
+any bandwidth and modulation, the following parameters are required:
+BER threshold
+channel bandwidth
+3 dB bandwidth of the transmit spectrum
+The following curves will be used if available:
+transmitter spectrum versus frequency
+T-I ratio versus frequency for a CW interferer
+capacities
+improvement if the required curves are not available.
+models from major manufacturers.
+Threshold-to-Interference (T-I) Ratio Definition
+bandwidth.
+VHF-UHF Antenna Data Files
+UHF antennas are typical patterns.
+frequency range 50 to 2500 MHZ.
+TERRAIN DATABASES
+Primary and Secondary Databases
+Datum - Coordinate Transformation
+transformed to this datum for all database operations.
+Supported Terrain Database Formats
+The following terrain data base formats are currently supported.
+USGS 1:250,000 DEMS (3 arc second)
+USGS GTOPO30 global 30 arc second terrain data
+DTED (Digital terrain elevation data - US DMA format)
+CRC - Canadian Research Council)
+
+ESRI (ArcInfo) GRIDASCII in geographic and UTM formats
+South African National Exchange Standard
+MDT200 and MDT25 - Spain
+Phoenix -Airtouch Cellular format
+Micropath - 3 second terrain data
+AUSLIG - Australian 3 second terrain data
+Pathloss
+Program Description
+Page 13 of 14
+UHF antennas are typical patterns.
+frequency range 50 to 2500 MHZ.
+TERRAIN DATABASES
+Primary and Secondary Databases
+Datum - Coordinate Transformation
+transformed to this datum for all database operations.
+Supported Terrain Database Formats
+The following terrain data base formats are currently supported.
+USGS 1:250,000 DEMS (3 arc second)
+USGS GTOPO30 global 30 arc second terrain data
+DTED (Digital terrain elevation data - US DMA format)
+CRC - Canadian Research Council)
+
+ESRI (ArcInfo) GRIDASCII in geographic and UTM formats
+South African National Exchange Standard
+MDT200 and MDT25 - Spain
+Phoenix -Airtouch Cellular format
+Micropath - 3 second terrain data
+AUSLIG - Australian 3 second terrain data
+Formats Under Development
+UK Ordnance Survey
+MSI Planet
+DGM - Germany
+Pathloss Terrain Data (soon - no charge upgrade)
+available at no charge from the USGS web site.
+two CD-ROMS.
+REPORTS
+(Rich text format) or as ASCII text files.
+LANGUAGE
+DOCUMENTATION
+Pathloss
+Program Description
+Page 14 of 14
+Formats Under Development
+UK Ordnance Survey
+MSI Planet
+DGM - Germany
+Pathloss Terrain Data (soon - no charge upgrade)
+available at no charge from the USGS web site.
+two CD-ROMS.
+REPORTS
+(Rich text format) or as ASCII text files.
+LANGUAGE
+DOCUMENTATION

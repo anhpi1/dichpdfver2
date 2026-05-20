@@ -1,0 +1,103 @@
+Khóa và chia sẻ tập tin Pathloss
+Khóa tập tin dữ liệu Pathloss (pl4)
+Cơ chế khóa, tạo ra một cái mới
+tập tin có cùng tên với Pathloss
+các tệp dữ liệu có phần mở rộng lck. Khi nào
+người dùng đóng tập tin này, tập tin khóa là
+bị xóa. Nếu người dùng khác cố gắng mở
+đang được sử dụng và sẽ được mở ở dạng chỉ đọc
+có tên khác. Chương trình không
+kiểm tra xem file khóa đã bị (xóa) chưa
+Chia sẻ tệp mạng (gr4)
+được lưu trong tệp tùy chọn chương trình.
+những thay đổi đối với các trang web và liên kết.
+không được ghi đè.
+• ngày sửa đổi và số thay đổi
+tập tin người dùng vidual
+Mất đường dẫn 4.0
+Khóa và chia sẻ tập tin
+Trang 1 trên 3
+Khóa và chia sẻ tập tin Pathloss
+Khóa tập tin dữ liệu Pathloss (pl4)
+Cơ chế khóa, tạo ra một cái mới
+tập tin có cùng tên với Pathloss
+các tệp dữ liệu có phần mở rộng lck. Khi nào
+người dùng đóng tập tin này, tập tin khóa là
+bị xóa. Nếu người dùng khác cố gắng mở
+đang được sử dụng và sẽ được mở ở dạng chỉ đọc
+có tên khác. Chương trình không
+kiểm tra xem file khóa đã bị (xóa) chưa
+Chia sẻ tệp mạng (gr4)
+được lưu trong tệp tùy chọn chương trình.
+những thay đổi đối với các trang web và liên kết.
+không được ghi đè.
+• ngày sửa đổi và số thay đổi
+tập tin người dùng vidual
+nhận được ngày sửa đổi sửa đổi vào thời điểm họ
+đã tải tập tin.
+lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:
+• một trang web đã được thêm vào
+• một trang web đã bị xóa
+• một trang web đã được di chuyển
+• một liên kết đã được thêm vào
+• một liên kết đã bị xóa
+đã thay đổi.
+ed vào tập tin.
+Trong môi trường chia sẻ này, chương trình sẽ kiểm tra
+Mỗi thay đổi có thể được xem.
+Thực hiện thay đổi
+Tải lại tập tin
+có thể trong các mô-đun mạng và lưới bản đồ
+được cập nhật, thông báo thay đổi sẽ bắt đầu lại.
+Khóa và chia sẻ tập tin
+Mất đường dẫn 4.0
+Trang 2 trên 3
+nhận được ngày sửa đổi sửa đổi vào thời điểm họ
+đã tải tập tin.
+lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:
+• một trang web đã được thêm vào
+• một trang web đã bị xóa
+• một trang web đã được di chuyển
+• một liên kết đã được thêm vào
+• một liên kết đã bị xóa
+đã thay đổi.
+ed vào tập tin.
+Trong môi trường chia sẻ này, chương trình sẽ kiểm tra
+Mỗi thay đổi có thể được xem.
+Thực hiện thay đổi
+Tải lại tập tin
+có thể trong các mô-đun mạng và lưới bản đồ
+được cập nhật, thông báo thay đổi sẽ bắt đầu lại.
+Tính toán nhiễu trên tệp Mạng được chia sẻ
+Các sơ đồ khóa bảng vốn có được sử dụng trong
+công cụ cơ sở dữ liệu Borland không cho phép
+người dùng thực hiện can thiệp đồng thời
+tính toán. Tính toán nhiễu
+tạo ra một tập hợp các bảng liên quan đến
+tập tin mạng gr4.
+Bản xây dựng chương trình ngày 02 tháng 6 năm 2002 cho phép
+người dùng chỉ định một thư mục riêng cho liên
+tính toán tham chiếu. Việc lựa chọn được thực hiện
+khi bắt đầu tính toán nhiễu.
+Các hoạt động như chỉ định tương quan độ mờ
+tion sẽ thất bại nếu tập tin mạng hiện tại không hoạt động.
+không khớp với các bảng cơ sở dữ liệu ở chế độ riêng tư
+thư mục.
+Mất đường dẫn 4.0
+Khóa và chia sẻ tập tin
+Trang 3 trên 3
+Tính toán nhiễu trên tệp Mạng được chia sẻ
+Các sơ đồ khóa bảng vốn có được sử dụng trong
+công cụ cơ sở dữ liệu Borland không cho phép
+người dùng thực hiện can thiệp đồng thời
+tính toán. Tính toán nhiễu
+tạo ra một tập hợp các bảng liên quan đến
+tập tin mạng gr4.
+Bản xây dựng chương trình ngày 02 tháng 6 năm 2002 cho phép
+người dùng chỉ định một thư mục riêng cho liên
+tính toán tham chiếu. Việc lựa chọn được thực hiện
+khi bắt đầu tính toán nhiễu.
+Các hoạt động như chỉ định tương quan độ mờ
+tion sẽ thất bại nếu tập tin mạng hiện tại không hoạt động.
+không khớp với các bảng cơ sở dữ liệu ở chế độ riêng tư
+thư mục.

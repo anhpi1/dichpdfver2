@@ -1,0 +1,481 @@
+[
+    {
+        "type": "text",
+        "text": "Pathloss File Locking and Sharing ",
+        "text_level": 1,
+        "bbox": [
+            317,
+            85,
+            710,
+            108
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The June 03, 2002 Pathloss program build introduces pathloss data (pl4) file locking and network (gr4) file sharing when these files are located on a shared network drive. The locking and sharing is activated if the root drive containing the network or pathloss data file is a remote drive. Note that this can fail on a peer to peer network, if a drive is accessed as a local drive. ",
+        "bbox": [
+            93,
+            115,
+            929,
+            185
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pathloss data (pl4) file locking ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            204,
+            397,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The locking mechanism, creates a new file with the same name as the Pathloss data files with the extension lck. When the user closes this file, the lock file is erased. If another user attempts to open the file, a prompt is issued that the file is in use and will be opened in read only mode. It is not possible to save the file under another name. The program does not check if the lock file has been (deleted) ",
+        "bbox": [
+            93,
+            228,
+            423,
+            405
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d88980b4ababde82881da8c5815d88409c973cfa4536ab36546873f8ec609fa6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Pathloss Data File Lock\nThe file Dawspine.pl4\nis in use by portable\nThe file was opened on Mon Jun 03 08:20:56 2002 (0.00 hours ago)\nThis file will be opened in read only mode\nOK",
+        "sub_type": "text_image",
+        "bbox": [
+            430,
+            238,
+            923,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Network (gr4) file sharing ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            423,
+            356,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To enable network (gr4) file sharing, select Files - Shared file operation on the network menu bar. This step must be carried out before loading a network file. To enable network file sharing after a file has been loaded, select Files - New and then select Files - Shared file operation. Then reload the file. The shared setting is saved in the program option file. ",
+        "bbox": [
+            93,
+            447,
+            929,
+            518
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this mode, a file cannot be saved if the following conditions are not met. ",
+        "bbox": [
+            94,
+            530,
+            690,
+            548
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• Each site must have a unique call sign. This is a 15 character identifier and cannot be blank. The same call sign cannot be used at different sites. The call sign serves as a unique identifier to determine changes to the sites and links. ",
+            "• The revision date of the file on disk must be the same as the file in memory. Another users changes cannot be overwritten. "
+        ],
+        "bbox": [
+            94,
+            561,
+            927,
+            654
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The sharing mechanism uses a file with the same name as the network file with the extension glk. This file will be referred to a glk file in the following descriptions and the file contains the following information: ",
+        "bbox": [
+            93,
+            664,
+            927,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• the revision date and change number ",
+            "• a list of all users who have opened the network file ",
+            "• a series of records containing the changes made to the file . These records are used to update the individual users files "
+        ],
+        "bbox": [
+            94,
+            713,
+            921,
+            796
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The glk file is created when the first user opens the network file. At this point the file contains the name of the user and the revision date. The change number is set to zero. The program will then begin to monitor the glk file at 30 second intervals to determine if the revsion date has changed. ",
+        "bbox": [
+            93,
+            806,
+            929,
+            859
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The glk file is deleted when the last user closes the network file. ",
+        "bbox": [
+            94,
+            871,
+            603,
+            888
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "Pathloss 4.0 ",
+        "bbox": [
+            96,
+            39,
+            217,
+            55
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "header",
+        "text": "File Locking and Sharing ",
+        "bbox": [
+            687,
+            39,
+            927,
+            56
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "page_number",
+        "text": "Page 1 of 3 ",
+        "bbox": [
+            821,
+            936,
+            931,
+            955
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Once the network file has been opened by the first user all other users opening the file will be presented with a list of users who have opened the file open. The new users are added to the user list and receive revision revision date at the time that they loaded the file. ",
+        "bbox": [
+            63,
+            85,
+            468,
+            190
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Suppose a user makes some changes to the file and saves the changes. A change is defined as follows: ",
+        "bbox": [
+            63,
+            204,
+            466,
+            240
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "list",
+        "sub_type": "text",
+        "list_items": [
+            "• a site has been added ",
+            "• a site has been deleted ",
+            "• a site has been moved ",
+            "• a link has been added ",
+            "• a link has been deleted ",
+            "• the Pathloss file associated with the link has been changed. "
+        ],
+        "bbox": [
+            65,
+            252,
+            479,
+            414
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the file is saved, a record of the changes is first created by comparing the file in memory with the file on disk. The glk file will be updated with the new revision date, and the record of changes will be appended to the file. ",
+        "bbox": [
+            63,
+            420,
+            484,
+            509
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this shared environment, the program checks the glk file every 30 seconds and if a change has occurred, the user is notified with the list of changes. Each change can be viewed. ",
+        "bbox": [
+            63,
+            523,
+            474,
+            594
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Make changes ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            609,
+            191,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The changes are made directly from the glk file. The display will not be reformated. All of the changes in the glk file will be made. ",
+        "bbox": [
+            63,
+            629,
+            680,
+            664
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/74560d270ca6afc42ba8c728f1a2ae688b8923f36a7b9fa488106c2942f785e7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Shared Network File\nThe file granfort.gr4\nhas been opened by 2 users:\nportable at Mon Jun 03 08:17:04 2002 (0.11 hours ago)\nforrest at Mon Jun 03 08:23:42 2002 (0.00 hours ago)\nOK",
+        "sub_type": "text_image",
+        "bbox": [
+            477,
+            94,
+            891,
+            228
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/23ba5375a6ac90ab093ddfc43e97e837c3e226d07409224fe4079840cf03e6f8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Network File Changed\nG:\\new_build\\testlock\\granfort.gr4\nhas been modified by portable\non Fri Jul 05 20:34:04 2002\nSite changes\tChange Number 1\nb has been moved\nhub has been moved\nLink changes\na - b has been deleted\nhub - r2 has been deleted\nr3 - CHW614 has been deleted\nUser list\nforrest 0.03 hours ago\nportable -0.01 hours ago\nMake changes\tReload file\tCancel",
+        "sub_type": "text_image",
+        "bbox": [
+            492,
+            262,
+            891,
+            635
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reload file ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            680,
+            162,
+            695
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The complete file will be reloaded and the display will be reformatted. The reload file option is only available in the network and mapgrid modules ",
+        "bbox": [
+            63,
+            699,
+            900,
+            735
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If the cancel button is clicked, the user can update the file by returning to the network or mapgrid module and reloading the file using Files - Open or selecting Files - Shared File Status. The latter produces the same display and options as a change notification in the network or mapgrid modules ",
+        "bbox": [
+            63,
+            748,
+            896,
+            802
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Only one change notification is issued even if the user decides to not re-load the file. Once the file has been updated, the change notification will begin again. ",
+        "bbox": [
+            63,
+            812,
+            898,
+            850
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "File Locking and Sharing ",
+        "bbox": [
+            67,
+            39,
+            306,
+            56
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "header",
+        "text": "Pathloss 4.0 ",
+        "bbox": [
+            777,
+            39,
+            898,
+            56
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "page_number",
+        "text": "Page 2 of 3 ",
+        "bbox": [
+            67,
+            936,
+            176,
+            954
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interference Calculations on a shared Network file ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            85,
+            594,
+            104
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The inherent table locking schemes used in the Borland database engine does not allow users to carry out simultaneous interference calculations. An interference calculation creates a set of tables which relate to the network gr4 file. ",
+        "bbox": [
+            94,
+            109,
+            435,
+            214
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The June 02, 2002 program build allows the user to specify a private directory for interference calculations. The selection is made at the start of an interference calculation. ",
+        "bbox": [
+            94,
+            228,
+            436,
+            298
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Operations such as specifying fade correlation will fail if the current network file does not match the database tables in the private directory. ",
+        "bbox": [
+            94,
+            312,
+            438,
+            383
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6241fddf026b6454ee1de892dea4a55988d9856b50d36abae4ec44092845c42a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "content": "Interference\nCoordination Distance (km) 200.0\nMaximum frequency Separation (MHz) 150.0\nDefault Minimum Interference Level (dBm) -115.0\nMargin (dB) 10.0\nDigital Interference Objective\nThreshold degradation - multipath (dB) 1.0\nAnalyze current file only\nSub network intra system interference\nSub network against network interference\nIgnore diversity antennas\nIgnore adjacent channels\nInterference Calculation Directory\nUse network file directory\nUse private directory\nC:\\TEMP Browse",
+        "sub_type": "text_image",
+        "bbox": [
+            446,
+            118,
+            923,
+            503
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "Pathloss 4.0 ",
+        "bbox": [
+            96,
+            39,
+            217,
+            55
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "header",
+        "text": "File Locking and Sharing ",
+        "bbox": [
+            689,
+            39,
+            927,
+            56
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "page_number",
+        "text": "Page 3 of 3 ",
+        "bbox": [
+            821,
+            936,
+            931,
+            954
+        ],
+        "page_idx": 2
+    }
+]

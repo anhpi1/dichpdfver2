@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Translated PDF Layout</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #888; }
+.page { position:relative; background:white; margin:20px auto; box-shadow:0 2px 8px rgba(0,0,0,0.3); overflow:hidden; }
+p, h3, ul, div, pre, img { font-family:"Times New Roman",serif; font-size:11px; line-height:1.2; }
+img { max-width:100%; max-height:100%; }
+table { border-collapse:collapse; width:100%; font-size:10px; }
+td { border:1px solid #999; padding:2px 4px; }
+</style>
+</head>
+<body>
+
+<div class="page" style="width:611px;height:791px;" data-page="1">
+
+  <h3 style="position:absolute;left:194px;top:68px;width:240px;height:18px;font-weight:bold;overflow:hidden;">Khóa và chia sẻ tập tin Pathloss</h3>
+  <p style="position:absolute;left:57px;top:91px;width:511px;height:56px;overflow:hidden;">Bản dựng chương trình Pathloss ngày 3 tháng 6 năm 2002 giới thiệu khoá tập tin dữ liệu pathloss (pl 4) và tập tin mạng (gr 4)
+chia sẻ khi các tập tin này nằm trên một ổ đĩa mạng đã chia sẻ. Việc khóa và chia sẻ được kích hoạt nếu
+ổ đĩa gốc chứa tập tin dữ liệu mạng hay mất đường dẫn là một ổ đĩa từ xa. Chú ý rằng điều này có thể thất bại trên một thiết bị ngang hàng
+ngang hàng, nếu một ổ đĩa được truy cập như là một ổ đĩa cục bộ.</p>
+  <h3 style="position:absolute;left:58px;top:162px;width:185px;height:16px;font-weight:bold;overflow:hidden;">Khóa tập tin dữ liệu Pathloss (pl4)</h3>
+  <p style="position:absolute;left:57px;top:181px;width:202px;height:140px;overflow:hidden;">Cơ chế khóa, tạo ra một cái mới
+tập tin có cùng tên với Pathloss
+các tệp dữ liệu có phần mở rộng lck. Khi nào
+người dùng đóng tập tin này, tập tin khóa là
+bị xóa. Nếu người dùng khác cố gắng mở
+tập tin, một nhắc nhở được đưa ra rằng tập tin là
+đang được sử dụng và sẽ được mở ở dạng chỉ đọc
+chế độ. Không thể lưu tập tin un-
+có tên khác. Chương trình không
+kiểm tra xem file khóa đã bị (xóa) chưa</p>
+  <img style="position:absolute;left:263px;top:189px;width:301px;height:106px;object-fit:contain;" src="images/d88980b4ababde82881da8c5815d88409c973cfa4536ab36546873f8ec609fa6.jpg" alt="image">
+  <h3 style="position:absolute;left:58px;top:335px;width:160px;height:16px;font-weight:bold;overflow:hidden;">Chia sẻ tệp mạng (gr4)</h3>
+  <p style="position:absolute;left:57px;top:354px;width:511px;height:56px;overflow:hidden;">Để bật chia sẻ tập tin mạng (gr 4), bạn chọn Files - Shared file operation (Tập tin được chia sẻ) trên thanh trình đơn mạng.
+phải được thực hiện trước khi nạp một tập tin mạng. Để bật chia sẻ tập tin mạng sau khi tập tin đã được nạp-
+ed, chọn Files - New và chọn Files - Shared file operation.Sau đó tải lại tập tin.
+được lưu trong tệp tùy chọn chương trình.</p>
+  <p style="position:absolute;left:58px;top:420px;width:364px;height:14px;overflow:hidden;">Trong chế độ này, không thể lưu tập tin nếu không đáp ứng các điều kiện sau.</p>
+  <ul style="position:absolute;left:58px;top:444px;width:509px;height:74px;overflow:hidden;list-style-position:inside;padding-left:10px;margin:0;">
+    <li>Mỗi địa điểm phải có một dấu hiệu cuộc gọi duy nhất. Đây là một ký tự nhận diện 15 ký tự và không được để trống. Tương tự không thể sử dụng dấu hiệu cuộc gọi ở các nơi Mạng khác nhau. Dấu hiệu cuộc gọi phục vụ như là một định danh duy nhất để xác định những thay đổi đối với các trang web và liên kết.</li>
+    <li>Ngày sửa đổi của tập tin trên đĩa phải giống với tập tin trong bộ nhớ. Một người dùng khác có thể thay đổi- không được ghi đè.</li>
+  </ul>
+  <p style="position:absolute;left:57px;top:526px;width:510px;height:28px;overflow:hidden;">Cơ chế chia sẻ sử dụng một tập tin có cùng tên với tập tin mạng với phần mở rộng glk. Tập tin này
+sẽ được tham chiếu đến một tập tin glk trong các mô tả sau và tập tin chứa các thông tin sau:</p>
+  <ul style="position:absolute;left:58px;top:564px;width:505px;height:66px;overflow:hidden;list-style-position:inside;padding-left:10px;margin:0;">
+    <li>• ngày sửa đổi và số thay đổi</li>
+    <li>danh sách tất cả người dùng đã mở tập tin mạng</li>
+    <li>Một chuỗi các bản ghi chứa các thay đổi được thực hiện cho tập tin. Những bản ghi này được dùng để cập nhật indi- tập tin người dùng vidual</li>
+  </ul>
+  <p style="position:absolute;left:57px;top:638px;width:511px;height:42px;overflow:hidden;">Tập tin glk được tạo khi người dùng đầu tiên mở tập tin mạng. Tại thời điểm này tập tin chứa tên của
+người dùng và ngày sửa đổi. Số thay đổi được đặt thành số không. Chương trình sẽ bắt đầu theo dõi
+tập tin glk theo khoảng thời gian 30 giây để xác định xem ngày hồi quy đã thay đổi chưa.</p>
+  <p style="position:absolute;left:58px;top:689px;width:311px;height:14px;overflow:hidden;">Tập tin glk bị xoá khi người dùng cuối cùng đóng tập tin mạng.</p>
+</div>
+
+<div class="page" style="width:611px;height:791px;" data-page="2">
+
+  <p style="position:absolute;left:39px;top:68px;width:247px;height:83px;overflow:hidden;">Một khi tập tin mạng đã được mở bởi người đầu tiên
+người dùng tất cả những người dùng khác đang mở tập tin sẽ có mặt-
+ed với danh sách người dùng đã mở tập tin
+mở. Người dùng mới được thêm vào danh sách người dùng và
+nhận được ngày sửa đổi sửa đổi vào thời điểm họ
+đã tải tập tin.</p>
+  <p style="position:absolute;left:39px;top:162px;width:246px;height:28px;overflow:hidden;">Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và
+lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:</p>
+  <ul style="position:absolute;left:40px;top:200px;width:253px;height:128px;overflow:hidden;list-style-position:inside;padding-left:10px;margin:0;">
+    <li>• một trang web đã được thêm vào</li>
+    <li>• một trang web đã bị xóa</li>
+    <li>• một trang web đã được di chuyển</li>
+    <li>• một liên kết đã được thêm vào</li>
+    <li>• một liên kết đã bị xóa</li>
+    <li>tập tin Pathloss (mất đường dẫn) liên kết với liên kết đã được đã thay đổi.</li>
+  </ul>
+  <p style="position:absolute;left:39px;top:333px;width:257px;height:70px;overflow:hidden;">Khi tập tin được lưu, một bản ghi về các thay đổi là đầu tiên
+được tạo bằng cách so sánh tập tin trong bộ nhớ với tập tin
+trên đĩa. Tập tin glk sẽ được cập nhật với re-
+ngày tháng tầm nhìn, và bản ghi thay đổi sẽ được phụ thêm-
+ed vào tập tin.</p>
+  <p style="position:absolute;left:39px;top:414px;width:251px;height:56px;overflow:hidden;">Trong môi trường chia sẻ này, chương trình sẽ kiểm tra
+tập tin glk cứ 30 giây một lần và nếu thay đổi có oc-
+curred, người dùng được thông báo với danh sách các thay đổi.
+Mỗi thay đổi có thể được xem.</p>
+  <h3 style="position:absolute;left:40px;top:482px;width:77px;height:13px;font-weight:bold;overflow:hidden;">Thực hiện thay đổi</h3>
+  <p style="position:absolute;left:39px;top:498px;width:377px;height:28px;overflow:hidden;">Những thay đổi được thực hiện trực tiếp từ tập tin glk.
+không thể tái tạo hiển thị. Mọi thay đổi trong tập tin glk sẽ được thực hiện.</p>
+  <img style="position:absolute;left:292px;top:75px;width:253px;height:106px;object-fit:contain;" src="images/74560d270ca6afc42ba8c728f1a2ae688b8923f36a7b9fa488106c2942f785e7.jpg" alt="image">
+  <img style="position:absolute;left:301px;top:208px;width:244px;height:295px;object-fit:contain;" src="images/23ba5375a6ac90ab093ddfc43e97e837c3e226d07409224fe4079840cf03e6f8.jpg" alt="image">
+  <h3 style="position:absolute;left:40px;top:538px;width:59px;height:12px;font-weight:bold;overflow:hidden;">Tải lại tập tin</h3>
+  <p style="position:absolute;left:39px;top:553px;width:511px;height:29px;overflow:hidden;">Tập tin đầy đủ sẽ được nạp lại và màn hình sẽ được định dạng lại. Tùy chọn nạp lại tập tin chỉ có tác dụng-
+có thể trong các mô-đun mạng và lưới bản đồ</p>
+  <p style="position:absolute;left:39px;top:592px;width:509px;height:43px;overflow:hidden;">Nếu nút cancel được nhấp, người dùng có thể cập nhật tập tin bằng cách trở về mô-đun mạng hoặc mapgrid
+và tải lại file bằng cách sử dụng Files - Open hoặc chọn Files - Shared File Status.
+hiển thị và các tùy chọn như là một thông báo thay đổi trong các mô-đun mạng hay lưới ánh xạ</p>
+  <p style="position:absolute;left:39px;top:643px;width:510px;height:30px;overflow:hidden;">Chỉ một thông báo thay đổi được phát hành ngay cả khi người dùng quyết định không tải lại tập tin. Một khi tập tin đã được
+được cập nhật, thông báo thay đổi sẽ bắt đầu lại.</p>
+</div>
+
+<div class="page" style="width:611px;height:791px;" data-page="3">
+
+  <h3 style="position:absolute;left:58px;top:68px;width:305px;height:15px;font-weight:bold;overflow:hidden;">Tính toán nhiễu trên tệp Mạng được chia sẻ</h3>
+  <p style="position:absolute;left:58px;top:87px;width:208px;height:83px;overflow:hidden;">Các sơ đồ khóa bảng vốn có được sử dụng trong
+công cụ cơ sở dữ liệu Borland không cho phép
+người dùng thực hiện can thiệp đồng thời
+tính toán. Tính toán nhiễu
+tạo ra một tập hợp các bảng liên quan đến
+tập tin mạng gr4.</p>
+  <p style="position:absolute;left:58px;top:181px;width:209px;height:55px;overflow:hidden;">Bản xây dựng chương trình ngày 02 tháng 6 năm 2002 cho phép
+người dùng chỉ định một thư mục riêng cho liên
+tính toán tham chiếu. Việc lựa chọn được thực hiện
+khi bắt đầu tính toán nhiễu.</p>
+  <p style="position:absolute;left:58px;top:247px;width:210px;height:56px;overflow:hidden;">Các hoạt động như chỉ định tương quan độ mờ
+tion sẽ thất bại nếu tập tin mạng hiện tại không hoạt động.
+không khớp với các bảng cơ sở dữ liệu ở chế độ riêng tư
+thư mục.</p>
+  <img style="position:absolute;left:273px;top:94px;width:291px;height:304px;object-fit:contain;" src="images/6241fddf026b6454ee1de892dea4a55988d9856b50d36abae4ec44092845c42a.jpg" alt="image">
+</div>
+
+</body>
+</html>

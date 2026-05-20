@@ -1,0 +1,682 @@
+TỔ CHỨC CHƯƠNG TRÌNH
+MÔ-ĐUN MẠNG
+MÔ-ĐUN TÓM TẮT
+3
+MODULE DỮ LIỆU ĐỊA HÌNH
+3
+MÔ-ĐUN CHIỀU CAO ANTENNA
+4
+MÔ-ĐUN BẢNG TÍNH VI SÓNG
+5
+VHF - MÔ-ĐUN BẢNG TÍNH UHF
+6
+MODULE ĐA ĐƯỜNG
+MÔ-ĐUN PHẢN XẠ
+MÔ-ĐUN NHỎ XẠ
+8
+MÔ-ĐUN PHẠM VI KHU VỰC
+9
+MODULE IN HỒ SƠ
+10
+TẦM NHÌN ĐỊA HÌNH
+10
+CƠ SỞ DỮ LIỆU TRANG WEB
+10
+NHIỄU HỆ THỐNG NỘI BỘ
+11
+TỆP ĂNG ĂNG và DỮ LIỆU RADIO
+11
+CƠ SỞ DỮ LIỆU ĐỊA HÌNH
+13
+BÁO CÁO
+14
+NGÔN NGỮ
+14
+TÀI LIỆU
+14
+Mất đường dẫn
+Mô tả chương trình
+Trang 1 trên 14
+TỔ CHỨC CHƯƠNG TRÌNH
+MÔ-ĐUN MẠNG
+MÔ-ĐUN TÓM TẮT
+3
+MODULE DỮ LIỆU ĐỊA HÌNH
+3
+MÔ-ĐUN CHIỀU CAO ANTENNA
+4
+MÔ-ĐUN BẢNG TÍNH VI SÓNG
+5
+VHF - MÔ-ĐUN BẢNG TÍNH UHF
+6
+MODULE ĐA ĐƯỜNG
+MÔ-ĐUN PHẢN XẠ
+MÔ-ĐUN NHỎ XẠ
+8
+MÔ-ĐUN PHẠM VI KHU VỰC
+9
+MODULE IN HỒ SƠ
+10
+TẦM NHÌN ĐỊA HÌNH
+10
+CƠ SỞ DỮ LIỆU TRANG WEB
+10
+NHIỄU HỆ THỐNG NỘI BỘ
+11
+TỆP ĂNG ĂNG và DỮ LIỆU RADIO
+11
+CƠ SỞ DỮ LIỆU ĐỊA HÌNH
+13
+BÁO CÁO
+14
+NGÔN NGỮ
+14
+TÀI LIỆU
+14
+TỔ CHỨC CHƯƠNG TRÌNH
+MÔ-ĐUN MẠNG
+Mô-đun Mạng cung cấp một
+giao diện địa lý với đường dẫn
+thiết kế mô-đun chỉ bằng cách nhấp vào
+trên liên kết giữa hai trang web. Cái này
+tính năng làm giảm đáng kể
+nỗ lực thiết kế cho các dự án lớn. nội bộ
+tính toán can thiệp hệ thống
+được thực hiện trên Mạng
+mô-đun.
+Tính toàn vẹn dữ liệu
+Quản lý sự thay đổi là một nhiệm vụ khó khăn
+trên bất kỳ dự án nào. Như thiết kế
+tiến hành, mô-đun mạng
+theo dõi tất cả các thay đổi được thực hiện trên trang web
+tên, tọa độ và địa điểm
+nâng cao và đảm bảo tính toàn vẹn dữ liệu trong tất cả các tệp dữ liệu.
+Lớp
+các dải tần.
+Vẽ tỷ lệ
+Nhập dữ liệu trang web
+Nhãn liên kết
+Mất đường dẫn
+Mô tả chương trình
+Trang 2 trên 14
+TỔ CHỨC CHƯƠNG TRÌNH
+MÔ-ĐUN MẠNG
+Mô-đun Mạng cung cấp một
+giao diện địa lý với đường dẫn
+thiết kế mô-đun chỉ bằng cách nhấp vào
+trên liên kết giữa hai trang web. Cái này
+tính năng làm giảm đáng kể
+nỗ lực thiết kế cho các dự án lớn. nội bộ
+tính toán can thiệp hệ thống
+được thực hiện trên Mạng
+mô-đun.
+Tính toàn vẹn dữ liệu
+Quản lý sự thay đổi là một nhiệm vụ khó khăn
+trên bất kỳ dự án nào. Như thiết kế
+tiến hành, mô-đun mạng
+theo dõi tất cả các thay đổi được thực hiện trên trang web
+tên, tọa độ và địa điểm
+nâng cao và đảm bảo tính toàn vẹn dữ liệu trong tất cả các tệp dữ liệu.
+Lớp
+các dải tần.
+Vẽ tỷ lệ
+Nhập dữ liệu trang web
+Nhãn liên kết
+bất kỳ sự kết hợp nào của các tham số sau:
+ID kênh TX
+tần số TX
+sự phân cực
+khoảng cách
+góc phương vị
+Bản đồ giao cắt
+Báo cáo danh sách trang web
+Báo cáo tổng hợp thiết bị - Ứng dụng lò vi sóng
+Báo cáo kế hoạch tần số - Ứng dụng vi sóng
+tóm tắt bài tập.
+MÔ-ĐUN TÓM TẮT
+chức năng:
+MODULE DỮ LIỆU ĐỊA HÌNH
+các phương pháp sau:
+•
+nhập thủ công khoảng cách và độ cao từ bản đồ địa hình
+dữ liệu độ cao khoảng cách được đọc từ cơ sở dữ liệu địa hình
+Mất đường dẫn
+Mô tả chương trình
+Trang 3 trên 14
+bất kỳ sự kết hợp nào của các tham số sau:
+ID kênh TX
+tần số TX
+sự phân cực
+khoảng cách
+góc phương vị
+Bản đồ giao cắt
+Báo cáo danh sách trang web
+Báo cáo tổng hợp thiết bị - Ứng dụng lò vi sóng
+Báo cáo kế hoạch tần số - Ứng dụng vi sóng
+tóm tắt bài tập.
+MÔ-ĐUN TÓM TẮT
+chức năng:
+MODULE DỮ LIỆU ĐỊA HÌNH
+các phương pháp sau:
+•
+nhập thủ công khoảng cách và độ cao từ bản đồ địa hình
+dữ liệu độ cao khoảng cách được đọc từ cơ sở dữ liệu địa hình
+Tính năng đặc biệt
+Hệ tọa độ lưới
+định dạng.
+UTM (Máy đo ngang đa năng)
+Gauss Nam Phi phù hợp
+Lưới pháp lệnh của Vương quốc Anh
+Gauss Kruger (sắp có)
+Lưới điện quốc gia Thụy Sĩ
+Lưới New Zealand
+Lưới Ailen
+Chuyển đổi giữa các mốc thời gian
+bao gồm các định nghĩa cho 120 mốc thời gian khác nhau.
+Sửa đổi hồ sơ địa hình
+Các điểm dư thừa có thể bị loại bỏ khỏi hồ sơ địa hình
+Góc khảo sát
+độ cao tại điểm đã chọn.
+MÔ-ĐUN CHIỀU CAO ANTENNA
+Mô-đun này xác định độ cao ăng-ten
+đáp ứng tiêu chí giải phóng mặt bằng được chỉ định là
+hệ số bán kính trái đất (K), tỷ lệ phần trăm của bán kính đầu tiên
+Bán kính vùng Fresnel và chiều cao cố định tùy chọn.
+Hai tiêu chí giải phóng mặt bằng riêng biệt có thể được chỉ định
+cho cả anten chính và anten đa dạng.
+Độ cao anten có thể thay đổi theo bất kỳ
+sự kết hợp hoặc chiều cao có thể được tối ưu hóa
+bình phương chiều cao của anten.
+Tính năng đặc biệt
+Cấu trúc
+Vị trí của các điểm tới hạn có thể không
+Mất đường dẫn
+Mô tả chương trình
+Trang 4 trên 14
+Tính năng đặc biệt
+Hệ tọa độ lưới
+định dạng.
+UTM (Máy đo ngang đa năng)
+Gauss Nam Phi phù hợp
+Lưới pháp lệnh của Vương quốc Anh
+Gauss Kruger (sắp có)
+Lưới điện quốc gia Thụy Sĩ
+Lưới New Zealand
+Lưới Ailen
+Chuyển đổi giữa các mốc thời gian
+bao gồm các định nghĩa cho 120 mốc thời gian khác nhau.
+Sửa đổi hồ sơ địa hình
+Các điểm dư thừa có thể bị loại bỏ khỏi hồ sơ địa hình
+Góc khảo sát
+độ cao tại điểm đã chọn.
+MÔ-ĐUN CHIỀU CAO ANTENNA
+Mô-đun này xác định độ cao ăng-ten
+đáp ứng tiêu chí giải phóng mặt bằng được chỉ định là
+hệ số bán kính trái đất (K), tỷ lệ phần trăm của bán kính đầu tiên
+Bán kính vùng Fresnel và chiều cao cố định tùy chọn.
+Hai tiêu chí giải phóng mặt bằng riêng biệt có thể được chỉ định
+cho cả anten chính và anten đa dạng.
+Độ cao anten có thể thay đổi theo bất kỳ
+sự kết hợp hoặc chiều cao có thể được tối ưu hóa
+bình phương chiều cao của anten.
+Tính năng đặc biệt
+Cấu trúc
+Vị trí của các điểm tới hạn có thể không
+được di chuyển trực tiếp trong mô-đun Antenna Heights.
+Tính toán khoảng trống trên đường dẫn hiện có
+Hiển thị khoảng trống
+Báo cáo giải phóng mặt bằng và định hướng
+K.
+Báo cáo cân bằng chiều cao ăng-ten
+trang web khác được báo cáo.
+MÔ-ĐUN BẢNG TÍNH VI SÓNG
+hiển thị khi quá trình nhập dữ liệu diễn ra.
+Phương pháp tin cậy
+ITU-R P.530-7 (độ nghiêng đường đi và hệ số địa khí hậu)
+hệ số KQ
+tiêu chuẩn khu vực cụ thể.
+thời gian dưới mức được coi là SES.
+Hệ thống cải tiến đa dạng
+Mất đường dẫn
+Mô tả chương trình
+Trang 5 trên 14
+được di chuyển trực tiếp trong mô-đun Antenna Heights.
+Tính toán khoảng trống trên đường dẫn hiện có
+Hiển thị khoảng trống
+Báo cáo giải phóng mặt bằng và định hướng
+K.
+Báo cáo cân bằng chiều cao ăng-ten
+trang web khác được báo cáo.
+MÔ-ĐUN BẢNG TÍNH VI SÓNG
+hiển thị khi quá trình nhập dữ liệu diễn ra.
+Phương pháp tin cậy
+ITU-R P.530-7 (độ nghiêng đường đi và hệ số địa khí hậu)
+hệ số KQ
+tiêu chuẩn khu vực cụ thể.
+thời gian dưới mức được coi là SES.
+Hệ thống cải tiến đa dạng
+hệ thống.
+Không gian đa dạng
+Đa dạng góc độ
+Suy giảm mưa
+các tập tin thống kê mưa sau đây:
+Vùng mưa cần cẩu
+vùng mưa hạc sửa đổi (1966)
+Vùng mưa của ITU
+Dữ liệu của Canada về 47 địa điểm thăm dò vô tuyến
+Bộ lặp thụ động
+phân tích độ tin cậy lan truyền
+Mẫu
+có thể được sử dụng như một mẫu.
+Bảng tra cứu
+VHF - MÔ-ĐUN BẢNG TÍNH UHF
+các tập tin dữ liệu.
+Mất đường dẫn
+Mô tả chương trình
+Trang 6 trên 14
+hệ thống.
+Không gian đa dạng
+Đa dạng góc độ
+Suy giảm mưa
+các tập tin thống kê mưa sau đây:
+Vùng mưa cần cẩu
+vùng mưa hạc sửa đổi (1966)
+Vùng mưa của ITU
+Dữ liệu của Canada về 47 địa điểm thăm dò vô tuyến
+Bộ lặp thụ động
+phân tích độ tin cậy lan truyền
+Mẫu
+có thể được sử dụng như một mẫu.
+Bảng tra cứu
+VHF - MÔ-ĐUN BẢNG TÍNH UHF
+các tập tin dữ liệu.
+MODULE ĐA ĐƯỜNG
+Kỹ thuật dò tia được sử dụng để phân tích
+các đặc điểm phản chiếu của một con đường và
+mô phỏng các điều kiện lan truyền bất thường. các
+màn hình hoạt động ở hai chế độ
+Độ dốc không đổi
+Một biểu diễn trái đất cong được sử dụng và tất cả
+tia phản xạ thể hiện tính nhạy của đường đi
+đến một sự phản chiếu gương và giúp xác định
+phạm vi của mặt phẳng phản xạ. Ở chế độ này,
+sự thay đổi tín hiệu như là một hàm của chiều cao ăng-ten
+có thể được hiển thị
+Độ dốc thay đổi
+Người dùng định nghĩa gradient khúc xạ hoặc K là
+Định dạng hồ sơ
+MÔ-ĐUN PHẢN XẠ
+Chiều cao ăng-ten của trang 1
+Tần số
+Chiều cao anten của site 2
+hệ số bán kính trái đất
+(K)
+Mức thủy triều
+Việc tính toán bắt đầu bằng cách xác định điểm cuối
+của mặt phẳng phản xạ. Mặt phẳng phản xạ có thể
+được xây dựng bằng một trong các phương pháp sau:
+bình phương nhỏ nhất phù hợp với địa hình trên
+phạm vi xác định
+một mặt phẳng chỉ được xác định bởi các điểm cuối
+một mặt phẳng có độ cao không đổi
+Ảnh hưởng của sự phân kỳ (sự tán xạ của một
+tín hiệu phản xạ do độ cong của trái đất),
+độ gồ ghề, lớp phủ mặt đất và mất khoảng trống có thể
+được đưa vào tính toán. Ăng-ten
+Mất đường dẫn
+Mô tả chương trình
+Trang 7 trên 14
+MODULE ĐA ĐƯỜNG
+Kỹ thuật dò tia được sử dụng để phân tích
+các đặc điểm phản chiếu của một con đường và
+mô phỏng các điều kiện lan truyền bất thường. các
+màn hình hoạt động ở hai chế độ
+Độ dốc không đổi
+Một biểu diễn trái đất cong được sử dụng và tất cả
+tia phản xạ thể hiện tính nhạy của đường đi
+đến một sự phản chiếu gương và giúp xác định
+phạm vi của mặt phẳng phản xạ. Ở chế độ này,
+sự thay đổi tín hiệu như là một hàm của chiều cao ăng-ten
+có thể được hiển thị
+Độ dốc thay đổi
+Người dùng định nghĩa gradient khúc xạ hoặc K là
+Định dạng hồ sơ
+MÔ-ĐUN PHẢN XẠ
+Chiều cao ăng-ten của trang 1
+Tần số
+Chiều cao anten của site 2
+hệ số bán kính trái đất
+(K)
+Mức thủy triều
+Việc tính toán bắt đầu bằng cách xác định điểm cuối
+của mặt phẳng phản xạ. Mặt phẳng phản xạ có thể
+được xây dựng bằng một trong các phương pháp sau:
+bình phương nhỏ nhất phù hợp với địa hình trên
+phạm vi xác định
+một mặt phẳng chỉ được xác định bởi các điểm cuối
+một mặt phẳng có độ cao không đổi
+Ảnh hưởng của sự phân kỳ (sự tán xạ của một
+tín hiệu phản xạ do độ cong của trái đất),
+độ gồ ghề, lớp phủ mặt đất và mất khoảng trống có thể
+được đưa vào tính toán. Ăng-ten
+sự thay đổi tương ứng trong biên độ tín hiệu phản xạ.
+MÔ-ĐUN NHỎ XẠ
+Thuật toán nhiễu xạ
+Tính toán tổn thất nhiễu xạ đầu tiên được mô tả
+địa hình theo các loại sau:
+lưỡi dao đơn
+gần cạnh dao đơn hoặc bị cô lập
+trở ngại
+nhiều cạnh dao (sử dụng Epstein-
+phương pháp Peterson hoặc Deygout)
+mất tiền cảnh giữa ăng-ten và
+chân trời của nó (chiều cao - tăng)
+địa hình không đều mặc định (Longley-Rice) hoặc
+nhiễu xạ đất thô
+Ba thuật toán nhiễu xạ tự động là
+cung cấp:
+Mô hình đất gồ ghề tích hợp TIREMterrain
+NSMA
+Hiệp hội quản lý quang phổ quốc gia
+Mất đường dẫn
+một thuật toán có thể cấu hình người dùng
+tính toán tham số, vùng phủ sóng và phân tích nhiễu.
+phương pháp:
+Gạo Longley
+Longley-Lý luận
+Tính toán tổn thất nhiễu xạ tương tác
+kết hợp các thuật toán cơ bản sau:
+Tính năng này cho phép tính toán như:
+thay thế địa hình bất thường bằng một chướng ngại vật hiệu quả
+Mất đường dẫn
+Mô tả chương trình
+Trang 8 trên 14
+sự thay đổi tương ứng trong biên độ tín hiệu phản xạ.
+MÔ-ĐUN NHỎ XẠ
+Thuật toán nhiễu xạ
+Tính toán tổn thất nhiễu xạ đầu tiên được mô tả
+địa hình theo các loại sau:
+lưỡi dao đơn
+gần cạnh dao đơn hoặc bị cô lập
+trở ngại
+nhiều cạnh dao (sử dụng Epstein-
+phương pháp Peterson hoặc Deygout)
+mất tiền cảnh giữa ăng-ten và
+chân trời của nó (chiều cao - tăng)
+địa hình không đều mặc định (Longley-Rice) hoặc
+nhiễu xạ đất thô
+Ba thuật toán nhiễu xạ tự động là
+cung cấp:
+Mô hình đất gồ ghề tích hợp TIREMterrain
+NSMA
+Hiệp hội quản lý quang phổ quốc gia
+Mất đường dẫn
+một thuật toán có thể cấu hình người dùng
+tính toán tham số, vùng phủ sóng và phân tích nhiễu.
+phương pháp:
+Gạo Longley
+Longley-Lý luận
+Tính toán tổn thất nhiễu xạ tương tác
+kết hợp các thuật toán cơ bản sau:
+Tính năng này cho phép tính toán như:
+thay thế địa hình bất thường bằng một chướng ngại vật hiệu quả
+Tổn thất phân tán tầng đối lưu - Tổn thất kết hợp
+mất nhiễu xạ.
+Sự thay đổi thời gian
+chương trình.
+Thông số biến
+chiều cao ăng-ten của trang 1 hoặc trang 2
+tần số
+hệ số bán kính trái đất (K)
+khoảng cách dọc theo con đường
+MÔ-ĐUN PHẠM VI KHU VỰC
+Phân tích vùng phủ sóng
+đòi hỏi một cơ sở dữ liệu địa hình. A
+hoàn toàn tự động 3 bước
+quá trình được sử dụng để tạo ra khu vực
+vùng phủ sóng và hiển thị đường ngắm.
+Bước 1 tạo địa hình xuyên tâm
+dữ liệu hồ sơ
+Bước 2 tính toán tổng hợp
+nhiễu xạ và tán xạ tầng đối lưu
+mất mát và các góc dọc dọc theo
+mỗi bán kính.
+Bước 3 chỉ định radio và
+thông số ăng-ten, mức tín hiệu
+tiêu chí và thời gian, địa điểm
+những hạn chế về sự biến đổi.
+Một phép tính có thể được sửa đổi bằng cách
+quay lại bước thích hợp
+và thay đổi yêu cầu
+thông số .The phân tích
+xem xét các góc độ cao trên
+đường ngắm hoặc đường chân trời
+góc trên những con đường bị cản trở. Căn cứ
+ăng-ten trạm có thể bao gồm
+nghiêng xuống cơ khí.
+và hiển thị mức tín hiệu có sẵn ở một trong hai định dạng.
+Mất đường dẫn
+Mô tả chương trình
+Trang 9 trên 14
+Tổn thất phân tán tầng đối lưu - Tổn thất kết hợp
+mất nhiễu xạ.
+Sự thay đổi thời gian
+chương trình.
+Thông số biến
+chiều cao ăng-ten của trang 1 hoặc trang 2
+tần số
+hệ số bán kính trái đất (K)
+khoảng cách dọc theo con đường
+MÔ-ĐUN PHẠM VI KHU VỰC
+Phân tích vùng phủ sóng
+đòi hỏi một cơ sở dữ liệu địa hình. A
+hoàn toàn tự động 3 bước
+quá trình được sử dụng để tạo ra khu vực
+vùng phủ sóng và hiển thị đường ngắm.
+Bước 1 tạo địa hình xuyên tâm
+dữ liệu hồ sơ
+Bước 2 tính toán tổng hợp
+nhiễu xạ và tán xạ tầng đối lưu
+mất mát và các góc dọc dọc theo
+mỗi bán kính.
+Bước 3 chỉ định radio và
+thông số ăng-ten, mức tín hiệu
+tiêu chí và thời gian, địa điểm
+những hạn chế về sự biến đổi.
+Một phép tính có thể được sửa đổi bằng cách
+quay lại bước thích hợp
+và thay đổi yêu cầu
+thông số .The phân tích
+xem xét các góc độ cao trên
+đường ngắm hoặc đường chân trời
+góc trên những con đường bị cản trở. Căn cứ
+ăng-ten trạm có thể bao gồm
+nghiêng xuống cơ khí.
+và hiển thị mức tín hiệu có sẵn ở một trong hai định dạng.
+Vùng phủ sóng đa địa điểm
+tầm nhìn.
+MODULE IN HỒ SƠ
+Ba định dạng hồ sơ phổ biến được cung cấp:
+Tham chiếu vùng K và Fresnel có thể được hiển thị.
+giá trị của K với bốn tham chiếu vùng Fresnel.
+sự kết hợp anten đa dạng.
+Khối tiêu đề
+TẦM NHÌN ĐỊA HÌNH
+Chế độ xem địa hình ba chiều có sẵn trong
+các mô-đun Mạng và Dữ liệu Địa hình. trong
+Mô-đun mạng, người dùng chỉ cần xác định một
+vùng hình chữ nhật trên màn hình để hiển thị
+địa hình. Các trang web mới có thể được thêm vào địa hình
+xem. Việc thực hiện dựa trên Mặt trời
+Thư viện OPENGL của microsystems được cung cấp kèm theo
+Windows 95/98 và Windows NT.
+CƠ SỞ DỮ LIỆU TRANG WEB
+Tất cả các tùy chọn của chương trình bao gồm một giao diện trong
+các mô-đun Tóm tắt và Mạng cho một trang web
+cơ sở dữ liệu. Bất kỳ số lượng cơ sở dữ liệu trang web có thể được
+được tạo ra. Phần ví dụ của CD-ROM
+bao gồm cơ sở dữ liệu vi sóng hoàn chỉnh cho
+Canada.
+Cơ sở dữ liệu bao gồm các bảng Borland Paradox sau:
+chủ sở hữu và người điều hành
+hồ sơ trang web
+hồ sơ trạm
+hồ sơ liên kết
+Mất đường dẫn
+Mô tả chương trình
+Trang 10 trên 14
+Vùng phủ sóng đa địa điểm
+tầm nhìn.
+MODULE IN HỒ SƠ
+Ba định dạng hồ sơ phổ biến được cung cấp:
+Tham chiếu vùng K và Fresnel có thể được hiển thị.
+giá trị của K với bốn tham chiếu vùng Fresnel.
+sự kết hợp anten đa dạng.
+Khối tiêu đề
+TẦM NHÌN ĐỊA HÌNH
+Chế độ xem địa hình ba chiều có sẵn trong
+các mô-đun Mạng và Dữ liệu Địa hình. trong
+Mô-đun mạng, người dùng chỉ cần xác định một
+vùng hình chữ nhật trên màn hình để hiển thị
+địa hình. Các trang web mới có thể được thêm vào địa hình
+xem. Việc thực hiện dựa trên Mặt trời
+Thư viện OPENGL của microsystems được cung cấp kèm theo
+Windows 95/98 và Windows NT.
+CƠ SỞ DỮ LIỆU TRANG WEB
+Tất cả các tùy chọn của chương trình bao gồm một giao diện trong
+các mô-đun Tóm tắt và Mạng cho một trang web
+cơ sở dữ liệu. Bất kỳ số lượng cơ sở dữ liệu trang web có thể được
+được tạo ra. Phần ví dụ của CD-ROM
+bao gồm cơ sở dữ liệu vi sóng hoàn chỉnh cho
+Canada.
+Cơ sở dữ liệu bao gồm các bảng Borland Paradox sau:
+chủ sở hữu và người điều hành
+hồ sơ trang web
+hồ sơ trạm
+hồ sơ liên kết
+bản ghi kênh truyền
+hồ sơ lặp lại thụ động
+đoạn văn sau đây.
+NHIỄU HỆ THỐNG NỘI BỘ
+các trang web và liên kết trên các lớp hiển thị.
+Báo cáo chi tiết trường hợp
+Báo cáo tóm tắt và tham khảo chéo
+hỗ trợ cho báo cáo chi tiết trường hợp toàn diện hơn.
+Báo cáo vi phạm Cao-Thấp
+TỆP ĂNG ĂNG và DỮ LIỆU RADIO
+Tệp dữ liệu ăng-ten vi sóng
+Mất đường dẫn
+Mô tả chương trình
+Trang 11 trên 14
+bản ghi kênh truyền
+hồ sơ lặp lại thụ động
+đoạn văn sau đây.
+NHIỄU HỆ THỐNG NỘI BỘ
+các trang web và liên kết trên các lớp hiển thị.
+Báo cáo chi tiết trường hợp
+Báo cáo tóm tắt và tham khảo chéo
+hỗ trợ cho báo cáo chi tiết trường hợp toàn diện hơn.
+Báo cáo vi phạm Cao-Thấp
+TỆP ĂNG ĂNG và DỮ LIỆU RADIO
+Tệp dữ liệu ăng-ten vi sóng
+dữ liệu.
+mô hình anten.
+Tệp dữ liệu sóng vô tuyến vi sóng
+bất kỳ băng thông và điều chế nào, cần có các tham số sau:
+Ngưỡng BER
+băng thông kênh
+Băng thông 3 dB của phổ phát
+Các đường cong sau đây sẽ được sử dụng nếu có:
+phổ máy phát so với tần số
+Tỷ lệ T-I so với tần số của nhiễu CW
+năng lực
+cải thiện nếu các đường cong yêu cầu không có sẵn.
+mô hình từ các nhà sản xuất lớn.
+Định nghĩa tỷ lệ ngưỡng can thiệp (T-I)
+băng thông.
+Tệp dữ liệu ăng-ten VHF-UHF
+Mất đường dẫn
+Mô tả chương trình
+Trang 12 trên 14
+dữ liệu.
+mô hình anten.
+Tệp dữ liệu sóng vô tuyến vi sóng
+bất kỳ băng thông và điều chế nào, cần có các tham số sau:
+Ngưỡng BER
+băng thông kênh
+Băng thông 3 dB của phổ phát
+Các đường cong sau đây sẽ được sử dụng nếu có:
+phổ máy phát so với tần số
+Tỷ lệ T-I so với tần số của nhiễu CW
+năng lực
+cải thiện nếu các đường cong yêu cầu không có sẵn.
+mô hình từ các nhà sản xuất lớn.
+Định nghĩa tỷ lệ ngưỡng can thiệp (T-I)
+băng thông.
+Tệp dữ liệu ăng-ten VHF-UHF
+Ăng-ten UHF là mẫu điển hình.
+dải tần từ 50 đến 2500 MHZ.
+CƠ SỞ DỮ LIỆU ĐỊA HÌNH
+Cơ sở dữ liệu sơ cấp và thứ cấp
+Datum - Chuyển đổi tọa độ
+được chuyển đổi sang mốc thời gian này cho tất cả các hoạt động cơ sở dữ liệu.
+Các định dạng cơ sở dữ liệu địa hình được hỗ trợ
+Các định dạng cơ sở dữ liệu địa hình sau đây hiện được hỗ trợ.
+USGS 1:250.000 DEMS (3 cung giây)
+Dữ liệu địa hình 30 cung giây toàn cầu USGS GTOPO30
+DTED (Dữ liệu độ cao địa hình kỹ thuật số - định dạng DMA của Hoa Kỳ)
+CRC - Hội đồng nghiên cứu Canada)
+
+ESRI (ArcInfo) GRIDASCII ở định dạng địa lý và UTM
+Tiêu chuẩn trao đổi quốc gia Nam Phi
+MDT200 và MDT25 - Tây Ban Nha
+Phoenix -Airtouch Định dạng di động
+Micropath - dữ liệu địa hình 3 giây
+AUSLIG - Dữ liệu địa hình 3 giây của Úc
+Mất đường dẫn
+Mô tả chương trình
+Trang 13 trên 14
+Ăng-ten UHF là mẫu điển hình.
+dải tần từ 50 đến 2500 MHZ.
+CƠ SỞ DỮ LIỆU ĐỊA HÌNH
+Cơ sở dữ liệu sơ cấp và thứ cấp
+Datum - Chuyển đổi tọa độ
+được chuyển đổi sang mốc thời gian này cho tất cả các hoạt động cơ sở dữ liệu.
+Các định dạng cơ sở dữ liệu địa hình được hỗ trợ
+Các định dạng cơ sở dữ liệu địa hình sau đây hiện được hỗ trợ.
+USGS 1:250.000 DEMS (3 cung giây)
+Dữ liệu địa hình 30 cung giây toàn cầu USGS GTOPO30
+DTED (Dữ liệu độ cao địa hình kỹ thuật số - định dạng DMA của Hoa Kỳ)
+CRC - Hội đồng nghiên cứu Canada)
+
+ESRI (ArcInfo) GRIDASCII ở định dạng địa lý và UTM
+Tiêu chuẩn trao đổi quốc gia Nam Phi
+MDT200 và MDT25 - Tây Ban Nha
+Phoenix -Airtouch Định dạng di động
+Micropath - dữ liệu địa hình 3 giây
+AUSLIG - Dữ liệu địa hình 3 giây của Úc
+Các định dạng đang được phát triển
+Khảo sát quân sự của Vương quốc Anh
+Hành tinh MSI
+DGM - Đức
+Dữ liệu địa hình mất đường (sắp có - nâng cấp miễn phí)
+có sẵn miễn phí từ trang web USGS.
+hai đĩa CD-ROM.
+BÁO CÁO
+(Định dạng văn bản có định dạng) hoặc dưới dạng tệp văn bản ASCII.
+NGÔN NGỮ
+TÀI LIỆU
+Mất đường dẫn
+Mô tả chương trình
+Trang 14 trên 14
+Các định dạng đang được phát triển
+Khảo sát quân sự của Vương quốc Anh
+Hành tinh MSI
+DGM - Đức
+Dữ liệu địa hình mất đường (sắp có - nâng cấp miễn phí)
+có sẵn miễn phí từ trang web USGS.
+hai đĩa CD-ROM.
+BÁO CÁO
+(Định dạng văn bản có định dạng) hoặc dưới dạng tệp văn bản ASCII.
+NGÔN NGỮ
+TÀI LIỆU

@@ -1,0 +1,103 @@
+Pathloss File Locking and Sharing
+Pathloss data (pl4) file locking
+The locking mechanism, creates a new
+file with the same name as the Pathloss
+data files with the extension lck. When
+the user closes this file, the lock file is
+erased. If another user attempts to open
+in use and will be opened in read only
+der another name. The program does not
+check if the lock file has been (deleted)
+Network (gr4) file sharing
+is saved in the program option file.
+changes to the sites and links.
+not be overwritten.
+• the revision date and change number
+vidual users files
+Pathloss 4.0
+File Locking and Sharing
+Page 1 of 3
+Pathloss File Locking and Sharing
+Pathloss data (pl4) file locking
+The locking mechanism, creates a new
+file with the same name as the Pathloss
+data files with the extension lck. When
+the user closes this file, the lock file is
+erased. If another user attempts to open
+in use and will be opened in read only
+der another name. The program does not
+check if the lock file has been (deleted)
+Network (gr4) file sharing
+is saved in the program option file.
+changes to the sites and links.
+not be overwritten.
+• the revision date and change number
+vidual users files
+receive revision revision date at the time that they
+loaded the file.
+saves the changes. A change is defined as follows:
+• a site has been added
+• a site has been deleted
+• a site has been moved
+• a link has been added
+• a link has been deleted
+changed.
+ed to the file.
+In this shared environment, the program checks the
+Each change can be viewed.
+Make changes
+Reload file
+able in the network and mapgrid modules
+updated, the change notification will begin again.
+File Locking and Sharing
+Pathloss 4.0
+Page 2 of 3
+receive revision revision date at the time that they
+loaded the file.
+saves the changes. A change is defined as follows:
+• a site has been added
+• a site has been deleted
+• a site has been moved
+• a link has been added
+• a link has been deleted
+changed.
+ed to the file.
+In this shared environment, the program checks the
+Each change can be viewed.
+Make changes
+Reload file
+able in the network and mapgrid modules
+updated, the change notification will begin again.
+Interference Calculations on a shared Network file
+The inherent table locking schemes used in
+the Borland database engine does not allow
+users to carry out simultaneous interference
+calculations. An interference calculation
+creates a set of tables which relate to the
+network gr4 file.
+The June 02, 2002 program build allows the
+user to specify a private directory for inter-
+ference calculations. The selection is made
+at the start of an interference calculation.
+Operations such as specifying fade correla-
+tion will fail if the current network file does
+not match the database tables in the private
+directory.
+Pathloss 4.0
+File Locking and Sharing
+Page 3 of 3
+Interference Calculations on a shared Network file
+The inherent table locking schemes used in
+the Borland database engine does not allow
+users to carry out simultaneous interference
+calculations. An interference calculation
+creates a set of tables which relate to the
+network gr4 file.
+The June 02, 2002 program build allows the
+user to specify a private directory for inter-
+ference calculations. The selection is made
+at the start of an interference calculation.
+Operations such as specifying fade correla-
+tion will fail if the current network file does
+not match the database tables in the private
+directory.
