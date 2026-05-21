@@ -10,7 +10,7 @@ from html import escape
 from statistics import NormalDist
 from collections import Counter
 
-DEBUG = False  # Toggle: colored borders + type labels on each block
+DEBUG = True  # Toggle: colored borders + type labels on each block
 
 BLOCK_COLORS = {
     "title": "#e74c3c",  # red
@@ -27,7 +27,7 @@ INPUT_DIR = os.path.join(BASE_DIR, "input")
 folders = sorted(os.listdir(INPUT_DIR))
 
 
-def fit_font_size(text, box_w, box_h, min_font=5, max_lh=2.0, cap=None):
+def fit_font_size(text, box_w, box_h, min_font=5, max_lh=2.0, cap=None, newlines_are_breaks=False):
     """Pick largest font where text fits. Returns (font_size, line_height)."""
     if not text or box_w <= 0 or box_h <= 0:
         return (min_font, 1.2)
@@ -39,7 +39,16 @@ def fit_font_size(text, box_w, box_h, min_font=5, max_lh=2.0, cap=None):
     max_font = max(min_font, min(limit, int(box_h / 1.0)))
     for f in range(max_font, min_font - 1, -1):
         cpl = box_w / (0.48 * f)
-        needed = math.ceil(n / cpl) if cpl > 0 else 999
+        if newlines_are_breaks:
+            segments = text.split('\n')
+            total_lines = 0
+            for seg in segments:
+                seg_chars = len(seg)
+                seg_lines = math.ceil(seg_chars / cpl) if seg_chars > 0 else 1
+                total_lines += seg_lines
+            needed = total_lines
+        else:
+            needed = math.ceil(n / cpl) if cpl > 0 else 999
         if needed <= 0:
             continue
         lh = box_h / (needed * f)
@@ -318,7 +327,7 @@ def render(block, base_path, cap=None):
             return ""
         combined = "\n".join(items)
         w, h = x2 - x1, y2 - y1
-        fs, lh = fit_font_size(combined, w, h, cap=cap)
+        fs, lh = fit_font_size(combined, w, h, cap=cap, newlines_are_breaks=True)
         lis = "\n".join(f"    <li>{i}</li>" for i in items)
         return f'  <ul style="{s}overflow:hidden;font-size:{fs}px;line-height:{lh};list-style-position:inside;padding-left:10px;margin:0;">\n{lis}\n  </ul>'
 
@@ -400,7 +409,7 @@ for folder in folders:
             if not tx:
                 continue
             w, h = b[2] - b[0], b[3] - b[1]
-            fs, _ = fit_font_size(tx, w, h)
+            fs, _ = fit_font_size(tx, w, h, newlines_are_breaks=(t == "list"))
             all_font_sizes.append(fs)
 
     cap = compute_font_cap(all_font_sizes)
