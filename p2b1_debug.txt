@@ -1,0 +1,7 @@
+type: text
+bbox: [39, 162, 285, 190]
+text(125): Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:
+  line 0 bbox: [41, 162, 285, 176]
+    span: 'Giả sử một người dùng thực hiện một số thay đổi đối với tập tin và'
+  line 1 bbox: [41, 176, 287, 191]
+    span: 'lưu các thay đổi. Một sự thay đổi được định nghĩa như sau:'

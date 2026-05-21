@@ -18,6 +18,7 @@ Pipeline works directly with MinerU's JSON layout structure (not Markdown). Tran
 | 3.2 | `3.2.py` | Translate long lines (>=10 words) via local `VietAI/envit5-translation` T5 model. Output: `temp/3.2.txt` |
 | 4 | `4.py` | Merge translations back into JSON using tracking file (`2.3.txt`). Replaces `[N]` markers with translated text. Output: `temp/4.json` |
 | 5 | `5.py` | Convert translated `4.json` to positioned HTML with CSS. Renders titles, text, lists, tables, images as absolutely-positioned elements matching original layout. Output: `temp/5.html` |
+| 6 | `6.py` | Convert `5.html` to `6.pdf` via Playwright (Chromium headless). Each `.page` div becomes a PDF page. Output: `temp/6.pdf` |
 
 ## Run
 
@@ -28,6 +29,7 @@ python 3.1.py
 python 3.2.py
 python 4.py
 python 5.py
+python 6.py
 ```
 
 ## Input Structure

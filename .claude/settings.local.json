@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Start-Process \"C:\\\\Users\\\\k\\\\Documents\\\\2025.2\\\\python\\\\dichpdfver2\\\\input\\\\plw40_description.pdf-b148f754-f533-47f0-8734-14b178721d25\\\\5.html\")"
+    ]
+  }
+}

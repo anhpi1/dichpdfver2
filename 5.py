@@ -61,7 +61,7 @@ def fit_font_size(text, box_w, box_h, min_font=5, max_lh=2.0, cap=None, newlines
             if cap is not None:
                 return (f, max_lh)
             continue
-        if lh * needed * f > box_h:
+        if lh * needed * f > box_h + 1e-9:
             continue
         return (f, lh)
     return (min_font, 1.2)
@@ -341,7 +341,14 @@ def render(block, base_path, cap=None):
                     if sp.get("type") == "table" and sp.get("html"):
                         hc = sp["html"]
         if hc:
-            return f'  <div style="{s}overflow:auto;font-size:10px;">{hc}</div>'
+            # Count table rows, pick font + tight line-height so all fit
+            nrows = hc.count('<tr>')
+            w, h = x2 - x1, y2 - y1
+            fs = max(5, min(10, int(h / (max(nrows, 1) * 1.7))))
+            # Constrain table to container width + word-break
+            hc = hc.replace('<table', '<table style="width:100%;table-layout:fixed;line-height:1.0;"')
+            hc = hc.replace('<td>', '<td style="overflow-wrap:break-word;word-wrap:break-word;">')
+            return f'  <div style="{s}overflow:hidden;font-size:{fs}px;">{hc}</div>'
         return ""
 
     if t in ("chart", "image"):

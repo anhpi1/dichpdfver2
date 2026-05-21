@@ -12,7 +12,8 @@ Pipeline này giúp trích xuất nội dung từ file PDF và dịch sang tiế
 ### Cài đặt thư viện
 
 ```bash
-pip install deep-translator tqdm transformers torch sentencepiece
+pip install deep-translator tqdm transformers torch sentencepiece playwright
+playwright install chromium
 ```
 
 ## Quy trình
@@ -47,6 +48,7 @@ python 3.1.py   # Dịch dòng ngắn qua Google Translate
 python 3.2.py   # Dịch dòng dài qua mô hình VietAI/envit5-translation
 python 4.py    # Ghép bản dịch trở lại layout.json
 python 5.py    # Xuất HTML với bố cục giữ nguyên
+python 6.py    # Chuyển HTML sang PDF (Playwright Chromium)
 ```
 
 Mỗi script sẽ tự động xử lý **tất cả** các thư mục con trong `input/`.
@@ -61,11 +63,13 @@ Sau khi chạy xong, mỗi thư mục PDF sẽ có:
   - `2.1.txt`, `2.2.txt`, `2.3.txt` — Dòng ngắn, dài, file theo dõi
   - `3.1.txt`, `3.2.txt` — Bản dịch dòng ngắn, dài
   - `4.json` — Layout đã dịch
-- `5.html` — **File kết quả cuối cùng**: HTML giữ nguyên bố cục PDF, nội dung đã dịch sang tiếng Việt
+- `5.html` — HTML giữ nguyên bố cục PDF, nội dung đã dịch sang tiếng Việt
+	- `6.pdf` — **File PDF cuối cùng** tái tạo từ HTML qua Chromium
 
 ### Lưu ý
 
 - Các script dùng đường dẫn tương đối, không cần chỉnh sửa gì.
 - Bước 3.1 (Google Translate) cần internet và bị giới hạn tốc độ (1 giây/lần gọi).
 - Bước 3.2 (mô hình T5) cần nhiều RAM; có thể chạy rất lâu trên CPU (mã code này chỉ được viết cho việc chạy trên cpu).
+- Bước 6 cần chạy `playwright install chromium` lần đầu để tải trình duyệt.
 - Pipeline chỉ xử lý các thư mục có chứa `layout.json`, bỏ qua thư mục `sample/`.
