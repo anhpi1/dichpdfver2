@@ -1972,7 +1972,7 @@
                     158
                   ],
                   "type": "text",
-                  "content": "mô-đun bao phủ và mô-đun mạng tích hợp các đường dẫn vô tuyến và phân tích vùng phủ sóng.",
+                  "content": "mô-đun bao phủ và mô-đun mạng tích hợp các đường dẫn vô tuyến và phân tích vùng bao phủ",
                   "score": 1.0
                 }
               ]
@@ -2014,7 +2014,7 @@
                     187
                   ],
                   "type": "text",
-                  "content": "và các tính năng của các mô-đun này được mô tả trong các đoạn sau.",
+                  "content": "và các đặc tính của các mô-đun này được mô tả trong các đoạn sau",
                   "score": 1.0
                 }
               ]
@@ -2687,7 +2687,7 @@
                     602
                   ],
                   "type": "text",
-                  "content": "liên kết được xử lý bằng cách sử dụng kết hợp của việc mở rộng và các lớp.",
+                  "content": "liên kết được xử lý bằng cách sử dụng kết hợp giữa việc mở rộng và các lớp",
                   "score": 1.0
                 }
               ]
@@ -2798,7 +2798,7 @@
                     673
                   ],
                   "type": "text",
-                  "content": "từ cơ sở dữ liệu trang web hoặc bằng cách nhập trực tiếp các tệp dữ liệu Pathloss.",
+                  "content": "từ cơ sở dữ liệu trang web hoặc bằng cách nhập trực tiếp các tập tin dữ liệu Pathloss",
                   "score": 1.0
                 }
               ]
@@ -3110,7 +3110,7 @@
                     158
                   ],
                   "type": "text",
-                  "content": "mô-đun bao phủ và mô-đun mạng tích hợp các đường dẫn vô tuyến và phân tích vùng phủ sóng.",
+                  "content": "mô-đun bao phủ và mô-đun mạng tích hợp các đường dẫn vô tuyến và phân tích vùng bao phủ",
                   "score": 1.0
                 }
               ]
@@ -3152,7 +3152,7 @@
                     187
                   ],
                   "type": "text",
-                  "content": "và các tính năng của các mô-đun này được mô tả trong các đoạn sau.",
+                  "content": "và các đặc tính của các mô-đun này được mô tả trong các đoạn sau",
                   "score": 1.0
                 }
               ]
@@ -3825,7 +3825,7 @@
                     602
                   ],
                   "type": "text",
-                  "content": "liên kết được xử lý bằng cách sử dụng kết hợp của việc mở rộng và các lớp.",
+                  "content": "liên kết được xử lý bằng cách sử dụng kết hợp giữa việc mở rộng và các lớp",
                   "score": 1.0
                 }
               ]
@@ -3936,7 +3936,7 @@
                     673
                   ],
                   "type": "text",
-                  "content": "từ cơ sở dữ liệu trang web hoặc bằng cách nhập trực tiếp các tệp dữ liệu Pathloss.",
+                  "content": "từ cơ sở dữ liệu trang web hoặc bằng cách nhập trực tiếp các tập tin dữ liệu Pathloss",
                   "score": 1.0
                 }
               ]
@@ -4330,7 +4330,7 @@
                     201
                   ],
                   "type": "text",
-                  "content": "từ góc gần nhất của bản đồ và khoảng cách được cộng dồn dọc theo mặt cắt.",
+                  "content": "từ góc gần nhất của bản đồ và khoảng cách tích lũy dọc theo hồ sơ",
                   "score": 1.0
                 }
               ]
@@ -4468,7 +4468,7 @@
                     287
                   ],
                   "type": "text",
-                  "content": "Báo cáo này đọc các file dữ liệu mất đường dẫn riêng lẻ và tạo ra một bản tóm tắt thiết bị.",
+                  "content": "Báo cáo này đọc các tập tin dữ liệu mất đường dẫn riêng lẻ và tạo ra một bản tóm tắt thiết bị",
                   "score": 1.0
                 }
               ]
@@ -4736,7 +4736,7 @@
                         471
                       ],
                       "type": "text",
-                      "content": "phân tích. Một số mục như tên địa điểm và dấu hiệu gọi chỉ có thể được nhập vào mô-đun này.",
+                      "content": "phân tích. Một số mục như tên địa điểm và dấu hiệu gọi chỉ có thể được nhập vào mô-đun này",
                       "score": 1.0
                     }
                   ]
@@ -4757,7 +4757,7 @@
                         487
                       ],
                       "type": "text",
-                      "content": "Các mục khác, chẳng hạn như chiều cao ăng-ten, có thể được thay đổi trong bất kỳ mô-đun thiết kế nào trong chương trình.",
+                      "content": "Các mục khác, chẳng hạn như chiều cao ăng-ten, có thể được thay đổi trong bất kỳ mô-đun thiết kế nào trong chương trình",
                       "score": 1.0
                     }
                   ]
@@ -4792,7 +4792,7 @@
                         502
                       ],
                       "type": "text",
-                      "content": "cung cấp giao diện cho cơ sở dữ liệu trang Pathloss để nhập dữ liệu và phân tích nhiễu.",
+                      "content": "cung cấp giao diện cho cơ sở dữ liệu của trang Pathloss để nhập dữ liệu và phân tích nhiễu",
                       "score": 1.0
                     }
                   ]
@@ -4827,7 +4827,7 @@
                         514
                       ],
                       "type": "text",
-                      "content": "đặt kiểu ứng dụng là vi sóng (điểm tới điểm hay điểm tới điểm) hay VHF-UHF.",
+                      "content": "đặt kiểu ứng dụng là vi sóng (điểm tới điểm hay điểm tới điểm) hay VHF-UHF",
                       "score": 1.0
                     }
                   ]
@@ -5162,7 +5162,7 @@
                     715
                   ],
                   "type": "text",
-                  "content": "Tháp nước) hoặc phạm vi của các cấu trúc có thể được thêm vào hồ sơ.",
+                  "content": "Tháp nước) hoặc phạm vi của các cấu trúc có thể được thêm vào hồ sơ",
                   "score": 1.0
                 }
               ]
@@ -5573,7 +5573,7 @@
                     201
                   ],
                   "type": "text",
-                  "content": "từ góc gần nhất của bản đồ và khoảng cách được cộng dồn dọc theo mặt cắt.",
+                  "content": "từ góc gần nhất của bản đồ và khoảng cách tích lũy dọc theo hồ sơ",
                   "score": 1.0
                 }
               ]
@@ -5711,7 +5711,7 @@
                     287
                   ],
                   "type": "text",
-                  "content": "Báo cáo này đọc các file dữ liệu mất đường dẫn riêng lẻ và tạo ra một bản tóm tắt thiết bị.",
+                  "content": "Báo cáo này đọc các tập tin dữ liệu mất đường dẫn riêng lẻ và tạo ra một bản tóm tắt thiết bị",
                   "score": 1.0
                 }
               ]
@@ -5979,7 +5979,7 @@
                         471
                       ],
                       "type": "text",
-                      "content": "phân tích. Một số mục như tên địa điểm và dấu hiệu gọi chỉ có thể được nhập vào mô-đun này.",
+                      "content": "phân tích. Một số mục như tên địa điểm và dấu hiệu gọi chỉ có thể được nhập vào mô-đun này",
                       "score": 1.0
                     }
                   ]
@@ -6000,7 +6000,7 @@
                         487
                       ],
                       "type": "text",
-                      "content": "Các mục khác, chẳng hạn như chiều cao ăng-ten, có thể được thay đổi trong bất kỳ mô-đun thiết kế nào trong chương trình.",
+                      "content": "Các mục khác, chẳng hạn như chiều cao ăng-ten, có thể được thay đổi trong bất kỳ mô-đun thiết kế nào trong chương trình",
                       "score": 1.0
                     }
                   ]
@@ -6035,7 +6035,7 @@
                         502
                       ],
                       "type": "text",
-                      "content": "cung cấp giao diện cho cơ sở dữ liệu trang Pathloss để nhập dữ liệu và phân tích nhiễu.",
+                      "content": "cung cấp giao diện cho cơ sở dữ liệu của trang Pathloss để nhập dữ liệu và phân tích nhiễu",
                       "score": 1.0
                     }
                   ]
@@ -6070,7 +6070,7 @@
                         514
                       ],
                       "type": "text",
-                      "content": "đặt kiểu ứng dụng là vi sóng (điểm tới điểm hay điểm tới điểm) hay VHF-UHF.",
+                      "content": "đặt kiểu ứng dụng là vi sóng (điểm tới điểm hay điểm tới điểm) hay VHF-UHF",
                       "score": 1.0
                     }
                   ]
@@ -6405,7 +6405,7 @@
                     715
                   ],
                   "type": "text",
-                  "content": "Tháp nước) hoặc phạm vi của các cấu trúc có thể được thêm vào hồ sơ.",
+                  "content": "Tháp nước) hoặc phạm vi của các cấu trúc có thể được thêm vào hồ sơ",
                   "score": 1.0
                 }
               ]
@@ -6990,7 +6990,7 @@
                         357
                       ],
                       "type": "text",
-                      "content": "tự động tăng cường bởi một phần trăm xác định của khoảng đường viền.",
+                      "content": "tự động tăng cường bởi một phần trăm đã xác định của khoảng đường viền",
                       "score": 1.0
                     }
                   ]
@@ -7025,7 +7025,7 @@
                         372
                       ],
                       "type": "text",
-                      "content": "Cấu hình có thể được kéo dài hoặc thu nhỏ để phù hợp với khoảng cách tính từ toạ độ.",
+                      "content": "Cấu hình có thể được kéo dài hoặc thu nhỏ để phù hợp với khoảng cách tính từ các tọa độ",
                       "score": 1.0
                     }
                   ]
@@ -8288,7 +8288,7 @@
                         357
                       ],
                       "type": "text",
-                      "content": "tự động tăng cường bởi một phần trăm xác định của khoảng đường viền.",
+                      "content": "tự động tăng cường bởi một phần trăm đã xác định của khoảng đường viền",
                       "score": 1.0
                     }
                   ]
@@ -8323,7 +8323,7 @@
                         372
                       ],
                       "type": "text",
-                      "content": "Cấu hình có thể được kéo dài hoặc thu nhỏ để phù hợp với khoảng cách tính từ toạ độ.",
+                      "content": "Cấu hình có thể được kéo dài hoặc thu nhỏ để phù hợp với khoảng cách tính từ các tọa độ",
                       "score": 1.0
                     }
                   ]
@@ -9044,7 +9044,7 @@
                     172
                   ],
                   "type": "text",
-                  "content": "% bán kính vùng Fresnel đầu tiên. Tham số còn lại sẽ được tính trên toàn bộ đường dẫn.",
+                  "content": "% bán kính vùng Fresnel đầu tiên. Tham số còn lại sẽ được tính trên toàn bộ đường dẫn",
                   "score": 1.0
                 }
               ]
@@ -9113,7 +9113,7 @@
                     217
                   ],
                   "type": "text",
-                  "content": "Thông quan có thể được hiển thị tại bất kỳ điểm nào chi tiết các đóng góp của các tiêu chí thông quan kiểm soát.",
+                  "content": "Thông quan có thể được hiển thị tại bất kỳ điểm nào chi tiết đóng góp của các tiêu chí thông quan kiểm soát",
                   "score": 1.0
                 }
               ]
@@ -9494,7 +9494,7 @@
                     473
                   ],
                   "type": "text",
-                  "content": "Độ tin cậy lan truyền đa đường có thể được tính bằng bất kỳ phương pháp nào sau đây:",
+                  "content": "Độ tin cậy truyền đa đường có thể được tính bằng bất kỳ phương pháp nào sau đây",
                   "score": 1.0
                 }
               ]
@@ -9561,7 +9561,7 @@
                         514
                       ],
                       "type": "text",
-                      "content": "trên bất kỳ đoạn nào của hồ sơ tham chiếu đến mực nước biển hoặc đến một hình vuông nhỏ nhất phù hợp với địa hình.",
+                      "content": "trên bất kỳ đoạn nào của hồ sơ tham chiếu đến mực nước biển hoặc đến một bình phương nhỏ nhất phù hợp với địa hình",
                       "score": 1.0
                     }
                   ]
@@ -9617,7 +9617,7 @@
                         545
                       ],
                       "type": "text",
-                      "content": "tính bằng cách xác định mặt phẳng phản xạ chi phối trên mặt cắt)",
+                      "content": "được tính bằng cách xác định mặt phẳng phản xạ chi phối trên mặt cắt",
                       "score": 1.0
                     }
                   ]
@@ -9781,7 +9781,7 @@
                     631
                   ],
                   "type": "text",
-                  "content": "Độ tin cậy truyền có thể được thể hiện là sẵn có hoặc không có sẵn bằng cách sử dụng các quy ước sau.",
+                  "content": "Độ tin cậy truyền có thể được biểu thị là sẵn có hoặc không có sẵn bằng cách sử dụng các quy ước sau đây",
                   "score": 1.0
                 }
               ]
@@ -9827,7 +9827,7 @@
                         657
                       ],
                       "type": "text",
-                      "content": "Tổng thời gian dưới mức quy định trong tháng và năm tồi tệ nhất.",
+                      "content": "Tổng thời gian dưới mức quy định cho tháng và năm tồi tệ nhất",
                       "score": 1.0
                     }
                   ]
@@ -10199,7 +10199,7 @@
                     172
                   ],
                   "type": "text",
-                  "content": "% bán kính vùng Fresnel đầu tiên. Tham số còn lại sẽ được tính trên toàn bộ đường dẫn.",
+                  "content": "% bán kính vùng Fresnel đầu tiên. Tham số còn lại sẽ được tính trên toàn bộ đường dẫn",
                   "score": 1.0
                 }
               ]
@@ -10268,7 +10268,7 @@
                     217
                   ],
                   "type": "text",
-                  "content": "Thông quan có thể được hiển thị tại bất kỳ điểm nào chi tiết các đóng góp của các tiêu chí thông quan kiểm soát.",
+                  "content": "Thông quan có thể được hiển thị tại bất kỳ điểm nào chi tiết đóng góp của các tiêu chí thông quan kiểm soát",
                   "score": 1.0
                 }
               ]
@@ -10649,7 +10649,7 @@
                     473
                   ],
                   "type": "text",
-                  "content": "Độ tin cậy lan truyền đa đường có thể được tính bằng bất kỳ phương pháp nào sau đây:",
+                  "content": "Độ tin cậy truyền đa đường có thể được tính bằng bất kỳ phương pháp nào sau đây",
                   "score": 1.0
                 }
               ]
@@ -10716,7 +10716,7 @@
                         514
                       ],
                       "type": "text",
-                      "content": "trên bất kỳ đoạn nào của hồ sơ tham chiếu đến mực nước biển hoặc đến một hình vuông nhỏ nhất phù hợp với địa hình.",
+                      "content": "trên bất kỳ đoạn nào của hồ sơ tham chiếu đến mực nước biển hoặc đến một bình phương nhỏ nhất phù hợp với địa hình",
                       "score": 1.0
                     }
                   ]
@@ -10772,7 +10772,7 @@
                         545
                       ],
                       "type": "text",
-                      "content": "tính bằng cách xác định mặt phẳng phản xạ chi phối trên mặt cắt)",
+                      "content": "được tính bằng cách xác định mặt phẳng phản xạ chi phối trên mặt cắt",
                       "score": 1.0
                     }
                   ]
@@ -10936,7 +10936,7 @@
                     631
                   ],
                   "type": "text",
-                  "content": "Độ tin cậy truyền có thể được thể hiện là sẵn có hoặc không có sẵn bằng cách sử dụng các quy ước sau.",
+                  "content": "Độ tin cậy truyền có thể được biểu thị là sẵn có hoặc không có sẵn bằng cách sử dụng các quy ước sau đây",
                   "score": 1.0
                 }
               ]
@@ -10982,7 +10982,7 @@
                         657
                       ],
                       "type": "text",
-                      "content": "Tổng thời gian dưới mức quy định trong tháng và năm tồi tệ nhất.",
+                      "content": "Tổng thời gian dưới mức quy định cho tháng và năm tồi tệ nhất",
                       "score": 1.0
                     }
                   ]
@@ -11308,7 +11308,7 @@
                         174
                       ],
                       "type": "text",
-                      "content": "Đa dạng lai - một hệ thống đa dạng tần số được trang bị với sự đa dạng không gian ở một đầu.",
+                      "content": "Đa dạng lai - một hệ thống đa dạng tần số được trang bị đa dạng không gian ở một đầu",
                       "score": 1.0
                     }
                   ]
@@ -11888,7 +11888,7 @@
                     502
                   ],
                   "type": "text",
-                  "content": "có thể được nhập từ các tệp dữ liệu ăng-ten và radio vào bảng tra cứu hoặc trực tiếp vào bảng tính.",
+                  "content": "có thể được nhập từ tập tin dữ liệu ăng-ten và radio vào bảng tra cứu hoặc trực tiếp vào bảng làm việc",
                   "score": 1.0
                 }
               ]
@@ -11978,7 +11978,7 @@
                     572
                   ],
                   "type": "text",
-                  "content": "Định dạng nhập dữ liệu được thiết kế riêng cho các thông số kỹ thuật thiết bị điển hình được sử dụng trong các ứng dụng này.",
+                  "content": "định dạng nhập dữ liệu được thiết kế riêng cho các thông số kỹ thuật thiết bị điển hình được sử dụng trong các ứng dụng này",
                   "score": 1.0
                 }
               ]
@@ -12132,7 +12132,7 @@
                     689
                   ],
                   "type": "text",
-                  "content": "sử dụng các tập tin dữ liệu ăng-ten. Tính năng mẫu cũng được triển khai để thuận tiện cho việc nhập dữ liệu.",
+                  "content": "dùng tập tin dữ liệu ăng-ten. Tính năng mẫu cũng được triển khai để thuận tiện cho việc nhập dữ liệu",
                   "score": 1.0
                 }
               ]
@@ -12450,7 +12450,7 @@
                         174
                       ],
                       "type": "text",
-                      "content": "Đa dạng lai - một hệ thống đa dạng tần số được trang bị với sự đa dạng không gian ở một đầu.",
+                      "content": "Đa dạng lai - một hệ thống đa dạng tần số được trang bị đa dạng không gian ở một đầu",
                       "score": 1.0
                     }
                   ]
@@ -13030,7 +13030,7 @@
                     502
                   ],
                   "type": "text",
-                  "content": "có thể được nhập từ các tệp dữ liệu ăng-ten và radio vào bảng tra cứu hoặc trực tiếp vào bảng tính.",
+                  "content": "có thể được nhập từ tập tin dữ liệu ăng-ten và radio vào bảng tra cứu hoặc trực tiếp vào bảng làm việc",
                   "score": 1.0
                 }
               ]
@@ -13120,7 +13120,7 @@
                     572
                   ],
                   "type": "text",
-                  "content": "Định dạng nhập dữ liệu được thiết kế riêng cho các thông số kỹ thuật thiết bị điển hình được sử dụng trong các ứng dụng này.",
+                  "content": "định dạng nhập dữ liệu được thiết kế riêng cho các thông số kỹ thuật thiết bị điển hình được sử dụng trong các ứng dụng này",
                   "score": 1.0
                 }
               ]
@@ -13274,7 +13274,7 @@
                     689
                   ],
                   "type": "text",
-                  "content": "sử dụng các tập tin dữ liệu ăng-ten. Tính năng mẫu cũng được triển khai để thuận tiện cho việc nhập dữ liệu.",
+                  "content": "dùng tập tin dữ liệu ăng-ten. Tính năng mẫu cũng được triển khai để thuận tiện cho việc nhập dữ liệu",
                   "score": 1.0
                 }
               ]
@@ -13695,7 +13695,7 @@
                     358
                   ],
                   "type": "text",
-                  "content": "Một hàm của chiều cao.Các màn hình sử dụng một biểu diễn đất phẳng và các tia được vẽ như các đường cong.",
+                  "content": "Một hàm của chiều cao.Các màn hình sử dụng một biểu diễn trái đất phẳng và các tia được vẽ như các đường cong",
                   "score": 1.0
                 }
               ]
@@ -13832,7 +13832,7 @@
                     415
                   ],
                   "type": "text",
-                  "content": "Mô-đun đa đường. Hồ sơ có thể được hiển thị ở hầu hết mọi định dạng.",
+                  "content": "mô-đun đaath. Hồ sơ có thể được hiển thị theo hầu hết mọi định dạng",
                   "score": 1.0
                 }
               ]
@@ -13922,7 +13922,7 @@
                     490
                   ],
                   "type": "text",
-                  "content": "Tín hiệu nhận được tính như là một hàm của bất kỳ biến nào sau đây:",
+                  "content": "Tín hiệu nhận được tính như là một hàm của bất kỳ biến sau",
                   "score": 1.0
                 }
               ]
@@ -15008,7 +15008,7 @@
                     358
                   ],
                   "type": "text",
-                  "content": "Một hàm của chiều cao.Các màn hình sử dụng một biểu diễn đất phẳng và các tia được vẽ như các đường cong.",
+                  "content": "Một hàm của chiều cao.Các màn hình sử dụng một biểu diễn trái đất phẳng và các tia được vẽ như các đường cong",
                   "score": 1.0
                 }
               ]
@@ -15145,7 +15145,7 @@
                     415
                   ],
                   "type": "text",
-                  "content": "Mô-đun đa đường. Hồ sơ có thể được hiển thị ở hầu hết mọi định dạng.",
+                  "content": "mô-đun đaath. Hồ sơ có thể được hiển thị theo hầu hết mọi định dạng",
                   "score": 1.0
                 }
               ]
@@ -15235,7 +15235,7 @@
                     490
                   ],
                   "type": "text",
-                  "content": "Tín hiệu nhận được tính như là một hàm của bất kỳ biến nào sau đây:",
+                  "content": "Tín hiệu nhận được tính như là một hàm của bất kỳ biến sau",
                   "score": 1.0
                 }
               ]
@@ -15832,7 +15832,7 @@
                     99
                   ],
                   "type": "text",
-                  "content": "phân biệt được tự động phân tích thành kết quả bằng cách sử dụng 3 dB chiều rộng chùm.",
+                  "content": "phân biệt đối xử được tự động phân tích thành kết quả sử dụng 3 dB chiều rộng chùm",
                   "score": 1.0
                 }
               ]
@@ -15867,7 +15867,7 @@
                     130
                   ],
                   "type": "text",
-                  "content": "Một bảng tính phân tán cho thấy sự phân chia biên độ tương đối và độ trễ của tín hiệu phản xạ.",
+                  "content": "Một bảng tính phân tán cho thấy sự cố biên độ tương đối và độ trễ của tín hiệu phản xạ",
                   "score": 1.0
                 }
               ]
@@ -16708,7 +16708,7 @@
                         557
                       ],
                       "type": "text",
-                      "content": "một loạt các chướng ngại vật bị cô lập được xác định bởi các giao điểm của vùng Fresnel 60% với địa hình.",
+                      "content": "một loạt các chướng ngại vật bị cô lập được xác định bởi các giao điểm của vùng Fresnel 60% với địa hình",
                       "score": 1.0
                     }
                   ]
@@ -17033,7 +17033,7 @@
                         728
                       ],
                       "type": "text",
-                      "content": "Xác định tổn thất từ điểm phản xạ đến một trong hai vị trí.",
+                      "content": "xác định tổn thất từ một điểm phản xạ tới một trong hai vị trí",
                       "score": 1.0
                     }
                   ]
@@ -17182,7 +17182,7 @@
                     99
                   ],
                   "type": "text",
-                  "content": "phân biệt được tự động phân tích thành kết quả bằng cách sử dụng 3 dB chiều rộng chùm.",
+                  "content": "phân biệt đối xử được tự động phân tích thành kết quả sử dụng 3 dB chiều rộng chùm",
                   "score": 1.0
                 }
               ]
@@ -17217,7 +17217,7 @@
                     130
                   ],
                   "type": "text",
-                  "content": "Một bảng tính phân tán cho thấy sự phân chia biên độ tương đối và độ trễ của tín hiệu phản xạ.",
+                  "content": "Một bảng tính phân tán cho thấy sự cố biên độ tương đối và độ trễ của tín hiệu phản xạ",
                   "score": 1.0
                 }
               ]
@@ -18058,7 +18058,7 @@
                         557
                       ],
                       "type": "text",
-                      "content": "một loạt các chướng ngại vật bị cô lập được xác định bởi các giao điểm của vùng Fresnel 60% với địa hình.",
+                      "content": "một loạt các chướng ngại vật bị cô lập được xác định bởi các giao điểm của vùng Fresnel 60% với địa hình",
                       "score": 1.0
                     }
                   ]
@@ -18383,7 +18383,7 @@
                         728
                       ],
                       "type": "text",
-                      "content": "Xác định tổn thất từ điểm phản xạ đến một trong hai vị trí.",
+                      "content": "xác định tổn thất từ một điểm phản xạ tới một trong hai vị trí",
                       "score": 1.0
                     }
                   ]
@@ -18660,7 +18660,7 @@
                     258
                   ],
                   "type": "text",
-                  "content": "Tổn thất nhiễu xạ có thể được tính như là một hàm của bất kỳ tham số nào sau đây:",
+                  "content": "Tổn thất nhiễu xạ có thể được tính như là một hàm của bất kỳ tham số nào sau đây",
                   "score": 1.0
                 }
               ]
@@ -19892,7 +19892,7 @@
                     258
                   ],
                   "type": "text",
-                  "content": "Tổn thất nhiễu xạ có thể được tính như là một hàm của bất kỳ tham số nào sau đây:",
+                  "content": "Tổn thất nhiễu xạ có thể được tính như là một hàm của bất kỳ tham số nào sau đây",
                   "score": 1.0
                 }
               ]
@@ -21206,7 +21206,7 @@
                     373
                   ],
                   "type": "text",
-                  "content": "Một khối tiêu đề tùy chọn có thể được bao gồm cho thông tin cụ thể của dự án.",
+                  "content": "Có thể bao gồm một khối tiêu đề tùy chọn cho thông tin cụ thể của dự án",
                   "score": 1.0
                 }
               ]
@@ -22388,7 +22388,7 @@
                     373
                   ],
                   "type": "text",
-                  "content": "Một khối tiêu đề tùy chọn có thể được bao gồm cho thông tin cụ thể của dự án.",
+                  "content": "Có thể bao gồm một khối tiêu đề tùy chọn cho thông tin cụ thể của dự án",
                   "score": 1.0
                 }
               ]
@@ -23402,7 +23402,7 @@
                     344
                   ],
                   "type": "text",
-                  "content": "chống lại tính chọn lọc nhận. Nếu không có sẵn, mặt nạ mặc định sẽ được dùng.",
+                  "content": "chống lại tính chọn lọc nhận. Nếu không có sẵn, mặt nạ mặc định sẽ được dùng",
                   "score": 1.0
                 }
               ]
@@ -23590,7 +23590,7 @@
                     472
                   ],
                   "type": "text",
-                  "content": "Các tệp dữ liệu radio và ăng-ten được sử dụng trong tính toán có thể được hiển thị.",
+                  "content": "Tập tin dữ liệu radio và ăng-ten dùng trong tính toán có thể được hiển thị",
                   "score": 1.0
                 }
               ]
@@ -23770,7 +23770,7 @@
                     586
                   ],
                   "type": "text",
-                  "content": "Quy ước đặt tên ID kênh được sử dụng làm tiêu chí vi phạm.",
+                  "content": "kHz. Quy ước đặt tên ID kênh được sử dụng làm tiêu chí vi phạm",
                   "score": 1.0
                 }
               ]
@@ -24487,7 +24487,7 @@
                     344
                   ],
                   "type": "text",
-                  "content": "chống lại tính chọn lọc nhận. Nếu không có sẵn, mặt nạ mặc định sẽ được dùng.",
+                  "content": "chống lại tính chọn lọc nhận. Nếu không có sẵn, mặt nạ mặc định sẽ được dùng",
                   "score": 1.0
                 }
               ]
@@ -24675,7 +24675,7 @@
                     472
                   ],
                   "type": "text",
-                  "content": "Các tệp dữ liệu radio và ăng-ten được sử dụng trong tính toán có thể được hiển thị.",
+                  "content": "Tập tin dữ liệu radio và ăng-ten dùng trong tính toán có thể được hiển thị",
                   "score": 1.0
                 }
               ]
@@ -24855,7 +24855,7 @@
                     586
                   ],
                   "type": "text",
-                  "content": "Quy ước đặt tên ID kênh được sử dụng làm tiêu chí vi phạm.",
+                  "content": "kHz. Quy ước đặt tên ID kênh được sử dụng làm tiêu chí vi phạm",
                   "score": 1.0
                 }
               ]
@@ -25634,7 +25634,7 @@
                         372
                       ],
                       "type": "text",
-                      "content": "Yếu tố giảm nhiễu xạ so với tần số cho một điều chế giống như và khả năng can thiệp.",
+                      "content": "Yếu tố giảm nhiễu so với tần số cho một điều chế giống như và khả năng can thiệp",
                       "score": 1.0
                     }
                   ]
@@ -25937,7 +25937,7 @@
                     586
                   ],
                   "type": "text",
-                  "content": "Thiết bị thu kỹ thuật số có ngưỡng 10-6 BER bằng 1 dB. Ưu điểm của T-I là sự khác biệt về ngưỡng,",
+                  "content": "Thiết bị thu kỹ thuật số ngưỡng 10-6 BER bằng 1 dB. Ưu điểm của T-I là sự khác biệt về ngưỡng",
                   "score": 1.0
                 }
               ]
@@ -25958,7 +25958,7 @@
                     601
                   ],
                   "type": "text",
-                  "content": "do tốc độ bit, kỹ thuật điều chế và thông số nhiễu, tất cả đều được tính đến.",
+                  "content": "do tốc độ bit, kỹ thuật điều chế và con số nhiễu, tất cả đều được tính đến",
                   "score": 1.0
                 }
               ]
@@ -26810,7 +26810,7 @@
                         372
                       ],
                       "type": "text",
-                      "content": "Yếu tố giảm nhiễu xạ so với tần số cho một điều chế giống như và khả năng can thiệp.",
+                      "content": "Yếu tố giảm nhiễu so với tần số cho một điều chế giống như và khả năng can thiệp",
                       "score": 1.0
                     }
                   ]
@@ -27113,7 +27113,7 @@
                     586
                   ],
                   "type": "text",
-                  "content": "Thiết bị thu kỹ thuật số có ngưỡng 10-6 BER bằng 1 dB. Ưu điểm của T-I là sự khác biệt về ngưỡng,",
+                  "content": "Thiết bị thu kỹ thuật số ngưỡng 10-6 BER bằng 1 dB. Ưu điểm của T-I là sự khác biệt về ngưỡng",
                   "score": 1.0
                 }
               ]
@@ -27134,7 +27134,7 @@
                     601
                   ],
                   "type": "text",
-                  "content": "do tốc độ bit, kỹ thuật điều chế và thông số nhiễu, tất cả đều được tính đến.",
+                  "content": "do tốc độ bit, kỹ thuật điều chế và con số nhiễu, tất cả đều được tính đến",
                   "score": 1.0
                 }
               ]
@@ -27452,7 +27452,7 @@
                     172
                   ],
                   "type": "text",
-                  "content": "Không giống như các mẫu ăng ten vi sóng là các mẫu bao, các mẫu cho VHF-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-",
+                  "content": "( 1) Các mẫu của ăng-ten vi sóng. Không giống như các mẫu của ăng-ten vi sóng là các mẫu bao, các mẫu của VHF",
                   "score": 1.0
                 }
               ]
@@ -27856,7 +27856,7 @@
                     458
                   ],
                   "type": "text",
-                  "content": "báo cáo về việc sử dụng tập tin chính và phụ trên hồ sơ.",
+                  "content": "báo cáo về cách sử dụng tập tin chính và phụ trên hồ sơ",
                   "score": 1.0
                 }
               ]
@@ -28711,7 +28711,7 @@
                     172
                   ],
                   "type": "text",
-                  "content": "Không giống như các mẫu ăng ten vi sóng là các mẫu bao, các mẫu cho VHF-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-1000-",
+                  "content": "( 1) Các mẫu của ăng-ten vi sóng. Không giống như các mẫu của ăng-ten vi sóng là các mẫu bao, các mẫu của VHF",
                   "score": 1.0
                 }
               ]
@@ -29115,7 +29115,7 @@
                     458
                   ],
                   "type": "text",
-                  "content": "báo cáo về việc sử dụng tập tin chính và phụ trên hồ sơ.",
+                  "content": "báo cáo về cách sử dụng tập tin chính và phụ trên hồ sơ",
                   "score": 1.0
                 }
               ]
@@ -30156,7 +30156,7 @@
                     343
                   ],
                   "type": "text",
-                  "content": "1: 250.000 DEMS. Chương trình Pathloss đọc dữ liệu đã nén trực tiếp.",
+                  "content": "1: 250.000 DEMS. Chương trình Pathloss đọc dữ liệu đã nén trực tiếp",
                   "score": 1.0
                 }
               ]
@@ -30399,7 +30399,7 @@
                     530
                   ],
                   "type": "text",
-                  "content": "tập tin ASCII bên ngoài và có thể được chỉnh sửa bởi người dùng.",
+                  "content": "tập tin ASCII bên ngoài và có thể được chỉnh sửa bởi người dùng",
                   "score": 1.0
                 }
               ]
@@ -30489,7 +30489,7 @@
                     604
                   ],
                   "type": "text",
-                  "content": "lý thuyết. Tất cả các công thức và tham chiếu được dùng trong chương trình được đưa ra.",
+                  "content": "lý thuyết. Tất cả các công thức và tham chiếu được dùng trong chương trình được đưa ra",
                   "score": 1.0
                 }
               ]
@@ -30524,7 +30524,7 @@
                     633
                   ],
                   "type": "text",
-                  "content": "Tài liệu không được dự định như là một mồi cho thiết kế đường dẫn vô tuyến.",
+                  "content": "Tài liệu không được dự định như là một mồi cho thiết kế đường dẫn vô tuyến",
                   "score": 1.0
                 }
               ]
@@ -31068,7 +31068,7 @@
                     343
                   ],
                   "type": "text",
-                  "content": "1: 250.000 DEMS. Chương trình Pathloss đọc dữ liệu đã nén trực tiếp.",
+                  "content": "1: 250.000 DEMS. Chương trình Pathloss đọc dữ liệu đã nén trực tiếp",
                   "score": 1.0
                 }
               ]
@@ -31311,7 +31311,7 @@
                     530
                   ],
                   "type": "text",
-                  "content": "tập tin ASCII bên ngoài và có thể được chỉnh sửa bởi người dùng.",
+                  "content": "tập tin ASCII bên ngoài và có thể được chỉnh sửa bởi người dùng",
                   "score": 1.0
                 }
               ]
@@ -31401,7 +31401,7 @@
                     604
                   ],
                   "type": "text",
-                  "content": "lý thuyết. Tất cả các công thức và tham chiếu được dùng trong chương trình được đưa ra.",
+                  "content": "lý thuyết. Tất cả các công thức và tham chiếu được dùng trong chương trình được đưa ra",
                   "score": 1.0
                 }
               ]
@@ -31436,7 +31436,7 @@
                     633
                   ],
                   "type": "text",
-                  "content": "Tài liệu không được dự định như là một mồi cho thiết kế đường dẫn vô tuyến.",
+                  "content": "Tài liệu không được dự định như là một mồi cho thiết kế đường dẫn vô tuyến",
                   "score": 1.0
                 }
               ]

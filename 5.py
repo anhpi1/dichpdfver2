@@ -55,8 +55,10 @@ def fit_font_size(text, box_w, box_h, min_font=5, max_lh=2.0, cap=None, newlines
         if lh < 1.0:
             continue
         if lh > max_lh:
-            # Cap forces small font in tall box → compact lh, no stretching
-            if cap is not None and f == max_font:
+            # Cap active: clamp to max_lh instead of rejecting
+            # Covers: max_font in tall box, and tight-fit cases where lh
+            # would be > 2.0 for ALL fonts between cap and min_font
+            if cap is not None:
                 return (f, max_lh)
             continue
         if lh * needed * f > box_h:

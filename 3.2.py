@@ -44,6 +44,7 @@ for folder in folders:
 
     for line in tqdm(lines, desc=f"  [{folder}]", unit="line"):
         line_stripped = line.strip()
+        line_stripped = re.sub(r'[^a-zA-Z0-9\s]+$', '', line_stripped)
         if line_stripped and re.search(r"[a-zA-Z]", line_stripped):
             try:
                 inputs = ["en: " + line_stripped]
