@@ -10,7 +10,7 @@ from html import escape
 from statistics import NormalDist
 from collections import Counter
 
-DEBUG = True  # Toggle: colored borders + type labels on each block
+DEBUG = False  # Toggle: colored borders + type labels on each block
 
 BLOCK_COLORS = {
     "title": "#e74c3c",  # red
